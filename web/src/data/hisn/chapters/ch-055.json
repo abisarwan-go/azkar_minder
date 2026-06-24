@@ -1,0 +1,76 @@
+{
+  "chapterNumber": 55,
+  "slug": "for-the-deceased-at-the-funeral-prayer",
+  "title": {
+    "arabic": "الدعاء للميت في الصلاة عليه",
+    "translations": {
+      "en": "For the deceased at the funeral prayer"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_156",
+      "itemNumber": 1,
+      "hisnNumber": 156,
+      "hisnReference": "Hisn al-Muslim 156",
+      "url": "https://sunnah.com/hisn:156",
+      "text": {
+        "arabic": "اللهُـمِّ اغْفِـرْ لَهُ وَارْحَمْـه ،\nوَعافِهِ وَاعْفُ عَنْـه ،\nوَأَكْـرِمْ نُزُلَـه ،\nوَوَسِّـعْ مُدْخَـلَه ،\nوَاغْسِلْـهُ بِالْمـاءِ وَالثَّـلْجِ وَالْبَـرَدْ ،\nوَنَقِّـهِ مِنَ الْخطـايا\nكَما نَـقّيْتَ الـثَّوْبَ الأَبْيَـضَ مِنَ الدَّنَـسْ ،\nوَأَبْـدِلْهُ داراً خَـيْراً مِنْ دارِه ،\nوَأَهْلاً خَـيْراً مِنْ أَهْلِـه ،\nوَزَوْجَـاً خَـيْراً مِنْ زَوْجِه ،\nوَأَدْخِـلْهُ الْجَـنَّة ،\nوَأَعِـذْهُ مِنْ عَذابِ القَـبْر [وَعَذابِ النّـار]",
+        "transliteration": "Allāhumma’ghfir lahu warḥamh,\nwa `āfihi, wa`fu `anh,\nwa akrim nuzulah,\nwa wassi` mudkhalah,\nwagh’silhu bi ‘lmā'i wath-thalji walbarad,\nwa naqqihi mina ‘l-khaṭāyā\nkamā naqqaytath-thawba ‘l-abyaḍa minad-danas,\nwa abdilhu dāran khayran min dārih,\nwa ahlan khayran min ahlih,\nwa zawjan khayran min zawjih,\nwa adkhilhu ‘l-jannah,\nwa a`idhhu min `adhābi ‘l-qabri [wa `adhābin-nār].",
+        "translations": {
+          "en": "O Allah, forgive him and have mercy on him,\nand give him strength and pardon him.\nBe generous to him,\nand cause his entrance to be wide,\nand wash him with water and snow and hail.\nCleanse him of his transgressions\nas white cloth is cleansed of stains.\nGive him an abode better than his home,\nand a family better than his family,\nand a wife better than his wife.\nTake him into Paradise,\nand protect him from the punishment of the grave [and from the punishment of Hell-fire]."
+        }
+      },
+      "reference": "Muslim 2/663.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_157",
+      "itemNumber": 2,
+      "hisnNumber": 157,
+      "hisnReference": "Hisn al-Muslim 157",
+      "url": "https://sunnah.com/hisn:157",
+      "text": {
+        "arabic": "اللهُـمِّ اغْفِـرْ لِحَيِّـنا وَمَيِّتِـنا،\nوَشـاهِدِنا وَغائِبِـنا ،\nوَصَغيـرِنا وَكَبيـرِنا ،\nوَذَكَـرِنا وَأُنْثـانا .\nاللهُـمِّ مَنْ أَحْيَيْـتَهُ مِنّا\nفَأَحْيِـهِ عَلى الإِسْلام ،\nوَمَنْ تَوَفَّـيْتَهُ مِنّا فَتَوَفَّـهُ عَلى الإِيـمان ،\nاللهُـمِّ لا تَحْـرِمْنـا أَجْـرَه ،\nوَلا تُضِـلَّنا بَعْـدَه",
+        "transliteration": "Allāhumma’ghfir liḥayyinā, wa mayyitinā,\nwa shāhidinā, wa ghā'ibinā,\nwa ṣaghīrinā wa kabīrinā,\nwa dhakarinā wa unthānā.\nAllāhumma man aḥyaytahu minnā\nfa aḥyihi `ala ‘l-Islām,\nwa man tawaffaytahu minnā\nfatawaffahu `alal-īmān,\nAllāhumma lā taḥrimnā ajrah\nwa lā tuḍillanā ba`dah.",
+        "translations": {
+          "en": "O Allah forgive our living and our dead,\nthose who are with us and those who are absent,\nour young and our old,\nour menfolk and our womenfolk.\nO Allah, whomever you give life from among us\ngive him life in Islam,\nand whomever you take away from us\ntake him away in Faith.\nO Allah, do not forbid us their reward\nand do not send us astray after them."
+        }
+      },
+      "reference": "Ibn Majah 1/480, Ahmad 2/368. See also Al-Albani, Sahih Ibn Majah 1/251.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_158",
+      "itemNumber": 3,
+      "hisnNumber": 158,
+      "hisnReference": "Hisn al-Muslim 158",
+      "url": "https://sunnah.com/hisn:158",
+      "text": {
+        "arabic": "اللهُـمِّ إِنَّ فُلانَ بْنَ فُلانٍ في ذِمَّـتِك ،\nوَحَبْـلِ جِـوارِك ،\nفَقِـهِ مِنْ فِتْـنَةِ الْقَـبْرِ وَعَذابِ النّـار ،\nوَأَنْتَ أَهْلُ الْوَفـاءِ وَالْـحَقِّ ،\nفَاغْفِـرْ لَهُ وَارْحَمْـهُ ،\nإِنَّكَ أَنْتَ الغَـفورُ الـرَّحيم",
+        "transliteration": "Allāhumma inna [name the person] fī dhimmatik,\nwa ḥabli jiwārik,\nfaqihi min fitnati ‘l-qabri wa `adhābin-nār,\nwa anta ahlu ‘l-wafā'i wa ‘l-ḥaqq.\nFaghfir lahu warḥamh\ninnaka anta ‘l-Ghafūrur-Raḥīm.",
+        "translations": {
+          "en": "O Allah, surely [name the person] is under Your protection,\nand in the rope of Your security,\nso save him from the trial of the grave and from the punishment of the Fire.\nYou fulfill promises and grant rights,\nso forgive him and have mercy on him.\nSurely You are Most Forgiving, Most Merciful."
+        }
+      },
+      "reference": "Ibn Majah, Abu Dawud 3/211. See also Al Albani, Sahih Ibn Majah 1/251.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_159",
+      "itemNumber": 4,
+      "hisnNumber": 159,
+      "hisnReference": "Hisn al-Muslim 159",
+      "url": "https://sunnah.com/hisn:159",
+      "text": {
+        "arabic": "اللهُـمِّ عَبْـدُكَ وَابْنُ أَمَـتِك،\nاحْتـاجَ إِلى رَحْمَـتِك،\nوَأَنْتَ غَنِـيٌّ عَنْ عَذابِـه،\nإِنْ كانَ مُحْـسِناً فَزِدْ في حَسَـناتِه،\nوَإِنْ كانَ مُسـيئاً فَتَـجاوَزْ عَنْـه",
+        "transliteration": "Allāhumma `abduka wabnu 'amatik\niḥtāja ilā raḥmatik,\nwa anta ghaniyyun `an `adhābih,\nin kāna muḥsinan fazid fī ḥasanātih,\nwa in kāna musī'an fatajāwaz `anh.",
+        "translations": {
+          "en": "O Allah, Your male slave and the child of Your female slave is in need of Your mercy,\nand You are not in need of his torment.\nIf he was pious then increase his rewards\nand if he was a transgressor then pardon him."
+        }
+      },
+      "reference": "Al-Hakim 1/359 who graded it authentic and Ath-Thahabi agreed with him. See\nalso Al-Albani, Ahkamul-Jana'iz, p. 125.",
+      "repetitions": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 72,
+  "slug": "to-one-who-intends-to-give-food-or-drink",
+  "title": {
+    "arabic": "الدعاء إذا أراد الطعام أو الشراب",
+    "translations": {
+      "en": "To one who intends to give food or drink"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_183",
+      "itemNumber": 1,
+      "hisnNumber": 183,
+      "hisnReference": "Hisn al-Muslim 183",
+      "url": "https://sunnah.com/hisn:183",
+      "text": {
+        "arabic": "اللّهُـمَّ أَطْعِمْ مَن أَطْعَمَني،\nوَاسْقِ مَن سقاني",
+        "transliteration": "Allāhumma aṭ`im man aṭ`amanī\nwasqi man saqānī.",
+        "translations": {
+          "en": "O Allah, feed the one who has fed me,\nand give drink to the one who has given me drink."
+        }
+      },
+      "reference": "Muslim 3/126.",
+      "repetitions": 1
+    }
+  ]
+}

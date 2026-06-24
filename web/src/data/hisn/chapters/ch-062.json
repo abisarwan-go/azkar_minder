@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 62,
+  "slug": "upon-hearing-thunder",
+  "title": {
+    "arabic": "دعاء الرعد",
+    "translations": {
+      "en": "Upon hearing thunder"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_168",
+      "itemNumber": 1,
+      "hisnNumber": 168,
+      "hisnReference": "Hisn al-Muslim 168",
+      "url": "https://sunnah.com/hisn:168",
+      "text": {
+        "arabic": "سُبْـحانَ الّذي يُسَبِّـحُ الـرَّعْدُ بِحَمْـدِهِ،\nوَالملائِكـةُ مِنْ خيـفَته",
+        "transliteration": "Subḥāna ‘l-ladhī yusabbiḥur-ra`du bi ḥamdihi\nwa ‘l-malā'ikatu min khīfatih.",
+        "translations": {
+          "en": "Glory is to Him Whom thunder and angels glorify due to fear of Him."
+        }
+      },
+      "reference": "Whenever Abdullah bin Zubair (RA) would hear thunder, he would abandon all\nconversation and say this supplication. See Al-Muwatta' 2/992. It was\ngraded authentic by Al-Albani as a statement of Abdullah bin Zubayr only.",
+      "repetitions": 1
+    }
+  ]
+}

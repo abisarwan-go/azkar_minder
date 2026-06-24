@@ -1,0 +1,124 @@
+{
+  "chapterNumber": 19,
+  "slug": "while-prostrating",
+  "title": {
+    "arabic": "دعاء السجود",
+    "translations": {
+      "en": "While prostrating"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_041",
+      "itemNumber": 1,
+      "hisnNumber": 41,
+      "hisnReference": "Hisn al-Muslim 41",
+      "url": "https://sunnah.com/hisn:41",
+      "text": {
+        "arabic": "سُبْـحانَ رَبِّـيَ الأَعْلـى. (ثلاث مرات)",
+        "transliteration": "Subḥāna Rabbiya ‘l-a`lā.",
+        "translations": {
+          "en": "Glory is to my Lord, the Most High. (This is said three times in Arabic.)"
+        }
+      },
+      "reference": "Abu Dawud, Ibn Majah, An-Nasa'i, At-Tirmidhi, and Ahmad. See also\nAl-Albani, Sahih At-Tirmidhi 1/83.",
+      "repetitions": 3
+    },
+    {
+      "id": "hisn_042",
+      "itemNumber": 2,
+      "hisnNumber": 42,
+      "hisnReference": "Hisn al-Muslim 42",
+      "url": "https://sunnah.com/hisn:42",
+      "text": {
+        "arabic": "سُبْـحانَكَ اللّهُـمَّ رَبَّـنا وَبِحَـمْدِكَ ،\nاللّهُـمَّ اغْفِرْ لي",
+        "transliteration": "Subḥānaka Allāhumma Rabbanā wa biḥamdika\nAllāhumma ‘ghfir lī.",
+        "translations": {
+          "en": "Glory is to You, O Allah, our Lord, and praise is Yours.\nO Allah, forgive me."
+        }
+      },
+      "reference": "Al-Bukhari and Muslim, see invocation no. 34 above.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_043",
+      "itemNumber": 3,
+      "hisnNumber": 43,
+      "hisnReference": "Hisn al-Muslim 43",
+      "url": "https://sunnah.com/hisn:43",
+      "text": {
+        "arabic": "سُبـّوحٌ قُـدّوس، رَبُّ الملائِكَـةِ وَالـرُّوح",
+        "transliteration": "Subbūḥun, Quddūsun, Rabbu ‘l-malā'ikati warrūḥ.",
+        "translations": {
+          "en": "Glory (to You), Most Holy (are You), Lord of the angels and the Spirit."
+        }
+      },
+      "reference": "Muslim 1/533, see invocation no. 35 above.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_044",
+      "itemNumber": 4,
+      "hisnNumber": 44,
+      "hisnReference": "Hisn al-Muslim 44",
+      "url": "https://sunnah.com/hisn:44",
+      "text": {
+        "arabic": "اللّهُـمَّ لَكَ سَـجَدْتُ\nوَبِـكَ آمَنْـت ،\nوَلَكَ أَسْلَـمْت ،\nسَجَـدَ وَجْهـي للَّـذي خَلَقَـهُ وَصَـوَّرَهُ\nوَشَقَّ سَمْـعَـهُ وَبَصَـرَه ،\nتَبـارَكَ اللهُ أَحْسـنُ الخـالِقيـن",
+        "transliteration": "Allāhumma laka sajadtu\nwa bika āmantu,\nwa laka aslamtu,\nsajada waj’hiya lilladhī khalaqahu, wa ṣawwarahu,\nwa shaqqa sam`ahu wa baṣarahu,\ntabārakallāhu 'aḥsanul-khāliqīn.",
+        "translations": {
+          "en": "O Allah, to You I prostrate myself and in You I believe.\nTo You I have submitted.\nMy face is prostrated to the One Who created it, fashioned it, and gave it hearing and sight.\nBlessed is Allah, the Best of creators"
+        }
+      },
+      "reference": "Muslim 1/534 and others.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_045",
+      "itemNumber": 5,
+      "hisnNumber": 45,
+      "hisnReference": "Hisn al-Muslim 45",
+      "url": "https://sunnah.com/hisn:45",
+      "text": {
+        "arabic": "سُبْـحانَ ذي الْجَبَـروت، والمَلَكـوت، والكِبْـرِياء، وَالعَظَمَـةِ.",
+        "transliteration": "Subḥāna dhi ’l-jabarūti, wa ’l-malakūti, wa ‘l-kibriyā'i, wa ‘l-aẓamati.",
+        "translations": {
+          "en": "Glory is to the master of power, sovereignty, of majesty and greatness."
+        }
+      },
+      "reference": "Abu Dawud 1/230, An-Nasa'i, Ahmad. See also Al-Albani, Sahih Abu Dawud\n1/166, see invocation no. 37 above.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_046",
+      "itemNumber": 6,
+      "hisnNumber": 46,
+      "hisnReference": "Hisn al-Muslim 46",
+      "url": "https://sunnah.com/hisn:46",
+      "text": {
+        "arabic": "اللّهُـمَّ اغْفِـرْ لي ذَنْـبي كُلَّـه ،\nدِقَّـهُ وَجِلَّـه ،\nوَأَوَّلَـهُ وَآخِـرَه ،\nوَعَلانِيَّتَـهُ وَسِـرَّه",
+        "transliteration": "Allāhumma’ghfir lī dhanbī kullahu,\ndiqqahu wa jillahu,\nwa awwalahu wa ākhirahu\nwa `alāniyyatahu wa sirrahu.",
+        "translations": {
+          "en": "O Allah, forgive me all my sins,\ngreat and small,\nthe first and the last,\nthose that are apparent and those that are hidden."
+        }
+      },
+      "reference": "Muslim 1/350.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_047",
+      "itemNumber": 7,
+      "hisnNumber": 47,
+      "hisnReference": "Hisn al-Muslim 47",
+      "url": "https://sunnah.com/hisn:47",
+      "text": {
+        "arabic": "اللّهُـمَّ إِنِّـي أَعـوذُ بِرِضـاكَ مِنْ سَخَطِـك ، وَبِمعـافاتِـكَ مِنْ عُقوبَـتِك ،\nوَأَعـوذُ بِكَ مِنْـك ،\nلا أُحْصـي ثَنـاءً عَلَـيْك ،\nأَنْـتَ كَمـا أَثْنَـيْتَ عَلـى نَفْسـِك",
+        "transliteration": "Allāhumma innī a`ūdhu biriḍāka min sakhaṭika,\nwa bimu`āfātika min `uqūbatika\nwa a`ūdhu bika minka\nlā uḥṣī thanā'an `alayka\nanta kamā athnayta `alā nafsika.",
+        "translations": {
+          "en": "O Allah, I seek protection in Your pleasure from Your anger,\nand I seek protection in Your forgiveness from Your punishment.\nI seek protection in You from You.\nI cannot count Your praises.\nYou are as You have praised Yourself."
+        }
+      },
+      "reference": "Muslim 1/352.",
+      "repetitions": 1
+    }
+  ]
+}

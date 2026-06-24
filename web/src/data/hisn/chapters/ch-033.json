@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 33,
+  "slug": "immediately-after-salam-of-the-witr-prayer",
+  "title": {
+    "arabic": "الذكر عقب السلام من الوتر",
+    "translations": {
+      "en": "Immediately after salam of the witr prayer"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_119",
+      "itemNumber": 1,
+      "hisnNumber": 119,
+      "hisnReference": "Hisn al-Muslim 119",
+      "url": "https://sunnah.com/hisn:119",
+      "text": {
+        "arabic": "\"سبحان الملك القدوس\"\nثلاث مرات والثالثة يجهر بها ويمد بها صوته\n\"ربِّ الملائكةِ والرّوح\"",
+        "transliteration": "Subḥāna ‘l-Maliki ‘l-Quddūs.\n[Recite three times, and raise and extend the voice on the third time and say...]\nRabbi ‘l-Malā'ikati war-rūh.",
+        "translations": {
+          "en": "Glory is to the King, the Holy.\n[Recite three times in Arabic, and raise and extend the voice on the third time and say...]\nLord of the angels and the Spirit."
+        }
+      },
+      "reference": "An-Nasa'i 3/244, Ad-Daraqutni and others. The final addition is from\nAd-Daraqutni's version 2/ 31 and its chain of narration is authentic. See\nthe checking of Zadul-Ma'ad by Shu'aib Al-Arna'ut and 'Abdul-Qadir\nAl-Arna'ut 1/337.",
+      "repetitions": 3
+    }
+  ]
+}

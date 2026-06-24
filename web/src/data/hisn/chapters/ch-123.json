@@ -1,0 +1,27 @@
+{
+  "chapterNumber": 123,
+  "slug": "upon-receiving-pleasant-news",
+  "title": {
+    "arabic": "ما يفعل من أتاه أمر يسره",
+    "translations": {
+      "en": "Upon receiving pleasant news"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_242",
+      "itemNumber": 1,
+      "hisnNumber": 242,
+      "hisnReference": "Hisn al-Muslim 242",
+      "url": "https://sunnah.com/hisn:242",
+      "text": {
+        "arabic": "كَانَ النَّبيُّ صلى الله عليه وسلم إِذَا أَتَاهُ أَمْرٌ يَسُرُّهُ أَوْ يُسَرُّ بِهِ خَرَّ سَاجِداً شُكْراً لِلَّهِ تَبَارَكَ وَتَعَالَى",
+        "translations": {
+          "en": "The Prophet (ﷺ), upon receiving news which pleased him or which caused pleasure, would prostrate in gratitude to Allah blessed and exalted."
+        }
+      },
+      "reference": "Abu Dawud, Ibn Majah, At-Tirmidhi. See also Al-Albani, Sahih Ibn Majah\n1/233, and 'Irwa'ul-Ghalil 2/226.",
+      "repetitions": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 76,
+  "slug": "upon-seeing-the-early-or-premature-fruit",
+  "title": {
+    "arabic": "الدعاء عند رؤية باكورة الثمر",
+    "translations": {
+      "en": "Upon seeing the early or premature fruit"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_187",
+      "itemNumber": 1,
+      "hisnNumber": 187,
+      "hisnReference": "Hisn al-Muslim 187",
+      "url": "https://sunnah.com/hisn:187",
+      "text": {
+        "arabic": "اللّهُـمَّ بارِكْ لَنا في ثَمَـرِنا،\nوَبارِكْ لَنا في مَدينَتِنـا،\nوَبارِكْ لَنا في صاعِنـا،\nوَبارِكْ لَنا في مُدِّنا",
+        "transliteration": "Allahumma bārik lanā fī thamarinā,\nwa bārik lanā fī madīnatinā\nwa bārik lanā fī  ṣā`inā,\nwa bārik lanā fī muddinā.",
+        "translations": {
+          "en": "O Allah, bless us in our dates and bless us in our town,\nbless us in our Sa' and in our Mudd."
+        }
+      },
+      "reference": "Muslim 2/1000 (Sa' and Mudd are both dry measures used for agricultural\nproduce by the Arabs in the Prophet's time. Of the two, the So.' was the\nlarger measure.) (Translator)",
+      "repetitions": 1
+    }
+  ]
+}

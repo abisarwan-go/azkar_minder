@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 92,
+  "slug": "for-fear-of-shirk",
+  "title": {
+    "arabic": "دعاء الخوف من الشرك",
+    "translations": {
+      "en": "For fear of shirk"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_203",
+      "itemNumber": 1,
+      "hisnNumber": 203,
+      "hisnReference": "Hisn al-Muslim 203",
+      "url": "https://sunnah.com/hisn:203",
+      "text": {
+        "arabic": "اللّهُـمَّ إِنّـي أَعـوذُبِكَ أَنْ أُشْـرِكَ بِكَ وَأَنا أَعْـلَمْ،\nوَأَسْتَـغْفِرُكَ لِما لا أَعْـلَم",
+        "transliteration": "Allāhumma innī a`ūdhu bika an ushrika bika wa anā a`lam,\nwa astaghfiruka limā lā a`lam.",
+        "translations": {
+          "en": "O Allah, I seek refuge in You lest I associate anything with You knowingly,\nand I seek Your forgiveness for what I know not."
+        }
+      },
+      "reference": "Ahmad 4/403. See also Al-Albani, Sahihul-Jami' As-Saghir 3/233 and\nSahihut-Targhib wat- Tarhib 1/19.",
+      "repetitions": 1
+    }
+  ]
+}

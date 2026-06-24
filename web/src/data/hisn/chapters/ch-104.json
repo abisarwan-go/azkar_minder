@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 104,
+  "slug": "stopping-or-lodging-somewhere-in-travel-and-otherwise",
+  "title": {
+    "arabic": "الدعاء إذا نزل منزلا في سفر أو غيره",
+    "translations": {
+      "en": "Stopping or lodging somewhere in travel and otherwise"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_216",
+      "itemNumber": 1,
+      "hisnNumber": 216,
+      "hisnReference": "Hisn al-Muslim 216",
+      "url": "https://sunnah.com/hisn:216",
+      "text": {
+        "arabic": "أَعـوذُ بِكَلِـماتِ اللّهِ التّـامّاتِ مِنْ شَـرِّ ما خَلَـق",
+        "transliteration": "A`ūdhu bikalimāti ‘llāhit-tāmmāti min sharri mā khalaq.",
+        "translations": {
+          "en": "I seek refuge in the Perfect Words of Allah from the evil of what He has created."
+        }
+      },
+      "reference": "Muslim 4/2080.",
+      "repetitions": 1
+    }
+  ]
+}

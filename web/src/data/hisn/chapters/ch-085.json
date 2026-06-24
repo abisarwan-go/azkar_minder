@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 85,
+  "slug": "for-the-expiation-of-sins-said-at-the-conclusion-of-a-sitting-or-gathering",
+  "title": {
+    "arabic": "كفارة المجلس",
+    "translations": {
+      "en": "For the expiation of sins, said at the conclusion of a sitting or gathering"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_196",
+      "itemNumber": 1,
+      "hisnNumber": 196,
+      "hisnReference": "Hisn al-Muslim 196",
+      "url": "https://sunnah.com/hisn:196",
+      "text": {
+        "arabic": "سُبْحـانَكَ اللّهُـمَّ وَبِحَمدِك،\nأَشْهَـدُ أَنْ لا إِلهَ إِلاّ أَنْتَ\nأَسْتَغْفِرُكَ وَأَتوبُ إِلَـيْك",
+        "transliteration": "Subhānaka Allāhumma wa biḥamdik,\nash-hadu an lā ilāha illā ant,\nastaghfiruka wa atību ilayk.",
+        "translations": {
+          "en": "Glory is to You, O Allah, and praise is to You.\nI bear witness that there is none worthy of worship but You.\nI seek Your forgiveness and repent to You."
+        }
+      },
+      "reference": "Abu Dawud, Ibn Majah, At-Tirmidhi and An-Nasa'i. See also Al-Albani, Sahih\nAt-Tirmidhi 3/ 153. Aishah (RA) said: \"Allah's Messenger (ﷺ) did not sit\nin a gathering, and did not recite the Qur'an, and did not perform any\nprayer without concluding by saying ... (then she quoted the above).\" This\nwas reported by An-Nasa'i in 'Amalul-Yawm wal-Laylah (no.308), and Dr.\nFarooq Hamadah graded it authentic in his checking of the same book, p.\n273. See also Ahmad 6/77",
+      "repetitions": 1
+    }
+  ]
+}

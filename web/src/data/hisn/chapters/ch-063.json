@@ -1,0 +1,60 @@
+{
+  "chapterNumber": 63,
+  "slug": "for-rain",
+  "title": {
+    "arabic": "من أدعية الاستسقاء",
+    "translations": {
+      "en": "For rain"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_169",
+      "itemNumber": 1,
+      "hisnNumber": 169,
+      "hisnReference": "Hisn al-Muslim 169",
+      "url": "https://sunnah.com/hisn:169",
+      "text": {
+        "arabic": "اللّهُمَّ اسْقِـنا غَيْـثاً مُغيـثاً مَريئاً مُريـعاً،\nنافِعـاً غَيْـرَ ضار،\nعاجِـلاً غَـيْرَ آجِل",
+        "transliteration": "Allāhumma ‘asqinā ghaythan mughīthan marī'an murī`a,\nnāfi`an ghayra ḍārr,\n`ājilan ghayra ājil.",
+        "translations": {
+          "en": "O Allah, shower upon us abundant rain, beneficial not harmful, swiftly and not delayed."
+        }
+      },
+      "reference": "Abu Dawud 1/303. See also Al-Albani SahihAbu Dawud 1/216.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_170",
+      "itemNumber": 2,
+      "hisnNumber": 170,
+      "hisnReference": "Hisn al-Muslim 170",
+      "url": "https://sunnah.com/hisn:170",
+      "text": {
+        "arabic": "اللّهُمَّ أغِثْنـا،\nاللّهُمَّ أغِثْنـا،\nاللّهُمَّ أغِثْنـا",
+        "transliteration": "Allāhumma aghithnā,\nAllāhumma aghithnā,\nAllāhumma aghithnā.",
+        "translations": {
+          "en": "O Allah, send us rain.\nO Allah, send us rain.\nO Allah, send us rain."
+        }
+      },
+      "reference": "Al-Bukhari 1/224, Muslim 2/613.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_171",
+      "itemNumber": 3,
+      "hisnNumber": 171,
+      "hisnReference": "Hisn al-Muslim 171",
+      "url": "https://sunnah.com/hisn:171",
+      "text": {
+        "arabic": "اللّهُمَّ اسْقِ عِبادَكَ وَبَهـائِمَك،\nوَانْشُـرْ رَحْمَـتَكَ\nوَأَحْيِي بَلَـدَكَ المَيِّـت",
+        "transliteration": "Allāhumma’sqi `ibādaka wa bahā'imak,\nwanshur raḥmatak,\nwa aḥyi baladaka ‘l-mayyit",
+        "translations": {
+          "en": "O Allah, give water to Your slaves, and Your livestock,\nand spread Your mercy,\nand revive Your dead land."
+        }
+      },
+      "reference": "Abu Dawud 1/305. Al-Albani graded it good in Sahih Abu Dawud 1/218.",
+      "repetitions": 1
+    }
+  ]
+}

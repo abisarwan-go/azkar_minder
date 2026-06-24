@@ -1,0 +1,27 @@
+{
+  "chapterNumber": 111,
+  "slug": "upon-hearing-the-barking-of-dogs-at-night",
+  "title": {
+    "arabic": "دعاء عند سماع نباح الكلاب بالليل",
+    "translations": {
+      "en": "Upon hearing the barking of dogs at night"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_229",
+      "itemNumber": 1,
+      "hisnNumber": 229,
+      "hisnReference": "Hisn al-Muslim 229",
+      "url": "https://sunnah.com/hisn:229",
+      "text": {
+        "arabic": "إِذَا سَمِعْتُمْ نُبَاحَ الْكِلاَبِ وَنَهِيقَ الْحَمِيرِ بِاللَّيْلِ فَتَعَوَّذُوا بِاللَّهِ مِنْهُنَّ؛ فَإِنَّهُنَّ يَرَيْنَ مَا لاَ تَرَوْنَ",
+        "translations": {
+          "en": "When you hear a dog barking or a donkey braying in the night, then seek refuge in Allah from them, for surely they have seen what you see not."
+        }
+      },
+      "reference": "Abu Dawud 4/327, Ahmad 3/306. Al-Albani graded it authentic in Sahih Abu\nDawud 3/961.",
+      "repetitions": 1
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "chapterNumber": 108,
+  "slug": "excellence-of-spreading-the-islamic-greeting",
+  "title": {
+    "arabic": "إفشاء السلام",
+    "translations": {
+      "en": "Excellence of spreading the Islamic greeting"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_224",
+      "itemNumber": 1,
+      "hisnNumber": 224,
+      "hisnReference": "Hisn al-Muslim 224",
+      "url": "https://sunnah.com/hisn:224",
+      "text": {
+        "arabic": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: (لاَ تَدْخُلُوا الْجَنَّةَ حَتَّى تُؤْمِنُوا، وَلاَ تُؤْمِنُوا حَتَّى تَحَابُّوا، أَوَلاَ أَدُلُّكُم عَلَى شَيْءٍ إِذَا فَعَلْتُمُوهُ تَحَابَبْتُم، أَفْشُوا السَّلاَمَ بَيْنَكُمْ)",
+        "transliteration": "--",
+        "translations": {
+          "en": "The Prophet (ﷺ) said: \"You shall not enter Paradise until you believe, and you have not believed until you love one another. Shall I tell you of something you can do to make you love one another? Spread the greetings of Salam (peace) amongst yourselves (i.e. between each other)."
+        }
+      },
+      "reference": "Muslim 1/74 and others.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_225",
+      "itemNumber": 2,
+      "hisnNumber": 225,
+      "hisnReference": "Hisn al-Muslim 225",
+      "url": "https://sunnah.com/hisn:225",
+      "text": {
+        "arabic": "ثَلاَثٌ مَنْ جَمَعَهُنَّ فَقَدْ جَمَعَ الْإِيمَانَ: الْإِنْصَافُ مِنْ نَفْسِكَ، وَبَذْلُ السَّلاَمِ لِلْعَالَمِ، وَالْإِنْفَاقُ مِنَ الإِقْتَارِ",
+        "translations": {
+          "en": "Three characteristics, whoever combines them, has completed his faith: to be just, to spread greetings to all people and to spend (charitably) out of the little you have."
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 1/82 as a statement of the\nCompanion 'Ammar (RA).",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_226",
+      "itemNumber": 3,
+      "hisnNumber": 226,
+      "hisnReference": "Hisn al-Muslim 226",
+      "url": "https://sunnah.com/hisn:226",
+      "text": {
+        "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا: أنَّ رَجُلاً سَأَلَ النَّبِيَّ صلى الله عليه وسلم أيُّ الْإِسْلاَمِ خَيْرٌ قَالَ: (تُطْعِمُ الطَّعَامَ، وَتَقْرأُ السَّلاَمَ عَلَى مَنْ عَرَفْتَ وَمَنْ لَمْ تَعْرِفْ)",
+        "transliteration": "--",
+        "translations": {
+          "en": "`Abdullah bin `Umar (RA) said: A man asked the Prophet (ﷺ), \"What is the best act of Islam?\" He said, \"To feed others and to give greetings of Salam (peace) to those whom you know and to those whom you do not know. \""
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 1/55, Muslim 1/65.",
+      "repetitions": 1
+    }
+  ]
+}

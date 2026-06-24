@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 77,
+  "slug": "upon-sneezing",
+  "title": {
+    "arabic": "دعاء العطاس",
+    "translations": {
+      "en": "Upon sneezing"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_188",
+      "itemNumber": 1,
+      "hisnNumber": 188,
+      "hisnReference": "Hisn al-Muslim 188",
+      "url": "https://sunnah.com/hisn:188",
+      "text": {
+        "arabic": "إِذَا عَطَسَ أَحَدُكُم فَلْيَقُلِ (الْحَمْدُ لِلَّهِ)، وَلْيَقُلْ لَهُ أَخُوهُ أَوْ صَاحِبُهُ: (يَرْحَمُكَ اللَّهُ)، فَإِذَا قَالَ لَهُ: (يَرحَمُكَ اللَّهُ)، فَلْيَقُلْ: (يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ)",
+        "transliteration": "When you sneeze , then say :\nAlḥamdulillāh",
+        "translations": {
+          "en": "Your companion should say :\nYarḥamukallāh\n\nWhen someone says Yarḥamukallāh to you then you should say:\nYahdīkumu ‘llāhu wa yuṣliḥu bālakum.\n\nWhen you sneeze, then say:\nAll praises and thanks are to Allah.\n\nYour companion should say:\nMay Allah have mercy upon you.\n\nWhen someone says Yarḥamukallāh to you then you should say:\nMay Allah guide you and set your affairs in order."
+        }
+      },
+      "reference": "Al-Bukhari 7/125.",
+      "repetitions": 1
+    }
+  ]
+}

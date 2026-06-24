@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 112,
+  "slug": "for-one-you-have-insulted",
+  "title": {
+    "arabic": "الدعاء لمن سببته",
+    "translations": {
+      "en": "For one you have insulted"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_230",
+      "itemNumber": 1,
+      "hisnNumber": 230,
+      "hisnReference": "Hisn al-Muslim 230",
+      "url": "https://sunnah.com/hisn:230",
+      "text": {
+        "arabic": "قال صلى الله عليه وسلم: \"اللَّهُم فأيما مؤمن سببته فاجعل ذلك له قربة إليك يوم القيامة\"",
+        "transliteration": "Allāhumma fa'ayyumā mu'minin sababtuhu\nfaj`al dhālika lahu qurbatan ilayka yawma ‘l-qiyāmah.",
+        "translations": {
+          "en": "O Allah, whomever of the believers I have abused, give him the reward of a sacrificial slaughter for it on the Day of Resurrection."
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 11/171, Muslim 4/2007. The wording\nin Muslim's report is: 'make it a purification for him and a source of\nmercy.",
+      "repetitions": 1
+    }
+  ]
+}

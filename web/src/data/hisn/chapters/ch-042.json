@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 42,
+  "slug": "for-one-afflicted-by-whisperings-in-prayer-or-recitation",
+  "title": {
+    "arabic": "دعاء الوسوسة في الصلاة والقراءة",
+    "translations": {
+      "en": "For one afflicted by whisperings in prayer or recitation"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_138",
+      "itemNumber": 1,
+      "hisnNumber": 138,
+      "hisnReference": "Hisn al-Muslim 138",
+      "url": "https://sunnah.com/hisn:138",
+      "text": {
+        "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيطَانِ الرَّجِيمِ،\nوَاتْفُلْ عَلَى يَسَارِكَ (ثلاثاً)",
+        "transliteration": "A`ūdhu billāhi minash-shayṭānir-rajīm.",
+        "translations": {
+          "en": "(Say:) I seek refuge in Allah from Satan the outcast\n(then blow with a little spittle to your left).\n(Do this three times reciting in Arabic.)"
+        }
+      },
+      "reference": "Muslim 4/1729.",
+      "repetitions": 1
+    }
+  ]
+}

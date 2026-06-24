@@ -1,0 +1,44 @@
+{
+  "chapterNumber": 21,
+  "slug": "when-prostrating-due-to-recitation-of-the-quran",
+  "title": {
+    "arabic": "دعاء سجود التلاوة",
+    "translations": {
+      "en": "When prostrating due to recitation of the Quran"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_050",
+      "itemNumber": 1,
+      "hisnNumber": 50,
+      "hisnReference": "Hisn al-Muslim 50",
+      "url": "https://sunnah.com/hisn:50",
+      "text": {
+        "arabic": "سَجَـدَ وَجْهـي للَّـذي خَلَقَـهُ\nوَشَقَّ سَمْـعَـهُ وَبَصَـرَهُ بِحَـوْلِـهِ وَقُـوَّتِهِ\n﴿فتَبـارَكَ اللهُ أَحْسَـنُ الخـالِقيـن﴾.",
+        "transliteration": "Sajada wajhiya lilladhī khalaqahu,\nwa shaqqa sam`ahu wa baṣarahu biḥawlihi wa quwwatihi.\nFatabārakallāhu 'aḥsanul-khāliqīn.",
+        "translations": {
+          "en": "I have prostrated my face to the One Who created it,\nand gave it hearing and sight by His might and His power.\nGlory is to Allah, the Best of creators."
+        }
+      },
+      "reference": "At-Tirmidhi 2/474, Ahmad 6/30, and Al-Hakim",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_051",
+      "itemNumber": 2,
+      "hisnNumber": 51,
+      "hisnReference": "Hisn al-Muslim 51",
+      "url": "https://sunnah.com/hisn:51",
+      "text": {
+        "arabic": "اللّهُـمَّ اكْتُـبْ لي بِهـا عِنْـدَكَ أَجْـراً ،\nوَضَـعْ عَنِّـي بِهـا وِزْراً ،\nوَاجْعَـلها لي عِنْـدَكَ ذُخْـراً ،\nوَتَقَبَّـلها مِنِّي كَمَا تَقَبَّلْتَهَا مِنْ عَبْدِكَ دَاوُدَ.",
+        "transliteration": "Allāhummak’tub lī bihā `indaka ajra,\nwaḍa` `annī bihā wizra,\nwaj`alhā lī `indaka dhukhra,\nwa taqabbal’hā minnī kamā taqabbal’tahā min `abdika Dāwūd.",
+        "translations": {
+          "en": "O Allah, write it as a reward for me,\nand release me from a burden for it,\nand make it a treasure for me with You.\nAccept it from me as You accepted it from your servant Dawud."
+        }
+      },
+      "reference": "At-Tirmidhi 2/473, and Al-Hakim who graded it authentic and Ath-Thahabi\nagreed 1/219.",
+      "repetitions": 1
+    }
+  ]
+}

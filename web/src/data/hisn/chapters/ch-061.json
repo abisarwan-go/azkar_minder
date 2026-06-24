@@ -1,0 +1,44 @@
+{
+  "chapterNumber": 61,
+  "slug": "during-a-wind-storm",
+  "title": {
+    "arabic": "دعاء الريح",
+    "translations": {
+      "en": "During a wind storm"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_166",
+      "itemNumber": 1,
+      "hisnNumber": 166,
+      "hisnReference": "Hisn al-Muslim 166",
+      "url": "https://sunnah.com/hisn:166",
+      "text": {
+        "arabic": "اللّهُـمَّ إِنَّـي أَسْـأَلُـكَ خَيْـرَها،\nوَأَعـوذُ بِكَ مِنْ شَـرِّها",
+        "transliteration": "Allāhumma innī as'aluka khayrahā,\nwa a`ūdhu bika min sharrihā.",
+        "translations": {
+          "en": "O Allah, I ask You for the good of it,\nand seek refuge in You against its evil."
+        }
+      },
+      "reference": "Abu Dawud 4/326, Ibn Majah 2/1228. See also Al-Albani, Sahih Ibn Majah\n2/305.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_167",
+      "itemNumber": 2,
+      "hisnNumber": 167,
+      "hisnReference": "Hisn al-Muslim 167",
+      "url": "https://sunnah.com/hisn:167",
+      "text": {
+        "arabic": "اللّهُـمَّ إِنَّـي أَسْـأَلُـكَ خَيْـرَها،\nوَخَيْـرَ ما فيهـا،\nوَخَيْـرَ ما اُرْسِلَـتْ بِه،\nوَأَعـوذُ بِكَ مِنْ شَـرِّها،\nوَشَـرِّ ما فيهـا،\nوَشَـرِّ ما اُرْسِلَـتْ بِه",
+        "transliteration": "Allāhumma innī as'aluka khayrahā,\nwa khayra mā fīhā,\nwa khayra mā ursilat bih,\nwa a`ūdhu bika min sharrihā,\nwa sharri mā fīhā,\nwa sharri mā ursilat bih.",
+        "translations": {
+          "en": "O Allah, I ask You for the good of it,\nfor the good of what it contains,\nand for the good of what is sent with it.\nI seek refuge in You from the evil of it,\nfrom the evil of what it contains,\nand from the evil that is sent with it."
+        }
+      },
+      "reference": "Muslim 2/616, Al-Bukhari 4/76.",
+      "repetitions": 1
+    }
+  ]
+}

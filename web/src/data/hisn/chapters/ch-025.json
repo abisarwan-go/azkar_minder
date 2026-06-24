@@ -1,0 +1,140 @@
+{
+  "chapterNumber": 25,
+  "slug": "after-salam",
+  "title": {
+    "arabic": "الأذكار بعد السلام من الصلاة",
+    "translations": {
+      "en": "After salam"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_066",
+      "itemNumber": 1,
+      "hisnNumber": 66,
+      "hisnReference": "Hisn al-Muslim 66",
+      "url": "https://sunnah.com/hisn:66",
+      "text": {
+        "arabic": "أَسْـتَغْفِرُ الله (ثَلاثاً)\nاللّهُـمَّ أَنْـتَ السَّلامُ\nوَمِـنْكَ السَّلام\nتَبارَكْتَ يا ذا الجَـلالِ وَالإِكْـرام",
+        "transliteration": "Astaghfirullāh (three times)\nAllāhumma antas-salām,\nwa minkas-salām,\ntabārakta yā dhal-Jalāli wal-'Ikrām.",
+        "translations": {
+          "en": "I seek the forgiveness of Allah (three times).\nO Allah, You are Peace and from You comes peace.\nBlessed are You, O Owner of majesty and honor."
+        }
+      },
+      "reference": "Muslim 1/414.",
+      "repetitions": 3
+    },
+    {
+      "id": "hisn_067",
+      "itemNumber": 2,
+      "hisnNumber": 67,
+      "hisnReference": "Hisn al-Muslim 67",
+      "url": "https://sunnah.com/hisn:67",
+      "text": {
+        "arabic": "لا إلهَ إلاّ اللّهُ\nوحدَهُ لا شريكَ لهُ\nلهُ المُـلْكُ ولهُ الحَمْد\nوهوَ على كلّ شَيءٍ قَدير\nاللّهُـمَّ لا مانِعَ لِما أَعْطَـيْت\nوَلا مُعْطِـيَ لِما مَنَـعْت\nوَلا يَنْفَـعُ ذا الجَـدِّ مِنْـكَ الجَـد",
+        "transliteration": "Lā 'ilāha 'illallāh,\nwaḥdahu lā sharīka lah,\nlahu ‘l-mulku wa lahu ‘l-ḥamd,\nwa huwa `alā kulli shay'in qadīr,\nAllāhumma lā māni`a limā 'a`tayt,\nwa lā mu`tiya limā mana`t,\nwa lā yanfa`u dhal-jaddi minkal-jadd.",
+        "translations": {
+          "en": "None has the right to be worshipped but Allah alone,\nHe has no partner,\nHis is the dominion and His is the praise,\nand He is Able to do all things.\nO Allah, there is none who can withhold what You give,\nand none may give what You have withheld,\nand the might of the mighty person cannot benefit him against You."
+        }
+      },
+      "reference": "Al-Bukhari 1/255, Muslim 1/414.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_068",
+      "itemNumber": 3,
+      "hisnNumber": 68,
+      "hisnReference": "Hisn al-Muslim 68",
+      "url": "https://sunnah.com/hisn:68",
+      "text": {
+        "arabic": "لا إلهَ إلاّ اللّه\nوحدَهُ لا شريكَ لهُ\nلهُ الملكُ ولهُ الحَمد\nوهوَ على كلّ شيءٍ قدير\nلا حَـوْلَ وَلا قـوَّةَ إِلاّ بِاللهِ\nلا إلهَ إلاّ اللّـه\nوَلا نَعْـبُـدُ إِلاّ إيّـاه\nلَهُ النِّعْـمَةُ وَلَهُ الفَضْل\nوَلَهُ الثَّـناءُ الحَـسَن\nلا إلهَ إلاّ اللّهُ\nمخْلِصـينَ لَـهُ الدِّينَ\nوَلَوْ كَـرِهَ الكـافِرون",
+        "transliteration": "Lā 'ilāha 'illallāh,\nwaḥdahu lā sharīka lah,\nlahul-mulku, wa lahul-ḥamd,\nwa huwa `alā kulli shay'in qadīr.\nLā ḥawla wa lā quwwata 'illā billāh,\nlā 'ilāha 'illallāh,\nwa lā na`budu 'illā 'iyyāh,\nlahun-ni`matu wa lahul-faḍl,\nwa lahuth-thanā'ul-ḥasan,\nlā 'ilāha 'illallāh,\nmukhliṣīna lahud-dīn,\nwa law karihal-kāfirūn.",
+        "translations": {
+          "en": "None has the right to be worshipped but Allah alone,\nHe has no partner,\nHis is the dominion and His is the praise\nand He is Able to do all things.\nThere is no power and no might except by Allah.\nNone has the right to be worshipped but Allah,\nand we do not worship any other besides Him.\nHis is grace, and His is bounty,\nand to Him belongs the most excellent praise.\nNone has the right to be worshipped but Allah.\n(We are) sincere in making our religious devotion to Him,\neven though the disbelievers may dislike it."
+        }
+      },
+      "reference": "Muslim 1/415.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_069",
+      "itemNumber": 4,
+      "hisnNumber": 69,
+      "hisnReference": "Hisn al-Muslim 69",
+      "url": "https://sunnah.com/hisn:69",
+      "text": {
+        "arabic": "سُـبْحانَ اللهِ\nوالحَمْـدُ لله\nواللهُ أكْـبَر\n(ثلاثاً وثلاثين)\nلا إلهَ إلاّ اللّهُ\nوَحْـدَهُ لا شريكَ لهُ\nلهُ الملكُ ولهُ الحَمْد\nوهُوَ على كُلّ شَيءٍ قَـدير",
+        "transliteration": "Subḥānallāh,\nwalḥamdu lillāh,\nwallāhu 'akbar,\n(each said thirty-three times)\nLā 'ilāha 'illallāh\nwaḥdahu lā sharīka lahu,\nlahul-mulku wa lahul-ḥamd\nwa huwā`lā kulli shay'in qadīr.",
+        "translations": {
+          "en": "Glory is to Allah,\nand praise is to Allah,\nand Allah is the Most Great.\n(each said thirty-three times)\nNone has the right to be worshiped but Allah alone,\nHe has no partner,\nHis is the dominion and His is the praise\nand He is Able to do all things."
+        }
+      },
+      "reference": "Muslim 1/418, Whoever says this after every prayer will be forgiven his\nsins even though they be as the foam of the sea.",
+      "repetitions": 33
+    },
+    {
+      "id": "hisn_070",
+      "itemNumber": 5,
+      "hisnNumber": 70,
+      "hisnReference": "Hisn al-Muslim 70",
+      "url": "https://sunnah.com/hisn:70",
+      "text": {
+        "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ\n{قُلْ هُوَ اللَّهُ أَحَدٌ*\nاللَّهُ الصَّمَدُ*\nلَمْ يَلِدْ وَلَمْ يُولَدْ*\nوَلَمْ يَكُن لَّهُ كُفُواً أَحَدٌ}\nبِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ\n{قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ*\nمِن شَرِّ مَا خَلَقَ*\nوَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ*\nوَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ*\nوَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ}\nبِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ\n{قُلْ أَعُوذُ بِرَبِّ النَّاسِ*\nمَلِكِ النَّاسِ*\nإِلَهِ النَّاسِ*\nمِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ*\nالَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ*\nمِنَ الْجِنَّةِ وَالنَّاسِ}\nبَعْدَ كُلِّ صَلاَةٍ.",
+        "transliteration": "Bismillāhir-Raḥmānir-Raḥīm.\nQul huwallāhu aḥad.\nAllāhuṣ-ṣamad.\nLam yalid wa lam yūlad.\nWa lam yakun lahu kufuwan aḥad.",
+        "translations": {
+          "en": "Bismillāhir-Raḥmānir-Raḥīm.\nQul a`ūdhu birabbil-falaq.\nMin sharri mā khalaq.\nWa min sharri ghāsiqin idhā waqab.\nWa min sharrin-naffāthāti fil-`uqad.\nWa min sharri ḥāsidin idhā ḥasad.\n\nBismillāhir-Raḥmānir-Raḥīm.\nQul a`ūdhu birabbin-nās.\nMalikin-nās. 'Ilāhin-nās.\nMin sharri ‘l-waswāsil-khannās.\nAlladhī yuwaswisu fī ṣudūrin-nās.\nMinal-jinnati wannās.\n\n(Surahs 112 al-Ikhlas, 113 al-Falaq, and 114 an-Nas)\nThese Surahs should be recited in Arabic after each prayer. After the Maghrib and Fajr prayers, they should be recited three times each.\n\nWith the Name of Allah, the Most Gracious, the Most Merciful.\nSay: He is Allah (the) One.\nThe Self-Sufficient Master, Whom all creatures need,\nHe begets not nor was He begotten,\nand there is none equal to Him.\n\nWith the Name of Allah, the Most Gracious, the Most Merciful.\nSay: I seek refuge with (Allah) the Lord of the daybreak,\nfrom the evil of what He has created,\nand from the evil of the darkening (night) as it comes with its darkness,\nand from the evil of those who practice witchcraft when they blow in the knots,\nand from the evil of the envier when he envies.\n\nWith the Name of Allah, the Most Gracious, the Most Merciful.\nSay: I seek refuge with (Allah) the Lord of mankind,\nthe King of mankind,\nthe God of mankind,\nfrom the evil of the whisperer who withdraws,\nwho whispers in the breasts of mankind,\nof jinns and men."
+        }
+      },
+      "reference": "Abu Dawud 2/86, An-Nasa'i 3/68. See also Al-Albani, Sahih At-Tirmidhi 2/8.",
+      "repetitions": 3
+    },
+    {
+      "id": "hisn_071",
+      "itemNumber": 6,
+      "hisnNumber": 71,
+      "hisnReference": "Hisn al-Muslim 71",
+      "url": "https://sunnah.com/hisn:71",
+      "text": {
+        "arabic": "﴿اللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ\nلاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ\nلَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ\nمَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ\nيَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ\nوَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء\nوَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ\nوَلاَ يَؤُودُهُ حِفْظُهُمَا\nوَهُوَ الْعَلِيُّ الْعَظِيمُ﴾\nعقب كل صلاة",
+        "transliteration": "Allāhu lā ilāha illā huwa ‘l-Ḥayyul-Qayyūm,\nlā ta'khudhuhu sinatun wa lā nawm,\nlahu mā fis-samāwāti wa mā fil-ardh,\nman dhal-ladhī yashfa`u `indahu illā bi'idhnih,\nya`lamu mā bayna 'aydīhim wa mā khalfahum,\nwa lā yuḥītūna bishay'im-min `ilmihi illā bimā shā'a,\nwasi `a kursiyyuhus-samāwāti wal-ardh,\nwa lā ya'ūduhu hifẓuhumā,\nwa huwal-`Aliyyu ‘l-`Aẓīm.",
+        "translations": {
+          "en": "Allah! There is none worthy of worship but He, the Ever-Living, the One Who sustains and protects all that exists.\nNeither slumber nor sleep overtakes Him.\nTo Him belongs whatever is in the heavens and whatever is on the earth.\nWho is he that can intercede with Him except with His Permission?\nHe knows what happens to them in this world, and what will happen to them in the Hereafter.\nAnd they will never compass anything of His Knowledge except that which He wills.\nHis Throne extends over the heavens and the earth,\nand He feels no fatigue in guarding and preserving them.\nAnd He is the Most High, the Most Great. (Recite in Arabic after each prayer.)"
+        }
+      },
+      "reference": "An-Nasa'i, 'Amalul-Yawm wal-Laylah (Hadith no. 100), also Ibn As-Sunni (no.\n121). See also Al-Albani, Sahihul-Jami' As-Saghir 5/339 and\nSilsilatul-Ahadith As-Sahihah 2/697 (no. 972).",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_072",
+      "itemNumber": 7,
+      "hisnNumber": 72,
+      "hisnReference": "Hisn al-Muslim 72",
+      "url": "https://sunnah.com/hisn:72",
+      "text": {
+        "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ\nوَحْدَهُ لاَ شَرِيكَ لَهُ\nلَهُ الْمُلْكُ وَلَهُ الْحَمْدُ\nيُحْيِي وَيُمِيتُ\nوَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ\n(عَشْرَ مَرّاتٍ بَعْدَ صَلاةِ الْمَغْرِبِ وَالصُّبْحِ)",
+        "transliteration": "Lā ilāha illallāh\nwaḥdahu lā sharīka lah,\nlahu‘l-mulku wa lahu‘l-ḥamd\nyuḥyī wa yumīt\nwa huwa `alā kulli shay'in qadīr.",
+        "translations": {
+          "en": "(Recite ten times in Arabic after the Maghrib and Fajr prayers.)\n\nNone has the right to be worshipped but Allah alone, Who has no partner.\nHis is the dominion and His is the praise.\nHe brings life and He causes death,\nand He is Able to do all things."
+        }
+      },
+      "reference": "At-Tirmidhi 5/515, Ahmad 4/227. See its checking in Ibn Al-Qayyim\nAl-Jawziyyah's Zddul-Ma'ad 1/300.",
+      "repetitions": 10
+    },
+    {
+      "id": "hisn_073",
+      "itemNumber": 8,
+      "hisnNumber": 73,
+      "hisnReference": "Hisn al-Muslim 73",
+      "url": "https://sunnah.com/hisn:73",
+      "text": {
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نافِعاً\nوَرِزْقاً طَيِّباً وَعَمَلاً مُتَقَبَّلاً\n(بَعْدَ السّلامِ مِنْ صَلاَةِ الفَجْرِ)",
+        "transliteration": "Allāhumma innī as'aluka `ilman nāfi`an,\nwa rizqan ṭayyiban, wa `amalam-mutaqabbala.",
+        "translations": {
+          "en": "[to be said after giving salam for the Fajr prayer.]\n\n\"O Allah, I ask You for knowledge which is beneficial,\nand sustenance which is good, and deeds which are acceptable.\""
+        }
+      },
+      "reference": "Ibn Majah and others. See Sahih Ibn Majah 1/152 and Majma' Az-Zawa'id 10/111",
+      "repetitions": 1
+    }
+  ]
+}

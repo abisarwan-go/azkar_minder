@@ -1,0 +1,221 @@
+#!/usr/bin/env node
+import { readFileSync, writeFileSync, mkdirSync, rmSync } from "node:fs";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const WEB_ROOT = join(__dirname, "..");
+const SOURCE = join(WEB_ROOT, "data/source/hisn_al_muslim_full.json");
+const OUT = join(__dirname, "../src/data/hisn");
+const CHAPTERS_DIR = join(OUT, "chapters");
+
+const WORD_NUMBERS = {
+  one: 1,
+  two: 2,
+  three: 3,
+  four: 4,
+  five: 5,
+  six: 6,
+  seven: 7,
+  eight: 8,
+  nine: 9,
+  ten: 10,
+  eleven: 11,
+  twelve: 12,
+  thirteen: 13,
+  fourteen: 14,
+  fifteen: 15,
+  sixteen: 16,
+  seventeen: 17,
+  eighteen: 18,
+  nineteen: 19,
+  twenty: 20,
+  thirty: 30,
+  forty: 40,
+  fifty: 50,
+  sixty: 60,
+  seventy: 70,
+  eighty: 80,
+  ninety: 90,
+  hundred: 100,
+};
+
+function slugify(text) {
+  return text
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function parseWordNumber(word) {
+  if (!word) return null;
+  const lower = word.toLowerCase();
+  if (WORD_NUMBERS[lower] != null) return WORD_NUMBERS[lower];
+  const parts = lower.split("-");
+  if (parts.length === 2) {
+    const a = WORD_NUMBERS[parts[0]];
+    const b = WORD_NUMBERS[parts[1]];
+    if (a != null && b != null) return a + b;
+  }
+  return null;
+}
+
+function parseRepetitions(...texts) {
+  const combined = texts.filter(Boolean).join("\n").toLowerCase();
+  const patterns = [
+    /(?:recite|said|say|each said)\s+(\w+(?:-\w+)?)\s+times/g,
+    /\[(\w+(?:-\w+)?)\s+times\]/g,
+    /\((\w+(?:-\w+)?)\s+times[^)]*\)/g,
+    /(\w+(?:-\w+)?)\s+times\s+in\s+arabic/g,
+    /(\w+(?:-\w+)?)\s+times\s+each/g,
+    /(\d+)\s+times/g,
+  ];
+
+  let max = 1;
+  for (const pattern of patterns) {
+    for (const match of combined.matchAll(pattern)) {
+      const raw = match[1];
+      const n = /^\d+$/.test(raw) ? Number(raw) : parseWordNumber(raw);
+      if (n != null && n > 0) max = Math.max(max, n);
+    }
+  }
+  return max;
+}
+
+function buildTranslations(en, fr) {
+  const translations = {};
+  if (en) translations.en = en;
+  if (fr) translations.fr = fr;
+  return translations;
+}
+
+function main() {
+  const raw = JSON.parse(readFileSync(SOURCE, "utf8"));
+  const slugs = new Set();
+  const usedItemIds = new Set();
+  const chapterIndex = [];
+  const searchIndex = [];
+  const allItems = [];
+
+  rmSync(CHAPTERS_DIR, { recursive: true, force: true });
+  mkdirSync(CHAPTERS_DIR, { recursive: true });
+
+  for (const chapter of raw.chapters) {
+    const titleEn = chapter.title.english ?? `Chapter ${chapter.chapter_number}`;
+    let slug = slugify(titleEn);
+    if (!slug) slug = `chapter-${chapter.chapter_number}`;
+    let unique = slug;
+    let n = 2;
+    while (slugs.has(unique)) {
+      unique = `${slug}-${n++}`;
+    }
+    slug = unique;
+    slugs.add(slug);
+
+    const items = chapter.items.map((item) => {
+      let id = item.id;
+      if (usedItemIds.has(id)) {
+        id = `${item.id}_${item.item_number}`;
+      }
+      usedItemIds.add(id);
+
+      const hisnNumber = Number.parseInt(item.id.replace("hisn_", ""), 10);
+      const translationEn = item.text.translation_en ?? "";
+      const translationFr = item.text.translation_fr ?? null;
+      const repetitions = parseRepetitions(translationEn, item.reference);
+
+      const hisnItem = {
+        id,
+        itemNumber: item.item_number,
+        hisnNumber,
+        hisnReference: item.hisn_reference,
+        url: item.url,
+        text: {
+          arabic: item.text.arabic ?? "",
+          transliteration: item.text.transliteration ?? undefined,
+          translations: buildTranslations(translationEn, translationFr),
+        },
+        reference: item.reference ?? undefined,
+        repetitions,
+      };
+
+      allItems.push({ ...hisnItem, chapterSlug: slug });
+
+      searchIndex.push({
+        id,
+        chapterSlug: slug,
+        chapterNumber: chapter.chapter_number,
+        titleEn,
+        titleAr: chapter.title.arabic ?? "",
+        arabic: hisnItem.text.arabic,
+        translationEn,
+        transliteration: hisnItem.text.transliteration ?? "",
+      });
+
+      return hisnItem;
+    });
+
+    const outChapter = {
+      chapterNumber: chapter.chapter_number,
+      slug,
+      title: {
+        arabic: chapter.title.arabic ?? "",
+        translations: buildTranslations(titleEn, chapter.title.french),
+      },
+      items,
+    };
+
+    const fileName = `ch-${String(chapter.chapter_number).padStart(3, "0")}.json`;
+    writeFileSync(join(CHAPTERS_DIR, fileName), `${JSON.stringify(outChapter, null, 2)}\n`);
+
+    chapterIndex.push({
+      chapterNumber: chapter.chapter_number,
+      slug,
+      fileName: fileName.replace(".json", ""),
+      itemCount: items.length,
+      title: outChapter.title,
+    });
+  }
+
+  chapterIndex.sort((a, b) => a.chapterNumber - b.chapterNumber);
+
+  writeFileSync(
+    join(OUT, "chapter-index.ts"),
+    `// Generated by scripts/build-hisn.mjs — do not edit\nimport type { HisnChapterMeta } from "./types";\n\nexport const HISN_CHAPTER_INDEX: HisnChapterMeta[] = ${JSON.stringify(chapterIndex, null, 2)};\n`,
+  );
+
+  writeFileSync(join(OUT, "search-index.json"), `${JSON.stringify(searchIndex, null, 2)}\n`);
+
+  writeFileSync(
+    join(OUT, "items-by-id.ts"),
+    `// Generated by scripts/build-hisn.mjs — do not edit\nimport type { HisnItemRef } from "./types";\n\nexport const HISN_ITEMS_BY_ID: Record<string, HisnItemRef> = ${JSON.stringify(
+      Object.fromEntries(
+        allItems.map((item) => [
+          item.id,
+          {
+            chapterSlug: item.chapterSlug,
+            chapterNumber: chapterIndex.find((c) => c.slug === item.chapterSlug)?.chapterNumber,
+            item: {
+              id: item.id,
+              itemNumber: item.itemNumber,
+              hisnNumber: item.hisnNumber,
+              hisnReference: item.hisnReference,
+              url: item.url,
+              text: item.text,
+              reference: item.reference,
+              repetitions: item.repetitions,
+            },
+          },
+        ]),
+      ),
+      null,
+      2,
+    )};\n`,
+  );
+
+  console.log(`Built ${chapterIndex.length} chapters, ${allItems.length} items → ${OUT}`);
+}
+
+main();

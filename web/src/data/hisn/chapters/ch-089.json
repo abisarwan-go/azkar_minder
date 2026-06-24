@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 89,
+  "slug": "to-one-who-pronounces-his-love-for-you-for-allah-s-sake",
+  "title": {
+    "arabic": "الدعاء لمن قال إني أحبك في الله",
+    "translations": {
+      "en": "To one who pronounces his love for you, for Allah’s sake"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_200",
+      "itemNumber": 1,
+      "hisnNumber": 200,
+      "hisnReference": "Hisn al-Muslim 200",
+      "url": "https://sunnah.com/hisn:200",
+      "text": {
+        "arabic": "أَحَبَّـكَ الّذي أَحْبَبْـتَني لَه",
+        "transliteration": "Aḥabbaka ‘lladhī aḥbabtanī lah.",
+        "translations": {
+          "en": "May He for Whose sake you love me, love you."
+        }
+      },
+      "reference": "Abu Dawud 4/333. Al-Albani graded it good in Sahih Abu Dawud 3/965.",
+      "repetitions": 1
+    }
+  ]
+}

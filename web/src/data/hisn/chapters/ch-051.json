@@ -1,0 +1,60 @@
+{
+  "chapterNumber": 51,
+  "slug": "when-the-sick-have-renounced-all-hope-of-life",
+  "title": {
+    "arabic": "دعاء المريض الذي يئس من حياته",
+    "translations": {
+      "en": "When the sick have renounced all hope of life"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_150",
+      "itemNumber": 1,
+      "hisnNumber": 150,
+      "hisnReference": "Hisn al-Muslim 150",
+      "url": "https://sunnah.com/hisn:150",
+      "text": {
+        "arabic": "أللّهُـمَّ اغْفِـرْ لي وَارْحَمْـني\nوَأَلْحِقْـني بِالرَّفـيقِ الأّعْلـى",
+        "transliteration": "Allāhumma’ghfir lī warḥamnī\nwa alḥiqnī bir-rafīqi ‘l-'A`alā.",
+        "translations": {
+          "en": "O Allah, forgive me and have mercy upon me,\nand join me with the highest companions (in Paradise)."
+        }
+      },
+      "reference": "Al-Bukhari7/10, Muslim 4/1893.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_151",
+      "itemNumber": 2,
+      "hisnNumber": 151,
+      "hisnReference": "Hisn al-Muslim 151",
+      "url": "https://sunnah.com/hisn:151",
+      "text": {
+        "arabic": "جعل النبي صلى الله عليه وسلم عند موته يدخل يديه في الماء فيمسح بهما وجههُ ويقول :\nلا إله إلا الله إن للموت لسكرات",
+        "transliteration": "As he was dying, the Prophet (ﷺ) dipped his hands in water and wiped his face saying:",
+        "translations": {
+          "en": "Lā ilāha illallāh\ninna li ‘lmawti la’sakarāt.\n\nThere is none worthy of worship but Allah,\nsurely death has agonies."
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 8/144. The Hadith also mention him\nusing the Siivak (tooth stick).",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_152",
+      "itemNumber": 3,
+      "hisnNumber": 152,
+      "hisnReference": "Hisn al-Muslim 152",
+      "url": "https://sunnah.com/hisn:152",
+      "text": {
+        "arabic": "لا إلهَ إلاّ اللّهُ\nوَاللّهُ أَكْبَـر،\nلا إلهَ إلاّ اللّهُ وحْـدَهُ،\nلا إلهَ إلاّ اللّهُ\nوحْـدَهُ لا شَريكَ لهُ،\nلا إلهَ إلاّ اللّهُ\nلهُ المُلكُ ولهُ الحَمْد،\nلا إلهَ إلاّ اللّهُ\nوَلا حَـوْلَ وَلا قُـوَّةَ إِلاّ بِالله",
+        "transliteration": "Lā ilāha illallāh\nwallāhu Akbar,\nlā ilāha illallāhu waḥdah,\nlā ilāha illallāh\nwaḥdahu lā sharīka lah,\nlā ilāha illallāh\nlahu ‘l-mulku wa lahu ‘l-ḥamd,\nlā ilāha illallāh\nwa lā ḥawla wa lā quwwata illā billāh.",
+        "translations": {
+          "en": "There is none worthy of worship but Allah,\nAllah is the Most Great.\nNone has the right to be worshipped but Allah alone.\nNone has the right to be worshipped but Allah alone,\nWho has no partner.\nThere is none worthy of worship but Allah,\nHis is the dominion and His is the praise.\nThere is none worthy of worship but Allah,\nthere is no power and no might but by Allah."
+        }
+      },
+      "reference": "At-Tirmidhi and Ibn Majah. See also Al-Albani, Sahih At-Tirmidhi 3/152 and\nSahih Ibn Majah 2/317.",
+      "repetitions": 1
+    }
+  ]
+}

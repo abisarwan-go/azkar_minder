@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 94,
+  "slug": "the-scorn-of-ascribing-things-to-evil-omens",
+  "title": {
+    "arabic": "دعاء كراهية الطيرة",
+    "translations": {
+      "en": "The scorn of ascribing things to evil omens"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_205",
+      "itemNumber": 1,
+      "hisnNumber": 205,
+      "hisnReference": "Hisn al-Muslim 205",
+      "url": "https://sunnah.com/hisn:205",
+      "text": {
+        "arabic": "اللّهُـمَّ لا طَيْـرَ إِلاّ طَيْـرُك،\nوَلا خَـيْرَ إِلاّ خَـيْرُك،\nوَلا إِلهَ غَيْـرُك",
+        "transliteration": "Allāhumma lā ṭayra illā ṭayruk,\nwa lā khayra illā khayruk,\nwa lā ilāha ghayruk.",
+        "translations": {
+          "en": "O Allah there is no portent other than Your portent,\nno goodness other than Your goodness,\nand none worthy of worship other than You."
+        }
+      },
+      "reference": "Ahmad 2/220, Ibn As-Sunni (no. 292). See also Al-Albani,\nSilsilatul-'Ahadlth As-Sahihah 3/54, (no. 1065). As for bodings of good,\nthese used to please the Prophet (ﷺ) and so when he heard good words from\nsomeone, he used to say: \"We have taken from you a good portent from your\nmouth,\" Abu Dawud, Ahmad. See also Al-Albani, Silsilatul-'Ahadith\nAs-Sahihah 2/363, and it is with Abu Ash-Shaikh Al-Asfahani in\n'Akhlaqun-Nabiyy, pg. 270.",
+      "repetitions": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 91,
+  "slug": "to-the-debtor-when-his-debt-is-settled",
+  "title": {
+    "arabic": "الدعاء لمن أقرض عند القضاء",
+    "translations": {
+      "en": "To the debtor when his debt is settled"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_202",
+      "itemNumber": 1,
+      "hisnNumber": 202,
+      "hisnReference": "Hisn al-Muslim 202",
+      "url": "https://sunnah.com/hisn:202",
+      "text": {
+        "arabic": "بارَكَ اللهُ لَكَ في أَهْلِكَ وَمالِك،\nإِنَّما جَـزاءُ السَّلَفِ الْحَمْدُ والأَداء",
+        "transliteration": "Bārakallāhu laka fī ahlika wa mālik,\ninnamā jazā'us-salafi ‘l-ḥamdu wa‘l-adā'.",
+        "translations": {
+          "en": "May Allah bless you in your family and your wealth,\nsurely the reward for a loan is praise and returning (what was borrowed)."
+        }
+      },
+      "reference": "An-Nasa'i, 'Amalul-Yawm wal-Laylahp. 300, Ibn Majah 2/809. See also\nAl-Albani, Sahih Ibn Majah2/55.",
+      "repetitions": 1
+    }
+  ]
+}

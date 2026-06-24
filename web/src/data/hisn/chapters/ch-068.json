@@ -1,0 +1,44 @@
+{
+  "chapterNumber": 68,
+  "slug": "upon-breaking-fast",
+  "title": {
+    "arabic": "الدعاء عند إفطار الصائم",
+    "translations": {
+      "en": "Upon breaking fast"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_176",
+      "itemNumber": 1,
+      "hisnNumber": 176,
+      "hisnReference": "Hisn al-Muslim 176",
+      "url": "https://sunnah.com/hisn:176",
+      "text": {
+        "arabic": "ذَهَـبَ الظَّمَـأُ،\nوَابْتَلَّـتِ العُـروق،\nوَثَبَـتَ الأجْـرُ إِنْ شـاءَ الله",
+        "transliteration": "Dhahabaẓ-ẓama',\nwabtallati ‘l-`urūq,\nwa thabata ‘l-'ajru in shā Allāh.",
+        "translations": {
+          "en": "The thirst is gone,\nthe veins are moistened,\nand the reward is confirmed, if Allah wills."
+        }
+      },
+      "reference": "Abu Dawud 2/306 and others. See also Al- Albani, Sahihul-Jami' As-Saghir\n4/209.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_177",
+      "itemNumber": 2,
+      "hisnNumber": 177,
+      "hisnReference": "Hisn al-Muslim 177",
+      "url": "https://sunnah.com/hisn:177",
+      "text": {
+        "arabic": "اللّهُـمَّ إِنَّـي أَسْـأَلُـكَ بِرَحْمَـتِكَ الّتي وَسِـعَت كُلَّ شيء،\nأَنْ تَغْـفِرَ لي",
+        "transliteration": "Allāhumma innī as'aluka\nbi raḥmatika ‘l-latī wasi`at kulla shay'\nan taghfira lī.",
+        "translations": {
+          "en": "O Allah, I ask You by Your mercy, which encompasses all things, that You forgive me."
+        }
+      },
+      "reference": "Ibn Majah 1/557 from a supplication of Abdullah bin 'Amr. Al-Hafidh graded\nit as good in his checking of An-Nawawi's Kitabul-'Athkdr. See Sharhul-\nAthkar 4/342.",
+      "repetitions": 1
+    }
+  ]
+}

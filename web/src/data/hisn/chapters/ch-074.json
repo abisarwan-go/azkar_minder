@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 74,
+  "slug": "by-one-fasting-when-presented-with-food-and-does-not-break-his-fast",
+  "title": {
+    "arabic": "دعاء الصائم إذا حضر الطعام ولم يفطر",
+    "translations": {
+      "en": "By one fasting when presented with food and does not break his fast"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_185",
+      "itemNumber": 1,
+      "hisnNumber": 185,
+      "hisnReference": "Hisn al-Muslim 185",
+      "url": "https://sunnah.com/hisn:185",
+      "text": {
+        "arabic": "(إِذَا دُعِيَ أَحَدُكُمْ فَلْيُجِبْ، فَإِنْ كَانَ صَائِماً فَلْيُصَلِّ، وَإِنْ كَانَ مُفْطِراً فَلْيَطْعَمْ) ، وَمَعْنَى فَلْيُصَلِّ أَيْ فَلْيَدْعُ.",
+        "transliteration": "--",
+        "translations": {
+          "en": "When you are invited (to eat) then reply to the invitation.\nIf you are fasting then invoke Allah's blessings (on your host),\nand if you are not fasting then eat."
+        }
+      },
+      "reference": "Muslim 2/1054.",
+      "repetitions": 1
+    }
+  ]
+}

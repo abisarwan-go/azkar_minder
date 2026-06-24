@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 7,
+  "slug": "after-leaving-the-bathroom",
+  "title": {
+    "arabic": "دعاء الخروج من الخلاء",
+    "translations": {
+      "en": "After leaving the bathroom"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_011",
+      "itemNumber": 1,
+      "hisnNumber": 11,
+      "hisnReference": "Hisn al-Muslim 11",
+      "url": "https://sunnah.com/hisn:11",
+      "text": {
+        "arabic": "غُفْـرانَك",
+        "transliteration": "Ghufrānaka",
+        "translations": {
+          "en": "I seek Your forgiveness."
+        }
+      },
+      "reference": "Abu Dawud, Ibn Majah and At-Tirmidhi. An-Nasa'i recorded it in 'Amalul-Yawm\nwal-Laylah. Also see the checking of Ibn Al-Qayyim's Zadul-Ma'ad, 2/387.",
+      "repetitions": 1
+    }
+  ]
+}

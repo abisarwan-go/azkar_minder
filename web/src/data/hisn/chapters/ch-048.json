@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 48,
+  "slug": "placing-childen-under-allah-s-protection",
+  "title": {
+    "arabic": "ما يعوذ به الأولاد",
+    "translations": {
+      "en": "Placing childen under Allah’s protection"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_146",
+      "itemNumber": 1,
+      "hisnNumber": 146,
+      "hisnReference": "Hisn al-Muslim 146",
+      "url": "https://sunnah.com/hisn:146",
+      "text": {
+        "arabic": "كان رسول الله صلى الله عليه وسلم يعوذ الحسن والحسين\n\" أعيذكما بكلمات الله التامة ،\nمن كل شيطان وهامة ،\nومن كل عينِ لامة \"",
+        "transliteration": "The Prophet (ﷺ) used to seek Allah's protection for Al-Hasan and Al-Husain by saying:",
+        "translations": {
+          "en": "U`īthukumā bikalimāti ‘llāhit-tāmmati\nmin kulli shayṭānin wa hāmmah,\nwa min kulli `aynin lāmmah\n\nI seek protection for you in the Perfect Words of Allah\nfrom every devil and every beast,\nand from every envious blameworthy eye."
+        }
+      },
+      "reference": "Al-Bukhari4/119.",
+      "repetitions": 1
+    }
+  ]
+}

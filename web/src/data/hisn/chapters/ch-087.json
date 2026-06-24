@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 87,
+  "slug": "to-one-who-does-you-a-favour",
+  "title": {
+    "arabic": "الدعاء لمن صنع إليك معروفاً",
+    "translations": {
+      "en": "To one who does you a favour"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_198",
+      "itemNumber": 1,
+      "hisnNumber": 198,
+      "hisnReference": "Hisn al-Muslim 198",
+      "url": "https://sunnah.com/hisn:198",
+      "text": {
+        "arabic": "جَزاكَ اللهُ خَـيْراً",
+        "transliteration": "Jazākallāhu khayra.",
+        "translations": {
+          "en": "May Allah reward you with good."
+        }
+      },
+      "reference": "At-Tirmidhi (no. 2035). See also Al-Albani, Sahih At-Tirmidhi 2/200 and\nSahihul-Jami' (no. 6244).",
+      "repetitions": 1
+    }
+  ]
+}

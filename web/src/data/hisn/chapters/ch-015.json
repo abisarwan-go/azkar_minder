@@ -1,0 +1,90 @@
+{
+  "chapterNumber": 15,
+  "slug": "concerning-the-athan-the-call-to-prayer",
+  "title": {
+    "arabic": "أذكار الأذان",
+    "translations": {
+      "en": "Concerning the athan (the call to prayer)"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_022",
+      "itemNumber": 1,
+      "hisnNumber": 22,
+      "hisnReference": "Hisn al-Muslim 22",
+      "url": "https://sunnah.com/hisn:22",
+      "text": {
+        "arabic": "يقول مثل ما يقول المؤذن إلا في (حي على الصلاة ، وحي على الفلاح) فيقول\nلا حول ولا قوة إلا بالله.",
+        "transliteration": "Repeat what the Mu'adh-dhin says, except for when he says:\nHayya 'alas-Salāh (hasten to the prayer) and Hayya 'alal-Falāh (hasten to salvation). Here you should say:\nLā ḥawla wa lā quwwata 'illā billāh.",
+        "translations": {
+          "en": "There is no might and no power except by Allah."
+        }
+      },
+      "reference": "Al-Bukhari 1/152, Muslim 1/288.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_023",
+      "itemNumber": 2,
+      "hisnNumber": 23,
+      "hisnReference": "Hisn al-Muslim 23",
+      "url": "https://sunnah.com/hisn:23",
+      "text": {
+        "arabic": "وَأَنا أَشْـهَدُ أَنْ لا إِلـهَ إِلاّ اللهُ\nوَحْـدَهُ لا شَـريكَ لَـه ،\nوَأَنَّ محَمّـداً عَبْـدُهُ وَرَسـولُه،\nرَضيـتُ بِاللهِ رَبَّاً ،\nوَبِمُحَمَّـدٍ رَسـولاً\nوَبِالإِسْلامِ دينَـاً",
+        "transliteration": "Wa 'anā 'ash-hadu 'an lā 'ilāha 'illallāhu\nwaḥdahu lā sharīka lahu\nwa 'anna Muḥammadan 'abduhu wa rasūluhu,\nraḍītu billāhi rabban,\nwa bi Muḥammadin rasūlan\nwa bi 'l-islāmi dīnan.",
+        "translations": {
+          "en": "I bear witness that none has the right to be worshipped but Allah\nalone, Who has no partner,\nand that Muhammad is His slave and His Messenger.\nI am pleased with Allah as my Lord,\nwith Muhammad as my Messenger\nand with Islam as my religion.1\n\n[To be recited in Arabic after the mu'adh-dhin's tashahhud or the words of affirmation of Faith] 2"
+        }
+      },
+      "reference": "1. Muslim 1/290.\n2. Ibn Khuzaymah 1/220.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_024",
+      "itemNumber": 3,
+      "hisnNumber": 24,
+      "hisnReference": "Hisn al-Muslim 24",
+      "url": "https://sunnah.com/hisn:24",
+      "text": {
+        "arabic": "يُصَلِّي عَلَى النَّبِيِّ صلى الله عليه وسلم بَعْدَ فَرَاغِهِ مِنْ إِجَابَةِ الْمُؤَذِّنِ",
+        "translations": {
+          "en": "After replying to the call of Mu'adh-dhin. you should recite in Arabic Allah's blessings on the Prophet (ﷺ)."
+        }
+      },
+      "reference": "Muslim 1/288",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_025",
+      "itemNumber": 4,
+      "hisnNumber": 25,
+      "hisnReference": "Hisn al-Muslim 25",
+      "url": "https://sunnah.com/hisn:25",
+      "text": {
+        "arabic": "اللّهُـمَّ رَبَّ هَذِهِ الدّعْـوَةِ التّـامَّة\nوَالصّلاةِ القَـائِمَة\nآتِ محَـمَّداً الوَسيـلةَ وَالْفَضـيلَة\nوَابْعَـثْه مَقـامـاً مَحـموداً الَّذي وَعَـدْتَه\n[إِنَّـكَ لا تُـخْلِفُ الميـعاد]",
+        "transliteration": "Allāhumma rabba hādhihi 'd-da'wati 't-tāmmah\nwaṣ-ṣalāti 'l-qā'imah,\n'āti Muhammadani 'l-wasīlata walfaḍīlata,\nwab 'ath-hu maqāma 'm-mahmūdani 'l-ladhī wa`adtahu,\n['innaka lā tukhliful-mī'ād]",
+        "translations": {
+          "en": "O Allah , Lord of this perfect call\nand established prayer.\nGrant Muhammad the intercession and favor,\nand raise him to the honored station You have promised him,\n[verily You do not neglect promises]."
+        }
+      },
+      "reference": "Al-Bukhari 1/152, and the addition between brackets is from Al-Bayhaqi\n1/410 with a good (Hasan) chain of narration. See 'Abdul-Azlz bin Baz's\nTuhfatul-'Akhyar, pg. 38.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_026",
+      "itemNumber": 5,
+      "hisnNumber": 26,
+      "hisnReference": "Hisn al-Muslim 26",
+      "url": "https://sunnah.com/hisn:26",
+      "text": {
+        "arabic": "يَدْعُو لِنَفسِهِ بَيْنَ الْأَذَانِ وَالْإِقَامَةِ فَإِنَّ الدُّعَاءَ حِينَئِذٍ لاَ يُرَدُّ",
+        "translations": {
+          "en": "Between the call to prayer and the 'Iqamah, you should supplicate Allah for yourself.\nInvocation during this time is not rejected."
+        }
+      },
+      "reference": "At-Tirmidhi, Abu Dawud, Ahmed. See Irwaa Al-Ghalil 1/262",
+      "repetitions": 1
+    }
+  ]
+}

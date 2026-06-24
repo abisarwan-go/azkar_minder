@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 97,
+  "slug": "upon-entering-a-town-or-village",
+  "title": {
+    "arabic": "دعاء دخول القرية أو البلدة",
+    "translations": {
+      "en": "Upon entering a town or village"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_208",
+      "itemNumber": 1,
+      "hisnNumber": 208,
+      "hisnReference": "Hisn al-Muslim 208",
+      "url": "https://sunnah.com/hisn:208",
+      "text": {
+        "arabic": "أللّـهُمَّ رَبَّ السَّـمواتِ السّـبْعِ وَما أَظْلَلَـن،\nوَرَبَّ الأَراضيـنَ السّـبْعِ وَما أقْلَلْـن،\nوَرَبَّ الشَّيـاطينِ وَما أَضْلَلْـن،\nوَرَبَّ الرِّياحِ وَما ذَرَيْـن،\nأَسْـأَلُـكَ خَيْـرَ هذهِ الْقَـرْيَةِ\nوَخَيْـرَ أَهْلِـها،\nوَخَيْـرَ ما فيها،\nوَأَعـوذُ بِكَ مِنْ شَـرِّها\nوَشَـرِّ أَهْلِـها،\nوَشَـرِّ ما فيها",
+        "transliteration": "Allāhumma Rabbas-samāwātis-sab`i wa mā aẓlaln,\nWa Rabba ‘l-arāḍīnas-sab`i wa mā aqlaln,\nwa Rabbash-shayāṭīni wa mā aḍlaln,\nwa Rabbar-riyāḥi wa mā dharayn.\nAs'aluka khayra hādhihi ‘l-qaryah,\nwa khayra ahlihā,\nwa khayra māfīhā,\nwa a`ūdhu bika min sharrihā,\nwa sharri ahlihā,\nwa sharri mā fīhā.",
+        "translations": {
+          "en": "O Allah, Lord of the seven heavens and all they overshadow,\nLord of the seven worlds and all they uphold,\nLord of the devils and all they lead astray,\nLord of the winds and all they scatter.\nI ask You for the goodness of this town,\nand for the goodness of its people,\nand for the goodness it contains.\nI seek refuge in You from its evil,\nfrom the evil of its people,\nand from the evil it contains."
+        }
+      },
+      "reference": "Al-Hakim who graded it authentic and Ath-Tfaahabi agreed 2/100, and Ibn\nAs-Sunni (no. 524). Al-Hafidh graded it good in his checking of Al-'Athkdr\n5/154. Ibn Baz said in Tuhfatul-'Akhydr p. 37, that An-Nasa'i recorded it\nwith a good chain of narration.",
+      "repetitions": 1
+    }
+  ]
+}

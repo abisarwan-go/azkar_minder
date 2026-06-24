@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 119,
+  "slug": "the-day-of-arafah",
+  "title": {
+    "arabic": "الدعاء يوم عرفة",
+    "translations": {
+      "en": "The Day of 'Arafah"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_237",
+      "itemNumber": 1,
+      "hisnNumber": 237,
+      "hisnReference": "Hisn al-Muslim 237",
+      "url": "https://sunnah.com/hisn:237",
+      "text": {
+        "arabic": "خير الدعاء دعاء يوم عرفة ، وخيرُ ما قلت أنا والنبيُّون من قبلي :\nلا إله إلا الله وحدهُ\nلا شريك لهُ ،\nلهُ الملكُ ولهُ الحمدُ\nوهو على كل شيء قدير.",
+        "transliteration": "The Prophet (ﷺ) said: The best invocation is that of the Day of Arafat, and the best that anyone can say is what I and the Prophets before me have said:",
+        "translations": {
+          "en": "Lā 'ilāha 'illallāhu\nwaḥdahu lā sharīka lahu,\nlahul-mulku wa lahul-ḥamdu\nwa huwa `alā kulli shay'in qadīr.\n\nNone has the right to be worshipped but Allah\nAlone, Who has no partner.\nHis is the dominion and His is the praise,\nand He is Able to do all things."
+        }
+      },
+      "reference": "At-Tirmidhi. Al-Albani graded it good in Sahih At-Tirmidhi 3/184, and also\nSilsilatul-'Ahadith As-Sahihah 4/6.",
+      "repetitions": 1
+    }
+  ]
+}

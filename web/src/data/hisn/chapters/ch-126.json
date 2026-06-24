@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 126,
+  "slug": "when-startled",
+  "title": {
+    "arabic": "ما يقال عند الفزع",
+    "translations": {
+      "en": "When startled"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_245",
+      "itemNumber": 1,
+      "hisnNumber": 245,
+      "hisnReference": "Hisn al-Muslim 245",
+      "url": "https://sunnah.com/hisn:245",
+      "text": {
+        "arabic": "لا إلهَ إلاّ اللّهُ",
+        "transliteration": "Lā ilāha illallāh!",
+        "translations": {
+          "en": "There is none worthy of worship but Allah!"
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 6/181, Muslim 4/2208.",
+      "repetitions": 1
+    }
+  ]
+}

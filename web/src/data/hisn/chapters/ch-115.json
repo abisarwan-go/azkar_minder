@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 115,
+  "slug": "the-talbiya-for-the-one-doing-hajj-or-umrah",
+  "title": {
+    "arabic": "كيف يلبي المحرم في الحج أو العمرة",
+    "translations": {
+      "en": "The Talbiya for the one doing Hajj or 'Umrah"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_233",
+      "itemNumber": 1,
+      "hisnNumber": 233,
+      "hisnReference": "Hisn al-Muslim 233",
+      "url": "https://sunnah.com/hisn:233",
+      "text": {
+        "arabic": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ،\nلَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ،\nإِنَّ الْحَمْدَ والنِّعْمَة لَكَ والمُلْكُ،\nلَا شَرِيكَ لَكَ",
+        "transliteration": "Labbayk-Allāhumma labbayk,\nlabbayka lā sharīka laka labbayk,\ninna ‘l-ḥamda, wanni`mata, laka wa ‘l-mulk,\nlā sharīka lak.",
+        "translations": {
+          "en": "I am here at Your service, O Allah, I am here at Your service.\nI am here at Your service, You have no partner, I am here at Your service.\nSurely the praise, and blessings are Yours, and the dominion.\nYou have no partner."
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 3/408, Muslim 2/841.",
+      "repetitions": 1
+    }
+  ]
+}

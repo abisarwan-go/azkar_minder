@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 71,
+  "slug": "of-the-guest-for-the-host",
+  "title": {
+    "arabic": "دعاء الضيف لصاحب الطعام",
+    "translations": {
+      "en": "Of the guest for the host"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_182",
+      "itemNumber": 1,
+      "hisnNumber": 182,
+      "hisnReference": "Hisn al-Muslim 182",
+      "url": "https://sunnah.com/hisn:182",
+      "text": {
+        "arabic": "اللّهُـمَّ بارِكْ لَهُمْ فيما رَزَقْـتَهُم،\nوَاغْفِـرْ لَهُـمْ وَارْحَمْهُمْ",
+        "transliteration": "Allāhumma bārik lahum fī mā razaqtahum,\nwagh’fir lahum warḥamhum.",
+        "translations": {
+          "en": "O Allah, bless them in what You have provided for them,\nand forgive them and have mercy on them."
+        }
+      },
+      "reference": "Muslim 3/1615.",
+      "repetitions": 1
+    }
+  ]
+}

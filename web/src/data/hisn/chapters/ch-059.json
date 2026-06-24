@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 59,
+  "slug": "after-burying-the-deceased",
+  "title": {
+    "arabic": "دعاء بعد دفن الميت",
+    "translations": {
+      "en": "After burying the deceased"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_164",
+      "itemNumber": 1,
+      "hisnNumber": 164,
+      "hisnReference": "Hisn al-Muslim 164",
+      "url": "https://sunnah.com/hisn:164",
+      "text": {
+        "arabic": "اللَّهُمَّ اغْفِرْ لَهُ\nاللَّهُمَّ ثَبِّتْهُ",
+        "transliteration": "Allāhumma’ghfir lah\nAllāhumma thabbit’h.",
+        "translations": {
+          "en": "O Allah, forgive him.\nO Allah, strengthen him."
+        }
+      },
+      "reference": "The Prophet (ﷺ) used to stop after burying the dead and say to the\npeople: \"Ask Allah to forgive your brother and pray for him to be\nstrengthened, for indeed he is now being questioned.\" Abu Dawud 3/315, and\nAl-Hakim 1/370 who graded it authentic and Ath-Thahabi agreed.",
+      "repetitions": 1
+    }
+  ]
+}

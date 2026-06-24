@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 57,
+  "slug": "condolence",
+  "title": {
+    "arabic": "دعاء التعزية",
+    "translations": {
+      "en": "Condolence"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_162",
+      "itemNumber": 1,
+      "hisnNumber": 162,
+      "hisnReference": "Hisn al-Muslim 162",
+      "url": "https://sunnah.com/hisn:162",
+      "text": {
+        "arabic": "\"إن لله ما أخذ\nوله ما أعطى .\nوكل شيء عنده بأجل مُسمى ...\nفلتصبر ولتحتسب \"\n\nوإن قال :\n\"أعظم الله أجرك ،\nوأحسن عزاءك\nوغفر لميتك\"\nفحسن",
+        "transliteration": "Inna lillāhi mā akhadh,\nwa lahu mā a`tā,\nwa kullu shay'in `indahu bi ajalin musammā . . .\nfaltaṣbir wa ‘l-taḥtasib .",
+        "translations": {
+          "en": "[Also good to say:]\nA`ẓamallāhu ajrak,\nwa 'aḥsana `azā'ak,\nwa ghafara limayyitik.\n\nSurely, Allah takes what is His,\nand what He gives is His,\nand to all things He has appointed a time...\nso have patience and be rewarded.1\n\nMay Allah magnify your reward,\nand make perfect your bereavement,\nand forgive your departed.2"
+        }
+      },
+      "reference": "1 Al-Bukhari 2/80, Muslim 2/636.\n2An-Nawawi, Kitabul-'Athkar, p. 126.",
+      "repetitions": 1
+    }
+  ]
+}

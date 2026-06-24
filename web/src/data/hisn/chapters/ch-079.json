@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 79,
+  "slug": "to-the-newlywed",
+  "title": {
+    "arabic": "الدعاء للمتزوج",
+    "translations": {
+      "en": "To the newlywed"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_190",
+      "itemNumber": 1,
+      "hisnNumber": 190,
+      "hisnReference": "Hisn al-Muslim 190",
+      "url": "https://sunnah.com/hisn:190",
+      "text": {
+        "arabic": "بارَكَ اللّهُ لَك،\nوَبارَكَ عَلَـيْك،\nوَجَمَعَ بَيْـنَكُما في خَـيْر",
+        "transliteration": "Bārakallāhu lak,\nwa bāraka `alayk,\nwa jama`a baynakumā fī khayr.",
+        "translations": {
+          "en": "May Allah bless you,\nand shower His blessings upon you,\nand join you together in goodness."
+        }
+      },
+      "reference": "Abu Dawud, Ibn Majah and At-Tirmidhi. See also Al-Albani, Sahih At-Tirmidhi\n1/316.",
+      "repetitions": 1
+    }
+  ]
+}

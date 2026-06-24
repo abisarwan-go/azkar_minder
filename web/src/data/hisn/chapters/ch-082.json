@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 82,
+  "slug": "when-angry",
+  "title": {
+    "arabic": "دعاء الغضب",
+    "translations": {
+      "en": "When angry"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_193",
+      "itemNumber": 1,
+      "hisnNumber": 193,
+      "hisnReference": "Hisn al-Muslim 193",
+      "url": "https://sunnah.com/hisn:193",
+      "text": {
+        "arabic": "أَعـوذُ بِاللهِ مِنَ الشَّيْـطانِ الرَّجيـم",
+        "transliteration": "A`ūdhu billāhi minash-Shayṭānir-rajīm.",
+        "translations": {
+          "en": "I seek refuge in Allah from Satan the outcast."
+        }
+      },
+      "reference": "Al-Bukhari 7/99, Muslim 4/2015.",
+      "repetitions": 1
+    }
+  ]
+}

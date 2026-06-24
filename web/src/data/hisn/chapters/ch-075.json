@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 75,
+  "slug": "when-insulted-while-fasting",
+  "title": {
+    "arabic": "ما يقول الصائم إذا سابه أحد",
+    "translations": {
+      "en": "When insulted while fasting"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_186",
+      "itemNumber": 1,
+      "hisnNumber": 186,
+      "hisnReference": "Hisn al-Muslim 186",
+      "url": "https://sunnah.com/hisn:186",
+      "text": {
+        "arabic": "إِنِّي صَائِمٌ،\nإِنِّي صَائِمٌ",
+        "transliteration": "Innī  ṣā'im,\ninnī  ṣā'im.",
+        "translations": {
+          "en": "I am fasting.\nI am fasting."
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-BAri 4/103, Muslim 2/806.",
+      "repetitions": 1
+    }
+  ]
+}

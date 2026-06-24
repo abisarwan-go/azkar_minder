@@ -1,0 +1,44 @@
+{
+  "chapterNumber": 49,
+  "slug": "when-visiting-the-sick",
+  "title": {
+    "arabic": "الدعاء للمريض في عيادته",
+    "translations": {
+      "en": "When visiting the sick"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_147",
+      "itemNumber": 1,
+      "hisnNumber": 147,
+      "hisnReference": "Hisn al-Muslim 147",
+      "url": "https://sunnah.com/hisn:147",
+      "text": {
+        "arabic": "لا بأْسَ طَهـورٌ إِنْ شـاءَ الله",
+        "transliteration": "Lā ba'sa ṭahūrun in shā Allāh.",
+        "translations": {
+          "en": "Do not worry, it will be a purification (for you), Allah willing."
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani Fathul-Bari 10/118.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_148",
+      "itemNumber": 2,
+      "hisnNumber": 148,
+      "hisnReference": "Hisn al-Muslim 148",
+      "url": "https://sunnah.com/hisn:148",
+      "text": {
+        "arabic": "أَسْـأَلُ اللهَ العَـظيـم، رَبَّ العَـرْشِ العَـظيـم أَنْ يَشْفـيك .\n(سبع مرات)",
+        "transliteration": "As'alullāha ‘l-`Aẓīma Rabba ‘l-`Arshil-`Aẓīmi an yashfiyak.",
+        "translations": {
+          "en": "I ask Almighty Allah, Lord of the Magnificent Throne, to make you well.\n(Recite seven times in Arabic .)"
+        }
+      },
+      "reference": "At-Tirmidhi, Abu Dawud. See also Al-Albani, Sahih At-Tirmidhi 2/210 and\nSahihul-Jami' As-Saghir 5/180.",
+      "repetitions": 7
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 99,
+  "slug": "when-the-mounted-animal-or-mean-of-transport-stumbles",
+  "title": {
+    "arabic": "الدعاء إذا تعس المركوب",
+    "translations": {
+      "en": "When the mounted animal (or mean of transport) stumbles"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_210",
+      "itemNumber": 1,
+      "hisnNumber": 210,
+      "hisnReference": "Hisn al-Muslim 210",
+      "url": "https://sunnah.com/hisn:210",
+      "text": {
+        "arabic": "بِسْـمِ اللهِ",
+        "transliteration": "Bismillāh.",
+        "translations": {
+          "en": "With the Name of Allah."
+        }
+      },
+      "reference": "Abu Dawud 4/296. Al-Albani graded it authentic in Sahih Abu Dawud 3/941.",
+      "repetitions": 1
+    }
+  ]
+}

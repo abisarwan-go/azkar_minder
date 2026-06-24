@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 116,
+  "slug": "the-takbir-passing-the-black-stone",
+  "title": {
+    "arabic": "التكبير إذا أتي الركن الأسود",
+    "translations": {
+      "en": "The Takbîr passing the black stone"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_234",
+      "itemNumber": 1,
+      "hisnNumber": 234,
+      "hisnReference": "Hisn al-Muslim 234",
+      "url": "https://sunnah.com/hisn:234",
+      "text": {
+        "arabic": "طَافَ النَّبيُّ صلى الله عليه وسلم بِالْبَيْتِ عَلَى بَعِيرٍ كُلَّمَا أَتَى الرُّكْنَ أَشَارَ إِلَيْهِ بِشَيْءٍ عِنْدَهُ وَكَبَّرَ",
+        "transliteration": "--",
+        "translations": {
+          "en": "The Prophet (ﷺ) performed Tawaf riding a camel. Every time he passed the corner (containing the Black Stone), he would point to it with something that he was holding and say: Allāhu Akbar (Allah is the Most Great)!"
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 3/476. See also 472. The\n'something' that was referred to in this Hadith was a cane.",
+      "repetitions": 1
+    }
+  ]
+}

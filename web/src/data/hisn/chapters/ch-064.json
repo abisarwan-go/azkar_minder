@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 64,
+  "slug": "when-it-rains",
+  "title": {
+    "arabic": "الدعاء إذا رأى المطر",
+    "translations": {
+      "en": "When it rains"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_172",
+      "itemNumber": 1,
+      "hisnNumber": 172,
+      "hisnReference": "Hisn al-Muslim 172",
+      "url": "https://sunnah.com/hisn:172",
+      "text": {
+        "arabic": "اللّهُمَّ صَيِّـباً نافِـعاً",
+        "transliteration": "Allāhumma ṣayyiban nāfi`a.",
+        "translations": {
+          "en": "O Allah, (bring) beneficial rain clouds."
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 2/518.",
+      "repetitions": 1
+    }
+  ]
+}
