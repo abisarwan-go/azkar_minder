@@ -1,56 +1,50 @@
-# Welcome to your Expo app 👋
+# Azkar Minder — Mobile
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Application mobile Azkar Minder, construite avec **Expo SDK 56**, **Expo Router** et **React Native 0.85**.
 
-## Get started
+## Démarrage rapide
 
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+**Un terminal** (premier build ou tout-en-un) :
 
 ```bash
-npm run reset-project
+pnpm install
+adb reverse tcp:8081 tcp:8081
+REACT_NATIVE_PACKAGER_HOSTNAME=127.0.0.1 pnpm android
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+**Deux terminaux** (quotidien, émulateur) :
 
-### Other setup steps
+```bash
+# Terminal 1
+adb reverse tcp:8081 tcp:8081
+pnpm start --localhost
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+# Terminal 2
+pnpm android --no-bundler
+```
 
-## Learn more
+## Documentation
 
-To learn more about developing your project with Expo, look at the following resources:
+Toute la documentation du projet est dans le dossier **[`docs/`](./docs/)** :
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- [Sommaire](./docs/README.md)
+- [Démarrage rapide](./docs/getting-started.md)
+- [Développement](./docs/development.md)
+- [Réseau Android & VPN](./docs/android-networking.md) — indispensable si vous utilisez un VPN ou un émulateur
+- [Structure du projet](./docs/project-structure.md)
+- [Configuration](./docs/configuration.md)
+- [Dépannage](./docs/troubleshooting.md)
 
-## Join the community
+## Scripts
 
-Join our community of developers creating universal apps.
+| Commande | Description |
+|----------|-------------|
+| `pnpm start` | Démarrer Metro |
+| `pnpm android` | Build + lancer Android |
+| `pnpm ios` | Build + lancer iOS |
+| `pnpm web` | Lancer sur le web |
+| `pnpm lint` | Linter |
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Stack
+
+Expo 56 · React Native 0.85 · React 19 · TypeScript · pnpm
