@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 65,
+  "slug": "after-rainfall",
+  "title": {
+    "arabic": "الذكر بعد نزول المطر",
+    "translations": {
+      "en": "After rainfall"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_173",
+      "itemNumber": 1,
+      "hisnNumber": 173,
+      "hisnReference": "Hisn al-Muslim 173",
+      "url": "https://sunnah.com/hisn:173",
+      "text": {
+        "arabic": "مُطِـرْنا بِفَضْـلِ اللهِ وَرَحْمَـتِه",
+        "transliteration": "Muṭirnā bifaḍlillāhi wa raḥmatih.",
+        "translations": {
+          "en": "We have been given rain by the grace and mercy of Allah."
+        }
+      },
+      "reference": "Al-Bukhari 1/205, Muslim 1/83.",
+      "repetitions": 1
+    }
+  ]
+}

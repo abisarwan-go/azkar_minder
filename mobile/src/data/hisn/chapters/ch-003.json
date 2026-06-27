@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 3,
+  "slug": "when-wearing-a-new-garment",
+  "title": {
+    "arabic": "دعاء لبس الثوب الجديد",
+    "translations": {
+      "en": "When wearing a new garment"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_006",
+      "itemNumber": 1,
+      "hisnNumber": 6,
+      "hisnReference": "Hisn al-Muslim 6",
+      "url": "https://sunnah.com/hisn:6",
+      "text": {
+        "arabic": "اللّهُـمَّ لَـكَ الحَـمْـدُ أنْـتَ كَسَـوْتَنيهِ،\nأََسْأََلُـكَ مِـنْ خَـيرِهِ وَخَـيْرِ مَا صُنِعَ لَـه،\nوَأَعوذُ بِكَ مِـنْ شَـرِّهِ وَشَـرِّ مـا صُنِعَ لَـهُ",
+        "transliteration": "Allāhumma lakal-ḥamdu 'anta kasawtanīhi,\n'as'aluka min khayrihi wa khayri mā ṣuni`a lahu,\nwa 'a`oothu bika min sharrihi wa sharri mā ṣuni`a lahu.",
+        "translations": {
+          "en": "O Allah, praise is to You. You have clothed me.\nI ask You for its goodness and the goodness of what it has been made for,\nand I seek Your protection from the evil of it and the evil of what it has been made for."
+        }
+      },
+      "reference": "Abu Dawud and At-Tirmidhi. See also Al-Albani, Mukhtasar Shama'il\nAt-Tirmidhi, p. 47.",
+      "repetitions": 1
+    }
+  ]
+}

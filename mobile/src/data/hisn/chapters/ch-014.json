@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 14,
+  "slug": "upon-leaving-the-mosque",
+  "title": {
+    "arabic": "دعاء الخروج من المسجد",
+    "translations": {
+      "en": "Upon leaving the mosque"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_021",
+      "itemNumber": 1,
+      "hisnNumber": 21,
+      "hisnReference": "Hisn al-Muslim 21",
+      "url": "https://sunnah.com/hisn:21",
+      "text": {
+        "arabic": "بِسمِ الله وَالصّلاةُ وَالسّلامُ عَلى رَسولِ الله،\nاللّهُـمَّ إِنّـي أَسْأَلُكَ مِـنْ فَضْـلِك،\nاللّهُـمَّ اعصِمْنـي مِنَ الشَّيْـطانِ الرَّجـيم",
+        "transliteration": "Bismillāhi waṣṣalātu wassalāmu 'alā Rasūlillāhi,\nAllāhumma 'innī 'as'aluka min faḍlika,\nAllāhumma`ṣimnī min ash-shaytānir-rajīm.",
+        "translations": {
+          "en": "In the Name of Allah, and peace and blessings be upon the Messenger of Allah.\nO Allah, I ask for Your favor,\nO Allah, protect me from Satan the outcast."
+        }
+      },
+      "reference": "ibid.",
+      "repetitions": 1
+    }
+  ]
+}

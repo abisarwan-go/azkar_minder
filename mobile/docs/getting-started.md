@@ -4,13 +4,15 @@
 
 Installez les outils suivants avant de commencer :
 
-| Outil | Usage |
-|-------|-------|
-| [Node.js](https://nodejs.org/) | LTS recommandé (v20+) |
-| [pnpm](https://pnpm.io/) | Gestionnaire de paquets du projet |
-| [Android Studio](https://developer.android.com/studio) | Émulateur Android + SDK |
-| Xcode (macOS uniquement) | Simulateur iOS |
-| [Watchman](https://facebook.github.io/watchman/) | Optionnel, améliore Metro sur macOS |
+
+| Outil                                                  | Usage                               |
+| ------------------------------------------------------ | ----------------------------------- |
+| [Node.js](https://nodejs.org/)                         | LTS recommandé (v20+)               |
+| [pnpm](https://pnpm.io/)                               | Gestionnaire de paquets du projet   |
+| [Android Studio](https://developer.android.com/studio) | Émulateur Android + SDK             |
+| Xcode (macOS uniquement)                               | Simulateur iOS                      |
+| [Watchman](https://facebook.github.io/watchman/)       | Optionnel, améliore Metro sur macOS |
+
 
 ### Variables d'environnement Android
 
@@ -110,13 +112,16 @@ Puis appuyez sur `a` (Android) ou `i` (iOS) dans le terminal Metro.
 
 ## Raccourcis Metro
 
-| Touche | Action |
-|--------|--------|
-| `a` | Ouvrir sur Android |
-| `i` | Ouvrir sur iOS |
-| `w` | Ouvrir sur le web |
-| `r` | Recharger l'app |
-| `m` | Menu développeur |
-| `j` | Ouvrir le debugger |
-| `s` | Basculer Expo Go ↔ development build |
-| `?` | Afficher toutes les commandes |
+
+| Touche | Action                               |
+| ------ | ------------------------------------ |
+| `a`    | Ouvrir sur Android                   |
+| `i`    | Ouvrir sur iOS                       |
+| `w`    | Ouvrir sur le web                    |
+| `r`    | Recharger l'app                      |
+| `m`    | Menu développeur                     |
+| `j`    | Ouvrir le debugger                   |
+| `s`    | Basculer Expo Go ↔ development build |
+| `?`    | Afficher toutes les commandes        |
+
+

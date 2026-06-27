@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 110,
+  "slug": "upon-hearing-a-rooster-crow-or-the-braying-of-a-donkey",
+  "title": {
+    "arabic": "دعاء عند سماع صياح الديك ونهيق الحمار",
+    "translations": {
+      "en": "Upon hearing a rooster crow or the braying of a donkey"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_228",
+      "itemNumber": 1,
+      "hisnNumber": 228,
+      "hisnReference": "Hisn al-Muslim 228",
+      "url": "https://sunnah.com/hisn:228",
+      "text": {
+        "arabic": "إِذَا سَمِعْتُمْ صِيَاحَ الدِّيَكَةِ فَاسْأَلُوا اللَّهَ مِنْ فَضْلِهِ؛ فَإِنَّهَا رَأَتْ مَلَكاً وَإِذَا سَمِعْتُمْ نَهِيقَ الْحِمَارِ فَتَعَوَّذُوا بِاللَّهِ مِنَ الشَّيطَانِ؛ فَإِنَّهُ رَأَى شَيْطَاناً",
+        "transliteration": "--",
+        "translations": {
+          "en": "When you hear the cock's crow, ask Allah for His favor upon you for surely it has seen an angel. When you hear the bray of a donkey, seek refuge in Allah from Satan, for surely it has seen a devil."
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 6/350, Muslim 4/2092.",
+      "repetitions": 1
+    }
+  ]
+}

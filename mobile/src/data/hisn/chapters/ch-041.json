@@ -1,0 +1,44 @@
+{
+  "chapterNumber": 41,
+  "slug": "settling-a-debt",
+  "title": {
+    "arabic": "الدعاء قضاء الدين",
+    "translations": {
+      "en": "Settling a debt"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_136",
+      "itemNumber": 1,
+      "hisnNumber": 136,
+      "hisnReference": "Hisn al-Muslim 136",
+      "url": "https://sunnah.com/hisn:136",
+      "text": {
+        "arabic": "اللّهُـمَّ اكْفِـني بِحَلالِـكَ عَنْ حَـرامِـك،\nوَأَغْنِـني بِفَضْـلِكِ عَمَّـنْ سِـواك",
+        "transliteration": "Allāhummak-finī biḥalālika `an ḥarāmik,\nwa 'aghninī bi faḍlika `amman siwāk.",
+        "translations": {
+          "en": "O Allah, suffice me with what You have allowed instead of what You have forbidden,\nand make me independent of all others besides You."
+        }
+      },
+      "reference": "At-Tirmidhi 5/560. See also Al-Albani, Sahih At-Tirmidhi 3/180.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_137",
+      "itemNumber": 2,
+      "hisnNumber": 137,
+      "hisnReference": "Hisn al-Muslim 137",
+      "url": "https://sunnah.com/hisn:137",
+      "text": {
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ،\nوَالْعَجْزِ وَالْكَسَلِ،\nوَالْبُخْلِ وَالْجُبْنِ،\nوَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+        "transliteration": "Allāhumma innī a`ūdhu bika mina ‘l-ḥammi wa ‘l-ḥazan,\nwa ‘l-`ajzi wa ‘l-kasal,\nwa ‘l-bukhli wa ‘l-jubn,\nwa ḍala`id-dayni wa ghalabatir-rijāl.",
+        "translations": {
+          "en": "O Allah! I seek refuge with You from worry and grief,\nfrom incapacity and laziness,\nfrom cowardice and miserliness,\nfrom being heavily in debt and from being overpowered by (other) men."
+        }
+      },
+      "reference": "Al-Bukhari 7/158.",
+      "repetitions": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 53,
+  "slug": "for-one-afflicted-by-a-calamity",
+  "title": {
+    "arabic": "دعاء من أصيب بمصيبة",
+    "translations": {
+      "en": "For one afflicted by a calamity"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_154",
+      "itemNumber": 1,
+      "hisnNumber": 154,
+      "hisnReference": "Hisn al-Muslim 154",
+      "url": "https://sunnah.com/hisn:154",
+      "text": {
+        "arabic": "إِنّا للهِ وَإِنَا إِلَـيْهِ راجِعـون ،\nاللهُـمِّ اْجُـرْني في مُصـيبَتي،\nوَاخْلُـفْ لي خَيْـراً مِنْـها",
+        "transliteration": "Innā lillāhi wa innā ilayhi rāji`ūn,\nAllāhumma-jurni fī muṣībatī\nwa 'khluf lī khayran minhā.",
+        "translations": {
+          "en": "We are from Allah and unto Him we return.\nO Allah take me out of my plight\nand bring to me after it something better."
+        }
+      },
+      "reference": "Muslim 2/632.",
+      "repetitions": 1
+    }
+  ]
+}

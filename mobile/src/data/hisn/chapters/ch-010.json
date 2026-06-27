@@ -1,0 +1,44 @@
+{
+  "chapterNumber": 10,
+  "slug": "remembrance-when-leaving-the-home",
+  "title": {
+    "arabic": "الذكر عند الخروج من المنزل",
+    "translations": {
+      "en": "Remembrance when leaving the home"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_016",
+      "itemNumber": 1,
+      "hisnNumber": 16,
+      "hisnReference": "Hisn al-Muslim 16",
+      "url": "https://sunnah.com/hisn:16",
+      "text": {
+        "arabic": "بِسْمِ اللهِ ، تَوَكَّلْـتُ عَلى اللهِ\nوَلا حَوْلَ وَلا قُـوَّةَ إِلاّ بِالله",
+        "transliteration": "Bismillāhi, tawakkaltu `alallāhi,\nwa lā ḥawla wa lā quwwata illā billāh.",
+        "translations": {
+          "en": "In the Name of Allah, I have placed my trust in Allah,\nthere is no might and no power except by Allah."
+        }
+      },
+      "reference": "Abu Dawud 4/325, At-Tirmidhi 5/490. See also Al-Albani, Sahih At-Tirmidhi\n3/151",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_017",
+      "itemNumber": 2,
+      "hisnNumber": 17,
+      "hisnReference": "Hisn al-Muslim 17",
+      "url": "https://sunnah.com/hisn:17",
+      "text": {
+        "arabic": "اللّهُـمَّ إِنِّـي أَعـوذُ بِكَ\nأَنْ أَضِـلَّ أَوْ أُضَـل ،\nأَوْ أَزِلَّ أَوْ أُزَل ،\nأَوْ أَظْلِـمَ أَوْ أَُظْلَـم ،\nأَوْ أَجْهَلَ أَوْ يُـجْهَلَ عَلَـيّ",
+        "transliteration": "Allāhumma 'innī 'a`ūdhu bika\n'an 'aḍilla, 'aw 'uḍalla,\n'aw 'azilla, 'aw 'uzalla,\n'aw 'aẓlima, 'aw 'uẓlama,\n'aw 'ajhala 'aw yujhala `alayya.",
+        "translations": {
+          "en": "O Allah, I seek refuge in You\nlest I misguide others , or I am misguided by\nothers ,\nlest I cause others to err or I am caused to err ,\nlest I abuse others or be abused,\nand lest I behave foolishly or meet with the\nfoolishness of others."
+        }
+      },
+      "reference": "Abu Dawud, Ibn Majah, An-Nasa'i, At-Tirmidhi. See also Al-Albani, Sahih\nAt-Tirmidhi 3/152 and Sahih Ibn Majah 2/336",
+      "repetitions": 1
+    }
+  ]
+}

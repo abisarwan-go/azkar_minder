@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 60,
+  "slug": "visiting-the-graves",
+  "title": {
+    "arabic": "دعاء زيارة القبور",
+    "translations": {
+      "en": "Visiting the graves"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_165",
+      "itemNumber": 1,
+      "hisnNumber": 165,
+      "hisnReference": "Hisn al-Muslim 165",
+      "url": "https://sunnah.com/hisn:165",
+      "text": {
+        "arabic": "السَّلامُ عَلَـيْكُمْ أَهْلَ الدِّيارِ مِنَ المؤْمِنيـنَ وَالْمُسْلِمين،\nوَإِنّا إِنْ شاءَ اللهُ بِكُـمْ لاحِقـون،\nنَسْـاَلُ اللهَ لنـا وَلَكُـمْ العـافِيَة",
+        "transliteration": "Assalāmu `alaykum ahlad-diyāri minal-mu'minīna wa ‘l-muslimīn,\nwa innā in shā' Allāhu bikum lāḥiqūn\nnas'alullāha lanā wa lakumul-`āfiyah.",
+        "translations": {
+          "en": "Peace be upon you, people of this abode, from among the believers and those who are Muslims,\nand we, by the Will of Allah, shall be joining you.\n[May Allah have mercy on the first of us and the last of us]\nI ask Allah to grant us and you well-being."
+        }
+      },
+      "reference": "Muslim 2/671, Ibn Majah 1/494, the portion brackets is from Muslim 2/671.",
+      "repetitions": 1
+    }
+  ]
+}

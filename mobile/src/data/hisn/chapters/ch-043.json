@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 43,
+  "slug": "for-one-whose-affairs-have-become-difficult",
+  "title": {
+    "arabic": "دعاء من استصعب عليه أمر",
+    "translations": {
+      "en": "For one whose affairs have become difficult"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_139",
+      "itemNumber": 1,
+      "hisnNumber": 139,
+      "hisnReference": "Hisn al-Muslim 139",
+      "url": "https://sunnah.com/hisn:139",
+      "text": {
+        "arabic": "اللَّهُمَّ لاَ سَهْلَ إِلاَّ مَا جَعَلْتَهُ سَهْلاً،\nوَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلاً",
+        "transliteration": "Allāhumma lā saḥla illā ma ja`altahu saḥla\nwa anta taj`alu ‘l-ḥazna idhā shi'ta saḥla.",
+        "translations": {
+          "en": "O Allah, there is no ease other than what You make easy.\nIf You please You ease sorrow."
+        }
+      },
+      "reference": "Ibn Hibban in his Sahih (no. 2427), and Ibn As- Sunni (no. 351). Al-Hafidh\n(Ibn Hajar) said that this Hadith is authentic. It was also declared\nauthentic by 'Abdul-Qadir Al-Arna'ut in his checking of An-Nawawi's\nKitabul-Athkarp. 106.",
+      "repetitions": 1
+    }
+  ]
+}

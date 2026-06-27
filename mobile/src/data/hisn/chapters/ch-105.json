@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 105,
+  "slug": "while-returning-from-travel",
+  "title": {
+    "arabic": "ذكر الرجوع من السفر",
+    "translations": {
+      "en": "While returning from travel"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_217",
+      "itemNumber": 1,
+      "hisnNumber": 217,
+      "hisnReference": "Hisn al-Muslim 217",
+      "url": "https://sunnah.com/hisn:217",
+      "text": {
+        "arabic": "يُكَبِّرُ عَلَى كُلِّ شَرَفٍ ثَلاَثَ تَكْبِيرَاتٍ ثُمَّ يَقُولُ:\nلاَ إِلَهَ إِلاَّ اللَّهُ\nوَحْدَهُ لاَ شَرِيكَ لَهُ،\nلَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ،\nوَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ،\nآيِبُونَ، تَائِبُونَ، عَابِدُونَ،\nلِرَبِّنا حَامِدُونَ،\nصَدَقَ اللَّهُ وَعْدَهُ،\nوَنَصَرَ عَبْدَهُ،\nوَهَزَمَ الْأَحْزابَ وَحْدَهُ",
+        "transliteration": "From every elevated point say\nAllāhu Akbar (three times),\nand then recite:",
+        "translations": {
+          "en": "Lā ilāha illallāh\nwaḥdahu lā sharīka lah,\nlahu ‘l-mulku, walahu ‘l-ḥamd,\nwa Huwa `alā kulli shay'in Qadīr,\nā'ibūna, tā'ibūna,`ābidūn,\nli Rabbinā ḥāmidūn,\nsadaqallāhu wa`dah,\nwa nasara `abdah,\nwa hazama ‘l-'aḥzāba waḥdah.\n\nFrom every elevated point say Allāhu Akbar (Allah is the Most Great) three times and then recite:\n\nNone has the right to be worshipped but Allah alone,\nWho has no partner.\nHis is the dominion and His is the praise, and He is Able to do all things.\nWe return repentant to our Lord, worshipping our Lord,\nand praising our Lord.\nHe fulfilled His Promise,\nHe aided His slave,\nand He alone defeated the Confederates."
+        }
+      },
+      "reference": "Bukhari 7/163, Muslim 2/980. The Prophet (ﷺ) used to say this when\nreturning from a campaign or from Hajj.",
+      "repetitions": 1
+    }
+  ]
+}

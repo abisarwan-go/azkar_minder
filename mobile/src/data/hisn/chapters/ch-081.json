@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 81,
+  "slug": "before-sexual-intercourse-with-the-wife",
+  "title": {
+    "arabic": "الدعاء قبل إتيان الزوجة",
+    "translations": {
+      "en": "Before sexual intercourse with the wife"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_192",
+      "itemNumber": 1,
+      "hisnNumber": 192,
+      "hisnReference": "Hisn al-Muslim 192",
+      "url": "https://sunnah.com/hisn:192",
+      "text": {
+        "arabic": "بِسْمِ الله\nاللّهُـمَّ جَنِّبْنا الشَّيْـطانَ،\nوَجَنِّبِ الشَّـيْطانَ ما رَزَقْـتَنا",
+        "transliteration": "Bismillāh.\nAllāhumma jannibnash-Shayṭān,\nwa jannibish-Shayṭāna mā razaqtanā.",
+        "translations": {
+          "en": "With the Name of Allah.\nO Allah, keep the Devil away from us,\nand keep the Devil away from that which You provide for us."
+        }
+      },
+      "reference": "Al-Bukhari 6/141, Muslim 2/1028.",
+      "repetitions": 1
+    }
+  ]
+}

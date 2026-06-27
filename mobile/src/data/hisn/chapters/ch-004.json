@@ -1,0 +1,44 @@
+{
+  "chapterNumber": 4,
+  "slug": "to-someone-wearing-a-new-garment",
+  "title": {
+    "arabic": "الدعاء لمن لبس ثوباً جديداً",
+    "translations": {
+      "en": "To someone wearing a new garment"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_007",
+      "itemNumber": 1,
+      "hisnNumber": 7,
+      "hisnReference": "Hisn al-Muslim 7",
+      "url": "https://sunnah.com/hisn:7",
+      "text": {
+        "arabic": "تُبْـلي وَيُـخْلِفُ اللهُ تَعَالى",
+        "transliteration": "Tublī wa yukhliful-lāhu ta`ālā.",
+        "translations": {
+          "en": "May Allah replace it when it is worn out."
+        }
+      },
+      "reference": "Abu Dawud 4/41. See also Al-Albani Sahih Abu Dawud 2/760.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_008",
+      "itemNumber": 2,
+      "hisnNumber": 8,
+      "hisnReference": "Hisn al-Muslim 8",
+      "url": "https://sunnah.com/hisn:8",
+      "text": {
+        "arabic": "اِلبَـس جَديـداً\nوَعِـشْ حَمـيداً\nوَمُـتْ شهيداً",
+        "transliteration": "Ilbas jadīdan,\nwa `ish ḥamīdan,\nwa mut shahīdan.",
+        "translations": {
+          "en": "Put on new clothes,\nlive a praise-worthy life\nand die as a martyr."
+        }
+      },
+      "reference": "Ibn Majah 2/1178, Al-Baghawi 12/41. See also Al-Albani, Sahih Ibn Majah\n2/275",
+      "repetitions": 1
+    }
+  ]
+}

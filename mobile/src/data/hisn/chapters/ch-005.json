@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 5,
+  "slug": "before-undressing",
+  "title": {
+    "arabic": "ما يقول إذا وضع الثوب",
+    "translations": {
+      "en": "Before undressing"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_009",
+      "itemNumber": 1,
+      "hisnNumber": 9,
+      "hisnReference": "Hisn al-Muslim 9",
+      "url": "https://sunnah.com/hisn:9",
+      "text": {
+        "arabic": "بِسْمِ الله",
+        "transliteration": "Bismillāhi",
+        "translations": {
+          "en": "In the Name of Allah."
+        }
+      },
+      "reference": "At-Tirmidhi 2/505, among others. See 'Irwa'ul Ghalil no. 49 and\nSahihul-Jami' 3/203",
+      "repetitions": 1
+    }
+  ]
+}

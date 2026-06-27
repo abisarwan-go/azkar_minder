@@ -1,0 +1,44 @@
+{
+  "chapterNumber": 37,
+  "slug": "for-one-afraid-of-the-ruler-s-injustice",
+  "title": {
+    "arabic": "دعاء من خاف ظلم السلطان",
+    "translations": {
+      "en": "For one afraid of the ruler's injustice"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_129",
+      "itemNumber": 1,
+      "hisnNumber": 129,
+      "hisnReference": "Hisn al-Muslim 129",
+      "url": "https://sunnah.com/hisn:129",
+      "text": {
+        "arabic": "اللَّهُمَّ ربَّ السَّمَوَاتِ السَّبْعِ،\nوَرَبَّ الْعَرْشِ الْعَظِيمِ،\nكُنْ لِي جَاراً مِنْ فُلاَنِ بْنِ فُلاَنٍ،\nوَأَحْزَابِهِ مِنْ خَلاَئِقِكَ،\nأَنْ يَفْرُطَ عَلَيَّ أَحَدٌ مِنْهُمْ أَوْ يَطْغَى،\nعَزَّ جَارُكَ،\nوَجَلَّ ثَنَاؤُكَ،\nوَلاَ إِلَهَ إِلاَّ أَنْتَ",
+        "transliteration": "Allāhumma Rabbas-samāwātis-sab`,\nwa Rabba ‘l-`Arshi ‘l-`Aẓīm,\nkun lī jāran min [here you mention the person's name],\nwa aḥzābihi min khalā'iqik,\nan yafruṭa `alayya aḥadun minhum aw yaṭghā,\n`azza jāruk,\nwa jalla thanā'uk,\nwa lā ilāha illā ant.",
+        "translations": {
+          "en": "O Allah, Lord of the seven heavens,\nLord of the Magnificent Throne,\nbe for me a support against [such and such a person] and his helpers from among your creatures,\nlest any of them abuse me or do me wrong.\nMighty is Your patronage,\nand glorious are Your praises.\nThere is none worthy of worship but You."
+        }
+      },
+      "reference": "Al-Bukhari, Al-'Adab Al-Mufrad (no. 707). Al-Albani graded it authentic in\nSahih Al-'Adab Al-Mufrad (no. 545).",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_130",
+      "itemNumber": 2,
+      "hisnNumber": 130,
+      "hisnReference": "Hisn al-Muslim 130",
+      "url": "https://sunnah.com/hisn:130",
+      "text": {
+        "arabic": "الله أكبر،\nالله أعز من خلقه جميعاً ،\nالله أعز مما أخاف وأحذر ،\nأعوذ بالله الذي لا إله إلا هو ،\nالممسك السموات السبع\nأن يقعن على الأرض إلا بإذنه ،\nمن شر عبدك فلان ،\nوجنوده وأتباعه وأشياعه ،\nمن الجن والأنس ،\nاللهم كن لي جاراً من شرهم ،\nجل ثناؤك وعز جارك ،\nوتبارك اسمك ،\nولا إله غيرك\n(ثلاث مرات)",
+        "transliteration": "Allāhu Akbar,\nAllāhu a`azzu min khalqihi jamī`a,\nAllāhu a`azzu mimmā akhāfu wa aḥdhar,\na`ūdhu billāhi ‘l-ladhī lā ilāha illā hū,\nalmumsikis-samāwātis-sab`i\nan yaqa`na `ala ‘l-arḍi illā bi idhnih,\nmin sharri `abdika [name of the person],\nwa junūdihi wa atbā`ihi wa ashyā`ih,\nmina ‘l-jinni wa ‘l-ins,\nAllāhumma kun lī jāran min sharrihim,\njalla thanā'uk,\nwa `azza jāruk,\nwa tabāraka-smuk,\nwa lā ilāha ghayruk.",
+        "translations": {
+          "en": "Allah is the Most Great,\nMightier than all His creation.\nHe is Mightier than what I fear and dread.\nI seek refuge in Allah, Who there is none worthy of worship but Him.\nHe is the One Who holds the seven heavens from falling upon the earth except by His command.\n[I seek refuge in You Allah] from the evil of Your slave [name of the person],\nand his helpers, his followers, and his supporters from among the jinn and mankind.\nO Allah, be my support against their evil.\nGlorious are Your praises\nand mighty is Your patronage.\nBlessed is Your Name,\nthere is no true God but You.\n(Recite three times in Arabic.)"
+        }
+      },
+      "reference": "Al-Bukhari, 5/172.",
+      "repetitions": 3
+    }
+  ]
+}

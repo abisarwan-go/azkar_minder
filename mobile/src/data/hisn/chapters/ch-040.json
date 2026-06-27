@@ -1,0 +1,60 @@
+{
+  "chapterNumber": 40,
+  "slug": "for-one-afflicted-with-doubt-in-his-faith",
+  "title": {
+    "arabic": "دعاء من أصابه شك في الإيمان",
+    "translations": {
+      "en": "For one afflicted with doubt in his faith"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_133",
+      "itemNumber": 1,
+      "hisnNumber": 133,
+      "hisnReference": "Hisn al-Muslim 133",
+      "url": "https://sunnah.com/hisn:133",
+      "text": {
+        "arabic": "يَسْتَعِيذُ بِاللَّهِ.\nيَنْتَهِي عَمَّا شك فِيهِ.",
+        "transliteration": "A`ūdhu billāh",
+        "translations": {
+          "en": "(Say:) I seek refuge in Allah.\n(Then you should desist from doing what you are in doubt about.)"
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 6/336, Muslim 1/120.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_134",
+      "itemNumber": 2,
+      "hisnNumber": 134,
+      "hisnReference": "Hisn al-Muslim 134",
+      "url": "https://sunnah.com/hisn:134",
+      "text": {
+        "arabic": "يقول\" آمنت بالله ورسله\"",
+        "transliteration": "Āmantu billāhi wa Rusulih.",
+        "translations": {
+          "en": "(Say:) I believe in Allah and His Messengers."
+        }
+      },
+      "reference": "Muslim, 1/119-20.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_135",
+      "itemNumber": 3,
+      "hisnNumber": 135,
+      "hisnReference": "Hisn al-Muslim 135",
+      "url": "https://sunnah.com/hisn:135",
+      "text": {
+        "arabic": "يقرأ قوله تعالى ((هُوَ الأوَّلُ، وَالآخِـرُ،\nوَالظّـاهِـرُ، وَالْبـاطِـنُ،\nوَهُوَ بِكُلِّ شَيءٍ عَلـيم))",
+        "transliteration": "Huwa ‘l-Awwalu wa ‘l-Ākhir,\nwaẓ-Ẓāhiru wal-Bāṭin,\nwa huwa bikulli shay'in `Alīm.",
+        "translations": {
+          "en": "(Recite the Ayat) He is the First and the Last,\nthe Most High and the Most Near.\nAnd He is the Knower of all things (in Arabic)."
+        }
+      },
+      "reference": "Al-Hadid 57:3, Abu Dawud 4/329. Al-Albani graded it good in SahihAbu Dawud,\n3/962.",
+      "repetitions": 1
+    }
+  ]
+}

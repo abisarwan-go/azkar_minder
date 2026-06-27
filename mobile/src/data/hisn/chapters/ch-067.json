@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 67,
+  "slug": "upon-sighting-the-crescent-moon",
+  "title": {
+    "arabic": "دعاء رؤية الهلال",
+    "translations": {
+      "en": "Upon sighting the crescent moon"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_175",
+      "itemNumber": 1,
+      "hisnNumber": 175,
+      "hisnReference": "Hisn al-Muslim 175",
+      "url": "https://sunnah.com/hisn:175",
+      "text": {
+        "arabic": "اللهُ أَكْـبَر،\nاللّهُمَّ أَهِلَّـهُ عَلَيْـنا بِالأمْـنِ وَالإيمـان،\nوالسَّلامَـةِ والإسْلام،\nوَالتَّـوْفيـقِ لِما تُحِـبُّ رَبَّنـا وَتَـرْضـى،\nرَبُّنـا وَرَبُّكَ الله",
+        "transliteration": "Allāhu Akbar,\nAllāhumma ahillahu `alayna bi ‘l-amni wa ‘l-īmān,\nwas-salāmati wa ‘l-'Islām,\nwat-tawfīqi limā tuḥibbu Rabbanā wa tarḍā,\nRabbunā wa Rabbukallāh.",
+        "translations": {
+          "en": "Allah is the Most Great.\nO Allah, bring us the new moon with security and Faith,\nwith peace and in Islam,\nand in harmony with what our Lord loves and what pleases Him.\nOur Lord and your Lord is Allah."
+        }
+      },
+      "reference": "At-Tirmidhi 5/504, Ad-Darimi 1/336. See also Al-Albani, Sahih At-Tirmidhi\n3/157.",
+      "repetitions": 1
+    }
+  ]
+}

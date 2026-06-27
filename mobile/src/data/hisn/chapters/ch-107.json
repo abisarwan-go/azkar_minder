@@ -1,0 +1,92 @@
+{
+  "chapterNumber": 107,
+  "slug": "excellence-of-sending-prayers-upon-the-prophet-saws",
+  "title": {
+    "arabic": "فضل الصلاة على النبي ﷺ",
+    "translations": {
+      "en": "Excellence of sending prayers upon the Prophet (saws)"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_219",
+      "itemNumber": 1,
+      "hisnNumber": 219,
+      "hisnReference": "Hisn al-Muslim 219",
+      "url": "https://sunnah.com/hisn:219",
+      "text": {
+        "arabic": "قَالَ النَّبِيُّ صلى الله عليه وسلم: (مَنْ صَلَّى عَلَيَّ صَلاَةً صَلَّى اللَّهُ عَلَيْهِ بِهَا عَشْراً)",
+        "transliteration": "--",
+        "translations": {
+          "en": "The Prophet (ﷺ) said: \"Whoever prays for Allah's blessings upon me once, will be blessed for it by Allah ten times.\""
+        }
+      },
+      "reference": "Muslim 1/288.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_220",
+      "itemNumber": 2,
+      "hisnNumber": 220,
+      "hisnReference": "Hisn al-Muslim 220",
+      "url": "https://sunnah.com/hisn:220",
+      "text": {
+        "arabic": "وَقَالَ صلى الله عليه وسلم: (لاَ تَجْعَلُوا قَبْرِي عِيداً وَصَلُّوا عَلَيَّ؛ فَإِنَّ صَلاَتَكُم تَبْلُغُنِي حَيْثُ كُنْتُمْ)",
+        "transliteration": "--",
+        "translations": {
+          "en": "The Prophet (ﷺ) said: \"Do not make my grave a place of ritual celebration, but pray for Allah's blessings upon me, for your blessings reach me from wherever you are."
+        }
+      },
+      "reference": "Abu Dawud 2/218, Ahmad 2/367. Al-Albani graded it authentic in Sahih Abu\nDawud 2/383.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_221",
+      "itemNumber": 3,
+      "hisnNumber": 221,
+      "hisnReference": "Hisn al-Muslim 221",
+      "url": "https://sunnah.com/hisn:221",
+      "text": {
+        "arabic": "وَقَالَ صلى الله عليه وسلم: (الْبَخِيلُ مَنْ ذُكِرْتُ عِنْدَهُ فَلَمْ يُصَلِّ عَلَيَّ)",
+        "transliteration": "--",
+        "translations": {
+          "en": "The Prophet (ﷺ) said: \"The miser is the one in whose presence I am mentioned yet does not pray for Allah's blessings upon me.\""
+        }
+      },
+      "reference": "At-Tirmidhi 5/551 and others. See also Al-Albani, Sahih At-Tirmidhi 3/177\nand Sahihul-Jarai' As-Saghir 3/25.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_222",
+      "itemNumber": 4,
+      "hisnNumber": 222,
+      "hisnReference": "Hisn al-Muslim 222",
+      "url": "https://sunnah.com/hisn:222",
+      "text": {
+        "arabic": "وَقَالَ صلى الله عليه وسلم:(إِنَّ لِلَّهِ مَلاَئِكَةً سَيَّاحِينَ فِي الْأَرْضِ يُبَلِّغُونِي مِنْ أُمَّتِي السَّلاَمَ)",
+        "transliteration": "--",
+        "translations": {
+          "en": "The Prophet (ﷺ) said: \"Indeed Allah has angels who roam the earth and they convey to me the greetings (or prayers of peace) of my Ummah (nation).\""
+        }
+      },
+      "reference": "An-Nasa'i, Al-Hakim 2/421. Al-Albani graded it authentic in Sahih An-Nasa'i\n1/274.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_223",
+      "itemNumber": 5,
+      "hisnNumber": 223,
+      "hisnReference": "Hisn al-Muslim 223",
+      "url": "https://sunnah.com/hisn:223",
+      "text": {
+        "arabic": "وَقَالَ صلى الله عليه وسلم: (مَا مِنْ أَحَدٍ يُسَلِّمُ عَلَيَّ إِلاَّ رَدَّ اللَّهُ عَلَيَّ رُوحِيَ حَتَّى أَرُدَّ عَلَيْهِ السَّلاَمَ)",
+        "transliteration": "--",
+        "translations": {
+          "en": "The Prophet (ﷺ) said: \"No one sends greetings (or prayers of peace) upon me but Allah returns my soul to me so that I may return his greetings.\""
+        }
+      },
+      "reference": "Abu Dawud (no. 2041). Al-Albani graded it good in Sahih Abu Dawud 1/383.",
+      "repetitions": 1
+    }
+  ]
+}

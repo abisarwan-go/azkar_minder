@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 11,
+  "slug": "remembrance-upon-entering-the-home",
+  "title": {
+    "arabic": "الذكر عند الدخول المنزل",
+    "translations": {
+      "en": "Remembrance upon entering the home"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_018",
+      "itemNumber": 1,
+      "hisnNumber": 18,
+      "hisnReference": "Hisn al-Muslim 18",
+      "url": "https://sunnah.com/hisn:18",
+      "text": {
+        "arabic": "بِسْـمِ اللهِ وَلَجْنـا،\nوَبِسْـمِ اللهِ خَـرَجْنـا،\nوَعَلـى رَبِّنـا تَوَكّلْـن\n(ثم ليسلم على أهله.)",
+        "transliteration": "Bismillāhi walajnā,\nwa bismillāhi kharajnā,\nwa `ala Rabbinā tawakkalnā",
+        "translations": {
+          "en": "In the Name of Allah we enter ,\nin the Name of Allah we leave ,\nand upon our Lord we depend\n[then say As-Salāmu `Alaykum to those present]."
+        }
+      },
+      "reference": "Abu Dawud 4/325. Muslim {Hadith no. 2018) says that one should mention the\nName of Allah when entering the home and when beginning to eat; and that\nthe devil, hearing this, says: \"There is no shelter for us here tonight and\nno food.\"",
+      "repetitions": 1
+    }
+  ]
+}

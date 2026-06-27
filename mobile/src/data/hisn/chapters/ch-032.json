@@ -1,0 +1,60 @@
+{
+  "chapterNumber": 32,
+  "slug": "qunoot-al-witr",
+  "title": {
+    "arabic": "دعاء قنوت الوتر",
+    "translations": {
+      "en": "Qunoot Al-Witr"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_116",
+      "itemNumber": 1,
+      "hisnNumber": 116,
+      "hisnReference": "Hisn al-Muslim 116",
+      "url": "https://sunnah.com/hisn:116",
+      "text": {
+        "arabic": "اللّهُـمَّ اهْـدِنـي فـيمَنْ هَـدَيْـت،\nوَعـافِنـي فـيمَنْ عافَـيْت،\nوَتَوَلَّـني فـيمَنْ تَوَلَّـيْت،\nوَبارِكْ لـي فـيما أَعْطَـيْت،\nوَقِـني شَرَّ ما قَضَـيْت،\nفَإِنَّـكَ تَقْـضي وَلا يُقْـضى عَلَـيْك ،\nإِنَّـهُ لا يَـذِلُّ مَنْ والَـيْت،\n[ وَلا يَعِـزُّ مَن عـادَيْت ]،\nتَبـارَكْـتَ رَبَّـنا وَتَعـالَـيْت",
+        "transliteration": "Allāhumma’hdinī fī man hadayt,\nwa `āfinī fī man `āfayt,\nwa tawallanī fī man tawallayt,\nwa bārik lī fī mā a`atayt,\nwa qinī sharra mā qaḍayt,\nfa innaka taqḍī wa lā yuqḍā `alayk,\ninnahu lā yadhillu man wālayt,\n[wa lā ya`izzu man `ādayt] ,\ntabārakta Rabbanā wa ta`ālayt.",
+        "translations": {
+          "en": "O Allah, guide me with those whom You have guided,\nand strengthen me with those whom You have given strength.\nTake me to Your care with those whom You have taken to Your care.\nBless me in what You have given me.\nProtect me from the evil You have ordained.\nSurely, You command and are not commanded,\nand none whom You have committed to Your care shall be humiliated\n[and none whom You have taken as an enemy shall taste glory].\nYou are Blessed, Our Lord, and Exalted."
+        }
+      },
+      "reference": "Abu Dawud, Ibn Majah, An-Nasa'i, At-Tirmidhi, Ahmad, Ad-Darimi, Al-Hakim,\nand Al-Bayhaqi. See also Al-Albani, Sahih At-Tirmidhi 1/144, Sahih Ibn\nMajah 1/194, and 'Irwa'ul-GhaW. 2/ 172.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_117",
+      "itemNumber": 2,
+      "hisnNumber": 117,
+      "hisnReference": "Hisn al-Muslim 117",
+      "url": "https://sunnah.com/hisn:117",
+      "text": {
+        "arabic": "اللّهُـمَّ إِنِّـي أَعـوذُ بِرِضـاكَ مِنْ سَخَطِـك،\nوَبِمُعـافاتِـكَ مِنْ عُقوبَـتِك،\nوَأَعـوذُ بِكَ مِنْـك،\nلا أُحْصـي ثَنـاءً عَلَـيْك،\nأَنْـتَ كَمـا أَثْنَـيْتَ عَلـى نَفْسـِك",
+        "transliteration": "Allāhumma innī a`ūdhu biriḍāka min sakhaṭik,\nwa bimu`āfātika min `uqūbatik,\nwa a`ūdhu bika mink,\nlā uḥṣī thanā'an `alayk,\nAnta kamā athnayta `alā nafsik.",
+        "translations": {
+          "en": "O Allah, I seek refuge with Your Pleasure from Your anger.\nI seek refuge in Your forgiveness from Your punishment.\nI seek refuge in You from You.\nI cannot count Your praises,\nYou are as You have praised Yourself."
+        }
+      },
+      "reference": "Abu Dawud, Ibn Majah, An-Nasa'i, At-Tirmidhi, Ahmad. See Al-Albani, Sahih\nAt-Tirmidhi 3/180, Sahih Ibn Majah 1/194, and 'Irwa'ul-Ghalil. 2/ 175.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_118",
+      "itemNumber": 3,
+      "hisnNumber": 118,
+      "hisnReference": "Hisn al-Muslim 118",
+      "url": "https://sunnah.com/hisn:118",
+      "text": {
+        "arabic": "اللّهُـمَّ إِيّـاكَ نعْـبُدْ،\nوَلَـكَ نُصَلّـي وَنَسْـجُد،\nوَإِلَـيْكَ نَسْـعى وَنَحْـفِد،\nنَـرْجو رَحْمَـتَك،\nوَنَخْشـى عَـذابَك،\nإِنَّ عَـذابَكَ بالكـافرين ملْحَـق.\nاللّهُـمَّ إِنّا نَسْتَعـينُكَ\nوَنَسْتَـغْفِرُك،\nوَنُثْـنـي عَلَـيْك الخَـيْرَ،\nوَلا نَكْـفُرُك،\nوَنُـؤْمِنُ بِك،\nوَنَخْـضَعُ لَكَ\nوَنَخْـلَعُ مَنْ يَكْـفرُك",
+        "transliteration": "Allāhumma iyyāka na`bud,\nwa laka nuṣallī wa nasjud,\nwa ilayka nas`ā wa naḥfid,\nnarjū raḥmatak,\nwa nakhshā `adhābak,\ninna `adhābaka bilkāfirīna mulḥaq.\nAllāhumma innā nasta`īnuk,\nwa nastaghfiruk,\nwa nuthnī `alaykal-khayr,\nwa lā nakfuruk,\nwa nu'minu bik,\nwa nakhḍa`u lak,\nwa nakhla`u man yakfuruk.",
+        "translations": {
+          "en": "O Allah, You alone do we worship,\nand to You we pray and bow down prostrate.\nTo You we hasten to worship and to serve.\nOur hope is for Your mercy,\nand we fear Your punishment.\nSurely, Your punishment of the disbelievers is at hand.\nO Allah, we seek Your help and Your forgiveness,\nand we praise You beneficently.\nWe do not deny You and we believe in You.\nWe surrender to You\nand renounce whoever disbelieves in You."
+        }
+      },
+      "reference": "Al-Bayhaqi graded its chain authentic in As-Sunan Al-Kubra. Al-Albani said\nin 'Irwa'ul-GhaliL 2/170 that its chain is authentic as a statement of\n'Umar.",
+      "repetitions": 1
+    }
+  ]
+}

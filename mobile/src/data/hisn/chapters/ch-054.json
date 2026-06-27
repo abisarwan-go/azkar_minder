@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 54,
+  "slug": "when-closing-the-eyes-of-the-deceased",
+  "title": {
+    "arabic": "الدعاء عند إغماض الميت",
+    "translations": {
+      "en": "When closing the eyes of the deceased"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_155",
+      "itemNumber": 1,
+      "hisnNumber": 155,
+      "hisnReference": "Hisn al-Muslim 155",
+      "url": "https://sunnah.com/hisn:155",
+      "text": {
+        "arabic": "اللهُـمِّ اغْفِـرْ لِـفلان (باسـمه)\nوَارْفَعْ دَرَجَتَـهُ في المَهْـدِييـن ،\nوَاخْـلُفْـهُ في عَقِـبِهِ في الغابِـرين،\nوَاغْفِـرْ لَنـا وَلَـهُ يا رَبَّ العـالَمـين،\nوَافْسَـحْ لَهُ في قَبْـرِهِ وَنَـوِّرْ لَهُ فيه",
+        "transliteration": "Allāhumma’ghfir li (name of the person)\nwarfa` darajatahu fi ‘l-mahdiyyīn,\nwakhlufhu fī `aqibihi fi ‘l-ghābirīn,\nwagh’fir-lanā wa lahu yā Rabba ‘l-`ālamīn,\nwafsaḥ lahu fī qabrihi wa nawwir lahu fīh.",
+        "translations": {
+          "en": "O Allah, forgive [name of the person]\nand elevate his station among those who are guided.\nSend him along the path of those who came before,\nand forgive us and him, O Lord of the worlds.\nEnlarge for him his grave, and shed light upon him in it."
+        }
+      },
+      "reference": "Muslim 2/634.",
+      "repetitions": 1
+    }
+  ]
+}

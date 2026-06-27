@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 39,
+  "slug": "when-being-afraid-of-a-group-of-people",
+  "title": {
+    "arabic": "ما يقول من خاف قوماً",
+    "translations": {
+      "en": "When being afraid of a group of people"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_132",
+      "itemNumber": 1,
+      "hisnNumber": 132,
+      "hisnReference": "Hisn al-Muslim 132",
+      "url": "https://sunnah.com/hisn:132",
+      "text": {
+        "arabic": "اللَّهُمَّ اكْفِنِيهِم بمَا شِئْت",
+        "transliteration": "Allāhummak-finīhim bimā shi't.",
+        "translations": {
+          "en": "O Allah, suffice (i.e. protect) me against them however You wish."
+        }
+      },
+      "reference": "Muslim 4/2300.",
+      "repetitions": 1
+    }
+  ]
+}

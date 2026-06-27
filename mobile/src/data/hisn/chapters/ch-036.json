@@ -1,0 +1,60 @@
+{
+  "chapterNumber": 36,
+  "slug": "upon-encountering-an-enemy-or-those-of-authority",
+  "title": {
+    "arabic": "دعاء لقاء العدو وذي السلطان",
+    "translations": {
+      "en": "Upon encountering an enemy or those of authority"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_126",
+      "itemNumber": 1,
+      "hisnNumber": 126,
+      "hisnReference": "Hisn al-Muslim 126",
+      "url": "https://sunnah.com/hisn:126",
+      "text": {
+        "arabic": "اللّهُـمَّ إِنا نَجْـعَلُكَ في نُحـورِهِـم،\nوَنَعـوذُ بِكَ مِنْ شُرورِهـمْ",
+        "transliteration": "Allāhumma innā naj`aluka fī nuḥūrihim\nwa na`ūdhu bika min shurūrihim.",
+        "translations": {
+          "en": "O Allah, we ask You to restrain them by their necks,\nand we seek refuge in You from their evil."
+        }
+      },
+      "reference": "Abu Dawud 2/89, and Al-Hakim graded it authentic and Ath-Thahabi agreed\n2/142.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_127",
+      "itemNumber": 2,
+      "hisnNumber": 127,
+      "hisnReference": "Hisn al-Muslim 127",
+      "url": "https://sunnah.com/hisn:127",
+      "text": {
+        "arabic": "اللّهُـمَّ أَنْتَ عَضُـدي، وَأَنْتَ نَصـيري،\nبِكَ أَجـولُ وَبِكَ أَصـولُ وَبِكَ أُقـاتِل",
+        "transliteration": "Allāhumma anta `aḍudī, wa anta naṣīrī,\nbika ajūlu, wa bika aṣūlu, wa bika uqātil.",
+        "translations": {
+          "en": "O Allah, You are my strength and You are my support.\nFor Your sake, I go forth and for Your sake, I advance and for Your sake, I fight."
+        }
+      },
+      "reference": "Abu Dawud 3/42, At-Tirmidhi 5/572. See also Al-Albani, Sahih At-Tirmidhi\n3/183.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_128",
+      "itemNumber": 3,
+      "hisnNumber": 128,
+      "hisnReference": "Hisn al-Muslim 128",
+      "url": "https://sunnah.com/hisn:128",
+      "text": {
+        "arabic": "حَسْبُـنا اللهُ وَنِعْـمَ الوَكـيل",
+        "transliteration": "Ḥasbunallāhu wa ni`mal-wakīl.",
+        "translations": {
+          "en": "Allah is sufficient for us and the best of those on whom to depend."
+        }
+      },
+      "reference": "Al-Bukhari, 5/172.",
+      "repetitions": 1
+    }
+  ]
+}

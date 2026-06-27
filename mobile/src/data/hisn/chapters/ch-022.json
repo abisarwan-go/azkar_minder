@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 22,
+  "slug": "the-tashahhud",
+  "title": {
+    "arabic": "التشهد",
+    "translations": {
+      "en": "The Tashahhud"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_052",
+      "itemNumber": 1,
+      "hisnNumber": 52,
+      "hisnReference": "Hisn al-Muslim 52",
+      "url": "https://sunnah.com/hisn:52",
+      "text": {
+        "arabic": "التَّحِيّـاتُ للهِ وَالصَّلَـواتُ والطَّيِّـبات ،\nالسَّلامُ عَلَيـكَ أَيُّهـا النَّبِـيُّ وَرَحْمَـةُ اللهِ وَبَرَكـاتُه ،\nالسَّلامُ عَلَيْـناوَعَلـى عِبـادِ للهِ الصَّـالِحـين .\nأَشْـهَدُ أَنْ لا إِلـهَ إِلاّ الله ،\nوَأَشْـهَدُ أَنَّ مُحَمّـداً عَبْـدُهُ وَرَسـولُه",
+        "transliteration": "Attaḥiyyātu lillāhi waṣṣalawātu, waṭṭayyibāt,\nassalāmu `alayka 'ayyuhan-Nabiyyu\nwa raḥmatullāhi wa barakātuh,\nassalāmu `alaynā wa `alā ‘ibādillāhiṣ-ṣāliḥīn.\n'Ash-hadu 'an lā 'ilāha 'illallāh\nwa 'ash-hadu 'anna Muḥammadan `abduhu wa rasūluh.",
+        "translations": {
+          "en": "All greetings of humility are for Allah, and all prayers and goodness.\nPeace be upon you, O Prophet, and the mercy of Allah and His blessings.\nPeace be upon us and upon the righteous slaves of Allah. I bear witness\nthat there is none worthy of worship but Allah, and I bear witness that\nMuhammad is His slave and His Messenger."
+        }
+      },
+      "reference": "Al-Bukhari, Muslim 1/301. See also Al-Asqalani, Fathul-Bal 1/13",
+      "repetitions": 1
+    }
+  ]
+}

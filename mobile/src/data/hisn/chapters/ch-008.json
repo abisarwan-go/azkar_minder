@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 8,
+  "slug": "before-ablution",
+  "title": {
+    "arabic": "الذكر قبل الوضوء",
+    "translations": {
+      "en": "Before ablution"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_012",
+      "itemNumber": 1,
+      "hisnNumber": 12,
+      "hisnReference": "Hisn al-Muslim 12",
+      "url": "https://sunnah.com/hisn:12",
+      "text": {
+        "arabic": "بِسْمِ الله",
+        "transliteration": "Bismillāhi",
+        "translations": {
+          "en": "In the Name of Allah"
+        }
+      },
+      "reference": "Abu Dawud, Ibn Majah, and Ahmad. See also Al-Albani, 'Irwa'ul-Ghain 1/122.",
+      "repetitions": 1
+    }
+  ]
+}

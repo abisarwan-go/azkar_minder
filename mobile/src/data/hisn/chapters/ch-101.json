@@ -1,0 +1,44 @@
+{
+  "chapterNumber": 101,
+  "slug": "supplication-of-the-resident-for-the-traveller",
+  "title": {
+    "arabic": "دعاء المقيم للمسافر",
+    "translations": {
+      "en": "Supplication of the resident for the traveller"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_212",
+      "itemNumber": 1,
+      "hisnNumber": 212,
+      "hisnReference": "Hisn al-Muslim 212",
+      "url": "https://sunnah.com/hisn:212",
+      "text": {
+        "arabic": "أَسْتَـوْدِعُ اللَّهَ ديـنَكَ\nوَأَمانَتَـكَ،\nوَخَـواتيـمَ عَمَـلِك",
+        "transliteration": "Astawdi`ullāha dīnak,\nwa amānatak,\nwa khawātīma `amalik.",
+        "translations": {
+          "en": "I leave your religion in the care of Allah,\nas well as your safety,\nand the last of your deeds."
+        }
+      },
+      "reference": "Ahmad 2/7, At-Tirmidhi 5/499. See also Al-Albani, Sahih At-Tirmidhi 2/155.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_213",
+      "itemNumber": 2,
+      "hisnNumber": 213,
+      "hisnReference": "Hisn al-Muslim 213",
+      "url": "https://sunnah.com/hisn:213",
+      "text": {
+        "arabic": "زَوَّدَكَ اللَّهُ التقْوى،\nوَغَفَـرَذَنْـبَكَ،\nوَيَسَّـرَ لَكَ الخَـيْرَ حَيْـثُما كُنْـت",
+        "transliteration": "Zawwadaka ‘llāhut-taqwā,\nwa ghafara dhanbak,\nwa yassara laka ‘l-khayra ḥaythu mā kunt.",
+        "translations": {
+          "en": "May Allah give you piety as your provision,\nforgive your sins,\nand make goodness easy for you wherever you are."
+        }
+      },
+      "reference": "At-Tirmidhi. See Al-Albani, Sahih At-Tirmidhi, 3/155.",
+      "repetitions": 1
+    }
+  ]
+}

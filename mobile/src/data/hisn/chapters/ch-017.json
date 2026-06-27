@@ -1,0 +1,92 @@
+{
+  "chapterNumber": 17,
+  "slug": "while-bowing-in-prayer",
+  "title": {
+    "arabic": "دعاء الركوع",
+    "translations": {
+      "en": "While bowing in prayer"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_033",
+      "itemNumber": 1,
+      "hisnNumber": 33,
+      "hisnReference": "Hisn al-Muslim 33",
+      "url": "https://sunnah.com/hisn:33",
+      "text": {
+        "arabic": "سُبْـحانَ رَبِّـيَ الْعَظـيم (ثلاث مرات)",
+        "transliteration": "Subḥāna Rabbiyal-`Aẓīm.[three times]",
+        "translations": {
+          "en": "Glory to my Lord the Exalted (three times in Arabic)"
+        }
+      },
+      "reference": "Abu Dawud, Ibn Majah, An-Nasa'i, At-Tirmidhi, and Ahmad. See Al-Albani's\nSahih At-Tirmidhi 1/83.",
+      "repetitions": 3
+    },
+    {
+      "id": "hisn_034",
+      "itemNumber": 2,
+      "hisnNumber": 34,
+      "hisnReference": "Hisn al-Muslim 34",
+      "url": "https://sunnah.com/hisn:34",
+      "text": {
+        "arabic": "سُبْـحانَكَ اللّهُـمَّ رَبَّـنا وَبِحَـمْدِك ،\nاللّهُـمَّ اغْفِـرْ لي",
+        "transliteration": "Subḥānaka Allāhumma Rabbanā wa biḥamdika\nAllāhum-maghfir lī.",
+        "translations": {
+          "en": "Glory is to You , O Allah , our Lord , and praise is Yours .\nO Allah , forgive me."
+        }
+      },
+      "reference": "Al-Bukhari 1/99, Muslim 1/350.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_035",
+      "itemNumber": 3,
+      "hisnNumber": 35,
+      "hisnReference": "Hisn al-Muslim 35",
+      "url": "https://sunnah.com/hisn:35",
+      "text": {
+        "arabic": "سُبـّوحٌ قُـدّْوس ، رَبُّ الملائِكَـةِ وَالـرُّوح",
+        "transliteration": "Subbūḥun, Quddūsun, Rabbul-malā'ikati warrūḥ.",
+        "translations": {
+          "en": "Glory (to You) , Most Holy (are You) ,\nLord of the angels and the Spirit."
+        }
+      },
+      "reference": "Muslim 1/353, Abu Dawud 1/230.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_036",
+      "itemNumber": 4,
+      "hisnNumber": 36,
+      "hisnReference": "Hisn al-Muslim 36",
+      "url": "https://sunnah.com/hisn:36",
+      "text": {
+        "arabic": "اللّهُـمَّ لَكَ رَكَـعْتُ\nوَبِكَ آمَـنْت، ولَكَ أَسْلَـمْت ،\nخَشَـعَ لَكَ سَمْـعي، وَبَصَـري ،\nوَمُخِّـي، وَعَظْمـي، وَعَصَـبي ،\nوَما استَقَـلَّ بِهِ قَدَمي",
+        "transliteration": "Allāhumma laka raka`tu,\nwa bika 'āmantu, wa laka 'aslamtu\nkhasha`a laka sam`ee wa baṣarī,\nwa mukhkhī, wa `aẓmī, wa `aṣabī,\nwa mastaqalla bihi qadamī.",
+        "translations": {
+          "en": "O Allah , to You I bow (in prayer)\nand in You I believe and to You I have submitted.\nBefore You my hearing is humbled, and my sight,\nand my mind, my bones, my nerves\nand what my feet have mounted upon (for travel)."
+        }
+      },
+      "reference": "Muslim 1/534, Abu Dawud, An-Nasa'i and At- Tirmidhi.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_037",
+      "itemNumber": 5,
+      "hisnNumber": 37,
+      "hisnReference": "Hisn al-Muslim 37",
+      "url": "https://sunnah.com/hisn:37",
+      "text": {
+        "arabic": "سُبْـحانَ ذي الْجَبَـروت، والمَلَـكوت، وَالكِبْـرِياء، وَالْعَظَـمَةِ",
+        "transliteration": "Subḥāna dhil-jabarūti, walmalakūti, walkibriyā'i, wal`aẓamati.",
+        "translations": {
+          "en": "Glory is to You, Master of power, of dominion, of majesty and greatness."
+        }
+      },
+      "reference": "Abu Dawud 1/230, An-Nasa'i and Ahmad. Its chain of narration is good\n(Hasan).",
+      "repetitions": 1
+    }
+  ]
+}

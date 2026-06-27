@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 117,
+  "slug": "between-the-yemeni-corner-and-the-black-stone",
+  "title": {
+    "arabic": "الدعاء بين الركن اليماني والحجر الأسود",
+    "translations": {
+      "en": "Between the Yemeni corner and the black stone"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_235",
+      "itemNumber": 1,
+      "hisnNumber": 235,
+      "hisnReference": "Hisn al-Muslim 235",
+      "url": "https://sunnah.com/hisn:235",
+      "text": {
+        "arabic": "﴿رَبَّنَا آتِنَا في الدُّنْيَا حسَنَةً\nوفي الآخِرَةِ حسَنةً\nوقِنَا عذَابَ النَّارِ﴾",
+        "transliteration": "Rabbanā ātinā fid-dunyā ḥasanah\nwa fi ‘l-ākhirati ḥasanah\nwa qinā `adhāban-nār.",
+        "translations": {
+          "en": "Our Lord, grant us the good things in this world,\nand the good things in the next life,\nand save us from the punishment of the Fire."
+        }
+      },
+      "reference": "Abu Dawud 2/179, Ahmad 3/411, Al-Baghawi, Sharhus-Sunnah 7/128. Al-Albani\ngraded it good in Sahih Abu Dawud 1/354. The Ayat is from Surat Al-Baqarah,\n2:201.",
+      "repetitions": 1
+    }
+  ]
+}

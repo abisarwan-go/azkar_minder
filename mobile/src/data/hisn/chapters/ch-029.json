@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 29,
+  "slug": "when-tossing-and-turning-during-the-night",
+  "title": {
+    "arabic": "الدعاء إذا تقلب ليلاً",
+    "translations": {
+      "en": "When tossing and turning during the night"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_112",
+      "itemNumber": 1,
+      "hisnNumber": 112,
+      "hisnReference": "Hisn al-Muslim 112",
+      "url": "https://sunnah.com/hisn:112",
+      "text": {
+        "arabic": "لا إِلـهَ إِلاّ اللهُ\nالـواحِدُ القَهّـار\nرَبُّ السَّـمواتِ وَالأرْضِ وَما بَيْـنَهـما\nالعَزيـزُ الغَـفّار",
+        "transliteration": "Lā ilāha illallāh\nal-Wāḥidul-Qahhār,\nRabbus-samāwāti wa ‘l-arḍi wa mā baynahuma\nal-`Azīzul-Ghaffār.",
+        "translations": {
+          "en": "There is none worthy of worship but Allah,\nthe One, the Victorious,\nLord of the heavens and the earth and all that is between them,\nthe All-Mighty, the All-Forgiving."
+        }
+      },
+      "reference": "This is to be said if you turn over in bed during the night. Al-Hakim\ngraded it authentic and Ath-Thahabi agreed 1/540. Also see An-Nasa'i,\n'Amalul-Yawm wal-Laylah, and Ibn As-Sunni. See also Al-Albani,\nSahihul-Jami' As-Saghir 4/ 213.",
+      "repetitions": 1
+    }
+  ]
+}

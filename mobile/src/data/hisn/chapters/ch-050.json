@@ -1,0 +1,26 @@
+{
+  "chapterNumber": 50,
+  "slug": "excellence-of-visiting-the-sick",
+  "title": {
+    "arabic": "فضل عيادة المريض",
+    "translations": {
+      "en": "Excellence of visiting the sick"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_149",
+      "itemNumber": 1,
+      "hisnNumber": 149,
+      "hisnReference": "Hisn al-Muslim 149",
+      "url": "https://sunnah.com/hisn:149",
+      "text": {
+        "arabic": "قَالَ صلى الله عليه وسلم: (إِذَا عَادَ الرَّجُلُ أَخَاهُ الْمُسْلِمَ مَشَى فِي خِرَافَةِ الْجَنَّةِ حَتَّى يَجْلِسَ، فَإِذَا جَلَسَ غَمَرَتْهُ الرَّحْمَةُ، فَإِنْ كَانَ غُدْوَةً صَلَّى عَلَيْهِ سَبْعُونَ أَلْفَ مَلَكٍ حَتَّى يُمْسِيَ، وَإِنْ كَانَ مَسَاءً صَلَّى عَلَيْهِ سَبْعُونَ أَلْفَ مَلَكٍ حَتَّى يُصْبِحَ)",
+        "translations": {
+          "en": "When a man goes to visit his sick Muslim brother, he walks along a path of Paradise until he sits, and when he sits he is cloaked in mercy. If he comes in the morning, seventy thousand angels pray for him until evening, and if he comes in the evening, seventy thousand angels pray for him until morning."
+        }
+      },
+      "repetitions": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 98,
+  "slug": "when-entering-the-market",
+  "title": {
+    "arabic": "دعاء دخول السوق",
+    "translations": {
+      "en": "When entering the market"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_209",
+      "itemNumber": 1,
+      "hisnNumber": 209,
+      "hisnReference": "Hisn al-Muslim 209",
+      "url": "https://sunnah.com/hisn:209",
+      "text": {
+        "arabic": "لا إلهَ إلاّ اللّه\nوحدَهُ لا شريكَ لهُ،\nلهُ المُلْـكُ ولهُ الحَمْـد،\nيُحْيـي وَيُميـتُ\nوَهُوَ حَيٌّ لا يَمـوت،\nبِيَـدِهِ الْخَـيْرُ\nوَهوَ على كلّ شيءٍ قدير",
+        "transliteration": "Lā ilāha illallāh\nwaḥdahu lā sharīka lah,\nLahu ‘l-mulku wa lahu ‘l-ḥamd,\nYuḥyī wa yumīt,\nwa huwa ḥayyun lā yamūt,\nBiyadihi ‘l-khayr,\nwa huwa `alā kulli shay'in Qadīr.",
+        "translations": {
+          "en": "None has the right to be worshipped but Allah alone,\nWho has no partner.\nHis is the dominion and His is the praise. He brings life and He causes death,\nand He is living and does not die.\nIn His Hand is all good,\nand He is Able to do all things."
+        }
+      },
+      "reference": "At-Tirmidhi 5/291, and Al-Hakim 1/538. Al-Albani graded it good in Sahih\nIbn Majah 2/21 and Sahih At-Tirmidhi 3/152.",
+      "repetitions": 1
+    }
+  ]
+}

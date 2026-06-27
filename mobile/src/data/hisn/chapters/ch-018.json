@@ -1,0 +1,60 @@
+{
+  "chapterNumber": 18,
+  "slug": "upon-rising-from-the-bowing-position",
+  "title": {
+    "arabic": "دعاء الرفع من الركوع",
+    "translations": {
+      "en": "Upon rising from the bowing position"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_038",
+      "itemNumber": 1,
+      "hisnNumber": 38,
+      "hisnReference": "Hisn al-Muslim 38",
+      "url": "https://sunnah.com/hisn:38",
+      "text": {
+        "arabic": "سَمِـعَ اللهُ لِمَـنْ حَمِـدَه",
+        "transliteration": "Sami`allāhu liman ḥamidah.",
+        "translations": {
+          "en": "Allah hears whoever praises Him."
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 2/282.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_039",
+      "itemNumber": 2,
+      "hisnNumber": 39,
+      "hisnReference": "Hisn al-Muslim 39",
+      "url": "https://sunnah.com/hisn:39",
+      "text": {
+        "arabic": "رَبَّنـا وَلَكَ الحَمْـدُ\nحَمْـداً كَثـيراً طَيِّـباً مُـبارَكاً فيه",
+        "transliteration": "Rabbanā wa lakal-ḥamd,\nḥamdan kathīran ṭayyiban mubārakan fīh.",
+        "translations": {
+          "en": "Our Lord, praise is Yours,\nabundant, good and blessed praise."
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 2/284.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_040",
+      "itemNumber": 3,
+      "hisnNumber": 40,
+      "hisnReference": "Hisn al-Muslim 40",
+      "url": "https://sunnah.com/hisn:40",
+      "text": {
+        "arabic": "مِلْءَ السَّمـواتِ وَمِلْءَ الأَرْض، وَما بَيْـنَهُمـا ،\nوَمِلْءَ ما شِئْـتَ مِنْ شَيءٍ بَعْـد .\nأَهـلَ الثَّـناءِ وَالمَجـد ،\nأََحَـقُّ ما قالَ العَبْـد ،\nوَكُلُّـنا لَكَ عَـبد .\nاللّهُـمَّ لا مانِعَ لِما أَعْطَـيْت ،\nوَلا مُعْطِـيَ لِما مَنَـعْت ،\nوَلا يَنْفَـعُ ذا الجَـدِّ مِنْـكَ الجَـد",
+        "transliteration": "Mil'a 's-samāwāti wa mil'a 'l-'arḍi wa mā baynahumā,\nwa mil'a mā shi'ta min shay'in ba`d.\n'Ahla 'th-thanā'i wa 'l-majdi,\n'aḥaqqu mā qāla 'l-`abdu,\nwa kullunā laka `abdun.\nAllāhumma lā māni`a limā 'a`ṭayta,\nwa lā mu`ṭiya limā mana`ta,\nwa lā yanfa`u dhal-jaddi minka 'l-jadd.\n.",
+        "translations": {
+          "en": "(A praise that) fills the heavens and the earth and what lies between them,\nand whatever else You please.\n(You Allah) are most worthy of praise and majesty, and what the slave has said - we are all Your slaves.\nO Allah, there is none who can withhold what You give,\nand none may give what You have withheld.\nAnd the might of the mighty person cannot benefit him against You."
+        }
+      },
+      "reference": "Muslim 1/346.",
+      "repetitions": 1
+    }
+  ]
+}

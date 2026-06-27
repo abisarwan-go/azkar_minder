@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 124,
+  "slug": "when-feeling-some-pain-in-the-body",
+  "title": {
+    "arabic": "ما يفعل ويقول من أحس وجعاً في جسده",
+    "translations": {
+      "en": "When feeling some pain in the body"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_243",
+      "itemNumber": 1,
+      "hisnNumber": 243,
+      "hisnReference": "Hisn al-Muslim 243",
+      "url": "https://sunnah.com/hisn:243",
+      "text": {
+        "arabic": "ضَعْ يَدَكَ عَلَى الَّذِي تَألَّمَ مِنْ جَسَدِكَ وَقُلْ:\n\"بِسْمِ اللَّهِ\" ثَلاَثاً،\nوَقُلْ سَبْعَ مَرَّاتٍ:\n\"أَعُوذُ بِاللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ\"",
+        "transliteration": "Put your hand on the place where you feel pain and say:\nBismillāh (three times).\nThen say seven times:\nA`ūdhu billāhi wa qudratihi min sharri mā ajidu wa uḥādhir.",
+        "translations": {
+          "en": "Put your hand on the place where you feel pain and say:\nWith the Name of Allah (three times).\n\nThen say seven times:\nI seek refuge in Allah and in His Power from the evil of what I find and of what I guard against."
+        }
+      },
+      "reference": "Muslim 4/1728.",
+      "repetitions": 7
+    }
+  ]
+}

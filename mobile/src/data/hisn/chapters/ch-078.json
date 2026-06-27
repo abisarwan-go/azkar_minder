@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 78,
+  "slug": "when-a-disbeliever-praises-allah-after-sneezing",
+  "title": {
+    "arabic": "ما يقالُ للكافر إذا عطس فحمد الله",
+    "translations": {
+      "en": "When a disbeliever praises Allah after sneezing"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_189",
+      "itemNumber": 1,
+      "hisnNumber": 189,
+      "hisnReference": "Hisn al-Muslim 189",
+      "url": "https://sunnah.com/hisn:189",
+      "text": {
+        "arabic": "يَهْـديكُـمُ اللهُ وَيُصْـلِحُ بالَـكُم",
+        "transliteration": "Yahdīkumullāhu wa yuṣliḥu bālakum.",
+        "translations": {
+          "en": "May Allah guide you and set your affairs in order"
+        }
+      },
+      "reference": "At-Tirmidhi 5/82, Ahmad 4/400, Abu Dawud 4/ 308. See also Al-Albani, Sahih\nAt-Tirmidhi 2/354.",
+      "repetitions": 1
+    }
+  ]
+}

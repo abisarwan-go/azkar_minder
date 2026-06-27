@@ -1,0 +1,44 @@
+{
+  "chapterNumber": 34,
+  "slug": "for-anxiety-and-sorrow",
+  "title": {
+    "arabic": "دعاء الهم والحزن",
+    "translations": {
+      "en": "For anxiety and sorrow"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_120",
+      "itemNumber": 1,
+      "hisnNumber": 120,
+      "hisnReference": "Hisn al-Muslim 120",
+      "url": "https://sunnah.com/hisn:120",
+      "text": {
+        "arabic": "اللّهُـمَّ إِنِّي عَبْـدُكَ\nابْنُ عَبْـدِكَ\nابْنُ أَمَتِـكَ\nنَاصِيَتِي بِيَـدِكَ\nمَاضٍ فِيَّ حُكْمُكَ\nعَدْلٌ فِيَّ قَضَاؤكَ\nأَسْأَلُـكَ بِكُلِّ اسْمٍ هُوَ لَكَ\nسَمَّـيْتَ بِهِ نَفْسَكَ\nأِوْ أَنْزَلْتَـهُ فِي كِتَابِكَ\nأَوْ عَلَّمْـتَهُ أَحَداً مِنْ خَلْقِـكَ\nأَوِ اسْتَـأْثَرْتَ بِهِ فِي عِلْمِ الغَيْـبِ عِنْـدَكَ\nأَنْ تَجْـعَلَ القُرْآنَ رَبِيـعَ قَلْبِـي\nوَنورَ صَـدْرِي\nوجَلَاءَ حُـزْنِي\nوذَهَابَ هَمِّـي",
+        "transliteration": "Allāhumma innī `abduk,\nibnu `abdik,\nibnu amatik,\nnāsiyatī biyadik,\nmāḍin fiyya ḥukmuk,\n`adlun fiyya qaḍā'uk,\nas'aluka bikullis’min huwa lak,\nsammayta bihi nafsak,\naw anzaltahu fī kitābik,\naw `allamtahu aḥadan min khalqik,\naw‘ista'tharta bihi fī `ilmil-ghaybi `indak,\nan taj`ala ‘l-Qur'āna rabī`a qalbī,\nwa nūra ṣadrī,\nwa jalā'a ḥuznī,\nwa dhahāba hammī.",
+        "translations": {
+          "en": "O Allah, I am Your slave,\nand the son of Your male slave,\nand the son of your female slave.\nMy forehead is in Your Hand (i.e. you have control over me).\nYour Judgment upon me is assured,\nand Your Decree concerning me is just.\nI ask You by every Name that You have named Yourself with,\nrevealed in Your Book,\ntaught any one of Your creation,\nor kept unto Yourself in the knowledge of the unseen that is with You,\nto make the Qur'an the spring of my heart,\nand the light of my chest,\nthe banisher of my sadness,\nand the reliever of my distress."
+        }
+      },
+      "reference": "Ahmad 1/391, and Al-Albani graded it authentic.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_121",
+      "itemNumber": 2,
+      "hisnNumber": 121,
+      "hisnReference": "Hisn al-Muslim 121",
+      "url": "https://sunnah.com/hisn:121",
+      "text": {
+        "arabic": "اللّهُـمَّ إِنِّي أَعْوذُ بِكَ مِنَ\nالهَـمِّ وَ الْحُـزْنِ،\nوالعًجْـزِ والكَسَلِ\nوالبُخْـلِ والجُـبْنِ،\nوضَلْـعِ الـدَّيْنِ\nوغَلَبَـةِ الرِّجال",
+        "transliteration": "Allāhumma 'innī 'a`ūdhu bika\nmina ‘l-ḥammi wa ‘l-ḥuzn,\nwa ‘l-`ajzi wa ‘l-kasal,\nwa ‘l-bukhli wa ‘l-jubn,\nwa ḍala`id-dayn,\nwa ghalabatir-rijāl.",
+        "translations": {
+          "en": "O Allah, I seek refuge in you\nfrom grief and sadness,\nfrom weakness and from laziness,\nfrom miserliness and from cowardice,\nfrom being overcome by debt\nand overpowered by men (i.e. others)."
+        }
+      },
+      "reference": "Al-Bukhari 7/158. See also Al-Asqalani, Fathul-Bari 11/173.",
+      "repetitions": 1
+    }
+  ]
+}

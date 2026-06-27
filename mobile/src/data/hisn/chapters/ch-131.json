@@ -1,0 +1,27 @@
+{
+  "chapterNumber": 131,
+  "slug": "how-the-prophet-made-tasbeeh",
+  "title": {
+    "arabic": "كيف كان النبي ﷺ يسبح ؟",
+    "translations": {
+      "en": "How the Prophet ﷺ made tasbeeh"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_266",
+      "itemNumber": 1,
+      "hisnNumber": 266,
+      "hisnReference": "Hisn al-Muslim 266",
+      "url": "https://sunnah.com/hisn:266",
+      "text": {
+        "arabic": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رضي الله عنهما قَالَ: رَأَيْتُ النَّبيَّ صلى الله عليه وسلم يَعْقِدُ التَّسْبِيحَ بِيَمِينِهِ.",
+        "translations": {
+          "en": "Abdullah bin 'Amr (RA) said: \"I saw the Prophet (ﷺ) counting the\nglorification of his Lord on his right hand.\""
+        }
+      },
+      "reference": "Abu Dawud with a different wording 2/81, and At-Tirmidhi 5/521. See also\nAl-Albani, Sahihul-Jami'As-Saghir 4/271 (no. 4865).",
+      "repetitions": 1
+    }
+  ]
+}

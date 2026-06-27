@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 102,
+  "slug": "takbir-and-tasbih-during-travel",
+  "title": {
+    "arabic": "التكبير والتسبيح في سير السفر",
+    "translations": {
+      "en": "Takbir and Tasbih during travel"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_214",
+      "itemNumber": 1,
+      "hisnNumber": 214,
+      "hisnReference": "Hisn al-Muslim 214",
+      "url": "https://sunnah.com/hisn:214",
+      "text": {
+        "arabic": "قَالَ جَابِرٌ رضي الله عنه:\n(كُنَّا إِذَا صَعَدْنَا كَبَّرْنَا،\nوَإِذَا نَزَلْنَا سَبَّحْنَا)",
+        "transliteration": "--",
+        "translations": {
+          "en": "Jabir (ra), said: Whenever we went up a hill we would say\nAllāhu Akbar (Allah is the Most Great)\nand when we descended we would say\nSubḥānallāh (Glory is to Allah)."
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 6/135.",
+      "repetitions": 1
+    }
+  ]
+}

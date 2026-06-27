@@ -1,0 +1,27 @@
+{
+  "chapterNumber": 44,
+  "slug": "upon-committing-a-sin",
+  "title": {
+    "arabic": "ما يقول ويفعل من أذنب ذنباً",
+    "translations": {
+      "en": "Upon committing a sin"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_140",
+      "itemNumber": 1,
+      "hisnNumber": 140,
+      "hisnReference": "Hisn al-Muslim 140",
+      "url": "https://sunnah.com/hisn:140",
+      "text": {
+        "arabic": "مَا مِنْ عَبْدٍ يُذنِبُ ذَنْباً فَيُحْسِنُ الطُّهُورَ، ثُمَّ يَقُومُ فَيُصَلِّي رَكْعَتَيْنِ، ثُمَّ يَسْتَغْفِرُ اللَّهَ إِلاَّ غَفَرَ اللَّهُ لَهُ",
+        "translations": {
+          "en": "There is not any slave of Allah who commits a sin, then he perfects his purification and stands to pray two Rak'ahs of prayer, then seeks Allah's forgiveness, except that Allah will forgive him."
+        }
+      },
+      "reference": "Abu Dawud 2/86, At-Tirmidhi 2/257. Al-Albani graded it authentic in Sahih\nAbu Dawud 1/283.",
+      "repetitions": 1
+    }
+  ]
+}

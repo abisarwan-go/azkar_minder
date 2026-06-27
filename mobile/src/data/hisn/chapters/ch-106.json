@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 106,
+  "slug": "what-to-say-upon-receiving-pleasing-or-displeasing-news",
+  "title": {
+    "arabic": "ما يقول من أتاه أمر يسره أو يكرهه",
+    "translations": {
+      "en": "What to say upon receiving pleasing or displeasing news"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_218",
+      "itemNumber": 1,
+      "hisnNumber": 218,
+      "hisnReference": "Hisn al-Muslim 218",
+      "url": "https://sunnah.com/hisn:218",
+      "text": {
+        "arabic": "كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَتَاهُ الْأَمْرُ يَسُرُّهُ قَالَ: (الْحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ) وَإِذَا أَتَاهُ الْأَمْرُ يَكْرَهُهُ قَالَ: (الْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ)",
+        "transliteration": "When something happened that pleased him, the Prophet (ﷺ) used to say:\nAlḥamdu lillāhi ‘lladhi bi ni`matihi tatimmuṣ-ṣāliḥāt.\nAnd if something happened that displeased him, he used to say:\nAlḥamdu lillāhi `alā kulli ḥāl.",
+        "translations": {
+          "en": "When something happened that pleased him, the Prophet (ﷺ) used to say:\nPraise is to Allah Who by His blessings all good things are perfected.\n\nAnd if something happened that displeased him, he used to say:\nPraise is to Allah in all circumstances."
+        }
+      },
+      "reference": "Ibn As-Sunni, 'Amalul-Yawm wal-Laylah, and Al-Hakim who graded it authentic\n1/499. See also Al-Albani, Sahihul-Jami' As-Saghir 4/201.",
+      "repetitions": 1
+    }
+  ]
+}

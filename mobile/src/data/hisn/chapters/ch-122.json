@@ -1,0 +1,44 @@
+{
+  "chapterNumber": 122,
+  "slug": "at-times-of-amazement-and-that-which-delights",
+  "title": {
+    "arabic": "ما يقول عند التعجب والأمر السار",
+    "translations": {
+      "en": "At times of amazement and that which delights"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_240",
+      "itemNumber": 1,
+      "hisnNumber": 240,
+      "hisnReference": "Hisn al-Muslim 240",
+      "url": "https://sunnah.com/hisn:240",
+      "text": {
+        "arabic": "سُـبْحانَ الله",
+        "transliteration": "Subḥānallāh!",
+        "translations": {
+          "en": "(Glory is to Allah)."
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 1/210, 390, 414 and Muslim 4/1857.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_241",
+      "itemNumber": 2,
+      "hisnNumber": 241,
+      "hisnReference": "Hisn al-Muslim 241",
+      "url": "https://sunnah.com/hisn:241",
+      "text": {
+        "arabic": "اللهُ أَكْـبَر",
+        "transliteration": "Allāhu Akbar!",
+        "translations": {
+          "en": "(Allah is the Most Great)"
+        }
+      },
+      "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 8/441. See also Al-Albani, Sahih\nAt-Tirmidhi 2/103, 235, Ahmad 5/218.",
+      "repetitions": 1
+    }
+  ]
+}

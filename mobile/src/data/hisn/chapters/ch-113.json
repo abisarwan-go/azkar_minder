@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 113,
+  "slug": "the-etiquette-of-praising-a-fellow-muslim",
+  "title": {
+    "arabic": "ما يقول المسلم إذا مدح المسلم",
+    "translations": {
+      "en": "The etiquette of praising a fellow Muslim"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_231",
+      "itemNumber": 1,
+      "hisnNumber": 231,
+      "hisnReference": "Hisn al-Muslim 231",
+      "url": "https://sunnah.com/hisn:231",
+      "text": {
+        "arabic": "قال صلى الله عليه وسلم: \"إِذَا كَانَ أَحَدُكُم مَادِحاً صَاحِبَهُ لاَ مَحَالَةَ فَلْيَقُلْ: أَحْسِبُ فُلاَناً وَاللَّهُ حَسِيبُهُ، وَلاَ أُزَكِّي عَلَى اللَّهِ أَحَداً، أَحْسِبُهُ – إِنْ كَانَ يَعْلَمُ ذَاكَ – كَذَا وَكَذَا\"",
+        "transliteration": "If any of you praises his companion then let him say:\nAḥsibu fulānan wallāhu ḥasībuh\nwa lā uzakkī  `alallāhi aḥada.",
+        "translations": {
+          "en": "If any of you praises his companion then let him say:\nI consider (such and such a person), and Allah is his Assessor, (meaning: and I cannot claim anyone to be pious before Allah) if you know of this (good character trait in the person) to be such and such (saying what he thinks is praiseworthy in that person)."
+        }
+      },
+      "reference": "Muslim 4/2296.",
+      "repetitions": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 96,
+  "slug": "for-travel",
+  "title": {
+    "arabic": "دعاء السفر",
+    "translations": {
+      "en": "For travel"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_207",
+      "itemNumber": 1,
+      "hisnNumber": 207,
+      "hisnReference": "Hisn al-Muslim 207",
+      "url": "https://sunnah.com/hisn:207",
+      "text": {
+        "arabic": "\"اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ،\n﴿سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ *\nوَإِنَّا إِلَى رَبِّنَا لَمُنقَلِبُونَ﴾\nاللَّهُمَّ إِنّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا البِرَّ وَالتَّقْوَى،\nوَمِنَ الْعَمَلِ مَا تَرْضَى،\nاللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا\nوَاطْوِ عَنَّا بُعْدَهُ،\nاللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ،\nوَالْخَليفَةُ فِي الْأَهْلِ،\nاللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ،\nوَكَآبَةِ الْمَنْظَرِ،\nوَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ\"، وإذا رَجَعَ قَالَهُنَّ وَزَادَ فِيهِنَّ:\n\"آيِبُونَ، تائِبُونَ، عَابِدُونَ،\nلِرَبِّنَا حَامِدُونَ\".",
+        "transliteration": "Allāhu Akbar, Allāhu Akbar, Allāhu Akbar,\nSubḥāna ‘l-ladhi sakhkhara lanā hādhā\nwa mā kunnā lahu muqrinīn.\nWa innā ilā Rabbinā lamunqalibūn.\nAllāhumma innā nas'aluka fī safarinā hādha ‘l-birra wat-taqwā,\nWa mina ‘l-`amali mā tarḍā,\nAllāhumma hawwin `alaynā safaranā hādhā\nwaṭwi `annā bu`dah,\nAllāhumma antas-sāḥibu fis-safar,\nwa ‘l-khalīfatu fil-ahl,\nAllāhumma innī a`ūdhu bika min wa`thā'is-safar,\nwa ka'ābati ‘l-manẓar,\nwa sū'il-munqalabi fil-māli wa ‘l-ahl.",
+        "translations": {
+          "en": "(Upon returning recite the same again adding):\nĀ’ibūna, tā'ibūna, `ābidūn,\nLi Rabbinā ḥāmidūn.\n\nAllah is the Most Great. Allah is the Most Great. Allah is the Most Great.\nGlory is to Him Who has provided this for us\nthough we could never have had it by our efforts.\nSurely, unto our Lord we are returning.\nO Allah, we ask You on this our journey for goodness and piety,\nand for works that are pleasing to You.\nO Allah, lighten this journey for us\nand make its distance easy for us.\nO Allah, You are our Companion on the road\nand the One in Whose care we leave our family.\nO Allah, I seek refuge in You from this journey's hardships,\nand from the wicked sights in store\nand from finding our family and property in misfortune upon returning.\n\n(Upon returning recite the same again adding :)\n\nWe return repentant to our Lord, worshipping our Lord,\nand praising our Lord."
+        }
+      },
+      "reference": "Muslim 2/978.",
+      "repetitions": 1
+    }
+  ]
+}

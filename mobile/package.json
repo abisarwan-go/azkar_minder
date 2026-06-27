@@ -3,13 +3,20 @@
   "main": "expo-router/entry",
   "version": "1.0.0",
   "dependencies": {
+    "@expo-google-fonts/amiri": "^0.4.1",
+    "@expo-google-fonts/inter": "^0.4.2",
+    "@expo-google-fonts/noto-naskh-arabic": "^0.4.5",
+    "@expo-google-fonts/scheherazade-new": "^0.4.3",
     "@expo/ui": "~56.0.18",
+    "@expo/vector-icons": "^15.1.1",
+    "@react-native-async-storage/async-storage": "2.2.0",
     "expo": "~56.0.12",
     "expo-constants": "~56.0.18",
     "expo-dev-client": "~56.0.20",
     "expo-device": "~56.0.4",
     "expo-font": "~56.0.7",
     "expo-glass-effect": "~56.0.4",
+    "expo-haptics": "~56.0.3",
     "expo-image": "~56.0.11",
     "expo-linking": "~56.0.14",
     "expo-router": "~56.2.11",
@@ -34,11 +41,11 @@
   },
   "scripts": {
     "start": "expo start",
-    "reset-project": "node ./scripts/reset-project.js",
     "android": "expo run:android",
     "ios": "expo run:ios",
     "web": "expo start --web",
-    "lint": "expo lint"
+    "lint": "expo lint",
+    "sync:hisn": "cp ../web/src/data/hisn/chapters/*.json src/data/hisn/chapters/ && cp ../web/src/data/hisn/chapter-index.ts src/data/hisn/ && cp ../web/src/data/hisn/search-index.json src/data/hisn/"
   },
   "private": true,
   "packageManager": "pnpm@10.33.2+sha512.a90faf6feeab71ad6c6e57f94e0fe1a12f5dcc22cd754db40ae9593eb6a3e0b6b12e3540218bb37ae083404b1f2ce6db2a4121e979829b4aff94b99f49da1cf8"

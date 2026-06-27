@@ -1,0 +1,60 @@
+{
+  "chapterNumber": 45,
+  "slug": "for-expelling-the-devil-and-his-whisperings",
+  "title": {
+    "arabic": "دعاء طرد الشيطان ووساوسه",
+    "translations": {
+      "en": "For expelling the devil and his whisperings"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_141",
+      "itemNumber": 1,
+      "hisnNumber": 141,
+      "hisnReference": "Hisn al-Muslim 141",
+      "url": "https://sunnah.com/hisn:141",
+      "text": {
+        "arabic": "الاستعاذة بالله منه",
+        "transliteration": "A`ūdhu billāhi minash-shayṭānir-rajīm.",
+        "translations": {
+          "en": "Seeking refuge with Allah against him (i.e. by saying I seek refuge in Allah from Satan the outcast)."
+        }
+      },
+      "reference": "Abu Dawud 1/206, At-Tirmidhi. See also Al-Albani, Sahih At-Tirmidhi 1/77,\nand Surat Al-Mu'minun, 23:98-9.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_142",
+      "itemNumber": 2,
+      "hisnNumber": 142,
+      "hisnReference": "Hisn al-Muslim 142",
+      "url": "https://sunnah.com/hisn:142",
+      "text": {
+        "arabic": "الْأَذَانُ",
+        "transliteration": "--",
+        "translations": {
+          "en": "The call to prayer - 'Athan."
+        }
+      },
+      "reference": "Muslim 1/291, Al-Bukhari 1/151.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_143",
+      "itemNumber": 3,
+      "hisnNumber": 143,
+      "hisnReference": "Hisn al-Muslim 143",
+      "url": "https://sunnah.com/hisn:143",
+      "text": {
+        "arabic": "الْأَذْكَارُ وَقِرَاءَةُ الْقُرْآنِ",
+        "transliteration": "--",
+        "translations": {
+          "en": "Saying words of Allah's remembrance (Thikr) and recitation of the Qur'an."
+        }
+      },
+      "reference": "\"Do not turn your homes into graveyards, surely the Devil flees from the\nhouse in which Surat Al-Baqarah is read,\" Muslim 1/539. The Devil is also\ndriven out by the invocations for morning and evening, those that are said\nbefore sleeping and upon waking up, those for entering and leaving the\nhouse, including those for entering and leaving the mosque, and by many\nother authentic invocations taught to us by the Prophet (ﷺ) such as the\nreading of 'Ayatul-Kursi, (Al-Baqarah 2:255), and the last two 'Ayat of\nSurat Al-Baqarah before going to sleep. Whoever says: \"There is none worthy\nof worship but Allah alone, Who has no partner, His is the dominion and His\nis the praise, and he is Able to do all things,\" one hundred times, it will\nbe a protection for him from the Devil throughout the day.'",
+      "repetitions": 1
+    }
+  ]
+}

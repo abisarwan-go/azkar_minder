@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 86,
+  "slug": "returning-a-supplication-of-forgiveness",
+  "title": {
+    "arabic": "الدعاء لمن قال غفر الله لك",
+    "translations": {
+      "en": "Returning a supplication of forgiveness"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_197",
+      "itemNumber": 1,
+      "hisnNumber": 197,
+      "hisnReference": "Hisn al-Muslim 197",
+      "url": "https://sunnah.com/hisn:197",
+      "text": {
+        "arabic": "وَلَكَ",
+        "transliteration": "Walaka",
+        "translations": {
+          "en": "And you."
+        }
+      },
+      "reference": "Ahmad 5/82, and An-Nasa'i in 'Amalul-Yawm wal-Laylah p. 218, with checking\nby Dr. Farooq Hamadah.",
+      "repetitions": 1
+    }
+  ]
+}

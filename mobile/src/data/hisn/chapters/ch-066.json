@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 66,
+  "slug": "asking-for-clear-skies",
+  "title": {
+    "arabic": "من أدعية الاستصحاء",
+    "translations": {
+      "en": "Asking for clear skies"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_174",
+      "itemNumber": 1,
+      "hisnNumber": 174,
+      "hisnReference": "Hisn al-Muslim 174",
+      "url": "https://sunnah.com/hisn:174",
+      "text": {
+        "arabic": "اللّهُمَّ حَوالَيْنا وَلا عَلَيْـنا،\nاللّهُمَّ عَلى الآكـامِ وَالظِّـراب،\nوَبُطـونِ الأوْدِية، وَمَنـابِتِ الشَّجـر",
+        "transliteration": "Allāhumma ḥawālaynā wa lā `alaynā.\nAllāhumma `ala ‘l-ākāmi waẓ-ẓirāb,\nwa buṭūni ‘l-awdiyati, wa manābitish-shajar.",
+        "translations": {
+          "en": "O Allah, let the rain fall around us and not upon us,\nO Allah, (let it fall) on the pastures, hills, valleys, and the roots of trees."
+        }
+      },
+      "reference": "Al-Bukhari 1/224, Muslim 1/614",
+      "repetitions": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 13,
+  "slug": "upon-entering-the-mosque",
+  "title": {
+    "arabic": "دعاء دخول المسجد",
+    "translations": {
+      "en": "Upon entering the mosque"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_020",
+      "itemNumber": 1,
+      "hisnNumber": 20,
+      "hisnReference": "Hisn al-Muslim 20",
+      "url": "https://sunnah.com/hisn:20",
+      "text": {
+        "arabic": "أَعوذُ باللهِ العَظيـم\nوَبِوَجْهِـهِ الكَرِيـم\nوَسُلْطـانِه القَديـم\nمِنَ الشّيْـطانِ الرَّجـيم،\n[ بِسْـمِ الله، وَالصَّلاةُ وَالسَّلامُ عَلى رَسولِ\nالله]،\nاللّهُـمَّ افْتَـحْ لي أَبْوابَ رَحْمَتـِك",
+        "transliteration": "'A`ūdhu billāhi l-`aẓīm,\nwa bi-wajhihil-karīm,\nwa sultānihil-qadīm,\nmin ash-shaytānir-rajīm.\n[Bismillāhi, wassalātu wassalāmu `alā rasūlillāhi.]\nAllāhummaftaḥ lī 'abwāba raḥmatik.",
+        "translations": {
+          "en": "I seek refuge in Almighty Allah,\nBy His Noble Face,\nBy His primordial power,\nFrom Satan the outcast.1\n[In the Name of Allah, and blessings 2 and peace be upon the Messenger of Allah.3\nO Allah, open before me the doors of Your mercy.4"
+        }
+      },
+      "reference": "1. Abu Dawud and Al-Albani, Sahihul-Jdmi' As-Saghir (Hadithno. 4591).\n2. Ibn As-Sunni (Hadith no. 88), graded good by Al-Albani.\n3. Abu Dawud 1/126, see also Al-Albani, Sahihul-Jami'As-Saghir 1/528.\n4. Muslim 1/494.\nThere is also a report in Sunan Ibn Majah on the authority of Fatimah (RA), : \"O Allah, forgive me my sins and open for me the doors\nof Your mercy.\" It was graded authentic by\nAl-Albani due to supporting Ahadith. See Sahih Ibn Majah 1/128-9.",
+      "repetitions": 1
+    }
+  ]
+}

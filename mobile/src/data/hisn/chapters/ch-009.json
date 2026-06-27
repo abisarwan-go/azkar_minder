@@ -1,0 +1,60 @@
+{
+  "chapterNumber": 9,
+  "slug": "upon-completing-the-ablution",
+  "title": {
+    "arabic": "الذكر بعد الفراغ من الوضوء",
+    "translations": {
+      "en": "Upon completing the ablution"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_013",
+      "itemNumber": 1,
+      "hisnNumber": 13,
+      "hisnReference": "Hisn al-Muslim 13",
+      "url": "https://sunnah.com/hisn:13",
+      "text": {
+        "arabic": "أَشْهَدُ أَنْ لا إِلَـهَ إِلاّ اللهُ\nوَحْدَهُ لا شَريـكَ لَـهُ\nوَأَشْهَدُأَنَّ مُحَمّـداً عَبْـدُهُ وَرَسـولُـه",
+        "transliteration": "'Ash-hadu 'an lā 'ilāha 'illallāhu\nwaḥdahu lā sharīka lahu\nwa 'ash-hadu 'anna Muḥammadan `abduhu wa Rasūluhu.",
+        "translations": {
+          "en": "I bear witness that none has the right to be worshipped but Allah alone,\nWho has no partner;\nand I bear witness that Muhammad is His slave and His Messenger."
+        }
+      },
+      "reference": "Muslim 1/209.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_014",
+      "itemNumber": 2,
+      "hisnNumber": 14,
+      "hisnReference": "Hisn al-Muslim 14",
+      "url": "https://sunnah.com/hisn:14",
+      "text": {
+        "arabic": "اللّهُـمَّ اجْعَلنـي مِنَ التَّـوّابينَ\nوَاجْعَـلْني مِنَ المتَطَهّـرين.",
+        "transliteration": "Allāhummaj`alnī minat-tawwābīna\nwaj`alnī minal-mutaṭahhirīn.",
+        "translations": {
+          "en": "O Allah, make me among those who turn to You in repentance,\nand make me among those who are purified."
+        }
+      },
+      "reference": "At-Tirmidhi 1/78. See also Al-Albani, Sahih At- Tirmidhi 1/18",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_015",
+      "itemNumber": 3,
+      "hisnNumber": 15,
+      "hisnReference": "Hisn al-Muslim 15",
+      "url": "https://sunnah.com/hisn:15",
+      "text": {
+        "arabic": "سُبْحـانَكَ اللّهُـمَّ وَبِحَمدِك\nأَشْهَـدُ أَنْ لا إِلهَ إِلاّ أَنْتَ\nأَسْتَغْفِرُكَ وَأَتوبُ إِلَـيْك",
+        "transliteration": "Subḥānaka Allāhumma wa biḥamdika,\n'ash-hadu 'an lā 'ilāha 'illā 'Anta,\n'astaghfiruka wa 'atūbu 'ilayk.",
+        "translations": {
+          "en": "Glory is to You, O Allah, and praise;\nI bear witness that there is none\nworthy of worship but You.\nI seek Your forgiveness and turn to You in\nrepentance."
+        }
+      },
+      "reference": "An-Nasa'i, 'Amalul-Yawm wal-Laylah, p. 173. See also Al-Albani,\n'Irwa'ul-Ghalil 1/135 and 2/94.",
+      "repetitions": 1
+    }
+  ]
+}

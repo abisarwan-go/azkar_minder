@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 84,
+  "slug": "at-a-sitting-or-gathering",
+  "title": {
+    "arabic": "ما يقال في المجلس",
+    "translations": {
+      "en": "At a sitting or gathering"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_195",
+      "itemNumber": 1,
+      "hisnNumber": 195,
+      "hisnReference": "Hisn al-Muslim 195",
+      "url": "https://sunnah.com/hisn:195",
+      "text": {
+        "arabic": "عن ابن عمر قال : كان يعد لرسول الله صلى الله عليه وسلم في المجلس الواحد مائة مرة من قبل أن يقوم\n\"رب اغفر لي\nوتب علي\nإنك أنت التواب الغفور\"",
+        "transliteration": "Ibn Umar (ra) said: Allah's Messenger (ﷺ) used to repeat in a single sitting:\nRabbigh’fir lī\nwa tub `alayy\ninnaka antat-Tawwābu ‘l-Ghafūr.",
+        "translations": {
+          "en": "Ibn Umar (ra) said: Allah's Messenger (ﷺ) used to repeat in a single sitting:\n\nMy Lord, forgive me,\nand accept my repentance,\nYou are the Ever-Relenting, the All-Forgiving."
+        }
+      },
+      "reference": "Sahih Ibn Majah 2/321. See also Al-Albani, Sahih At-Tirmidhi 3/153.",
+      "repetitions": 1
+    }
+  ]
+}

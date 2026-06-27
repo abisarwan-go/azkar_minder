@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 2,
+  "slug": "when-wearing-a-garment",
+  "title": {
+    "arabic": "دعاء لبس الثوب",
+    "translations": {
+      "en": "When wearing a garment"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_005",
+      "itemNumber": 1,
+      "hisnNumber": 5,
+      "hisnReference": "Hisn al-Muslim 5",
+      "url": "https://sunnah.com/hisn:5",
+      "text": {
+        "arabic": "الحمدُ للهِ الّذي كَساني هذا (الثّوب)\nوَرَزَقَنيه مِنْ غَـيـْرِ حَولٍ مِنّي وَلا قـوّة",
+        "transliteration": "Alḥamdu lillāhil-ladhī kasānī hādhā (aththawba)\nwa razaqanīhi min ghayri hawlim-minnī wa lā quwwah.",
+        "translations": {
+          "en": "Praise is to Allah Who has clothed me with this (garment)\nand provided it for me, though I was powerless myself and incapable"
+        }
+      },
+      "reference": "Al-Bukhari, Muslim, Abu Dawud, Ibn Majah, At-Tirmidhi. See also\n'Irwa'ul-Ghalil 7/47.",
+      "repetitions": 1
+    }
+  ]
+}

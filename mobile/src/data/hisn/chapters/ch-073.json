@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 73,
+  "slug": "when-breaking-fast-in-someone-s-home",
+  "title": {
+    "arabic": "الدعاء إذا أفطر عند أهل بيت",
+    "translations": {
+      "en": "When breaking fast in someone’s home"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_184",
+      "itemNumber": 1,
+      "hisnNumber": 184,
+      "hisnReference": "Hisn al-Muslim 184",
+      "url": "https://sunnah.com/hisn:184",
+      "text": {
+        "arabic": "أَفْطَـرَ عِنْدَكُم الصّـائِمونَ\nوَأَكَلَ طَعامَـكُمُ الأبْـرار،\nوَصَلَّـتْ عَلَـيْكُمُ الملائِكَـة",
+        "transliteration": "Afṭara `indakumuṣ-ṣā'imūn,\nwa akala ṭa`āmakumu ‘l-'abrār,\nwa ṣallat `alaykumu ‘l-malā'ikah.",
+        "translations": {
+          "en": "With you, those who are fasting have broken their fast,\nyou have fed those who are righteous,\nand the angels recite their prayers upon you."
+        }
+      },
+      "reference": "Abu Dawud 3/367, Ibn Majah 1/556, An-Nasa'i, 'Amalul-Yawm wal-Laylah 296-8.\nAl-Albani graded it authentic in Sahih Abu Dawud 2/730.",
+      "repetitions": 1
+    }
+  ]
+}

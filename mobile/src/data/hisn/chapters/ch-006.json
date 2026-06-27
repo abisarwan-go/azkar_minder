@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 6,
+  "slug": "before-entering-the-bathroom",
+  "title": {
+    "arabic": "دعاء دخول الخلاء",
+    "translations": {
+      "en": "Before entering the bathroom"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_010",
+      "itemNumber": 1,
+      "hisnNumber": 10,
+      "hisnReference": "Hisn al-Muslim 10",
+      "url": "https://sunnah.com/hisn:10",
+      "text": {
+        "arabic": "(بِسْمِ الله)\nاللّهُـمَّ إِنِّـي أَعـوذُ بِـكَ مِـنَ الْخُـبْثِ وَالْخَبائِث",
+        "transliteration": "[Bismillāhi]\nAllāhumma 'innī 'a`ūdhu bika minal-khubthi walkhabā'ith.",
+        "translations": {
+          "en": "[In the Name of Allah].\nO Allah, I seek protection in You from evil and the evil ones\n(or, from the evil male and female Jinn)."
+        }
+      },
+      "reference": "Al-Bukhari 1/45, Muslim 1/283. The addition of Bismillah at its beginning\nwas reported by Said bin Mansur. See Fathul-Bari 1/244",
+      "repetitions": 1
+    }
+  ]
+}

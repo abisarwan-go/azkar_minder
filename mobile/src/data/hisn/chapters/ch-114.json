@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 114,
+  "slug": "for-the-one-that-have-been-praised",
+  "title": {
+    "arabic": "ما يقول المسلم إذا زكي",
+    "translations": {
+      "en": "For the one that have been praised"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_232",
+      "itemNumber": 1,
+      "hisnNumber": 232,
+      "hisnReference": "Hisn al-Muslim 232",
+      "url": "https://sunnah.com/hisn:232",
+      "text": {
+        "arabic": "اللَّهُمَّ لاَ تُؤَاخِذْنِي بِمَا يَقُولُونَ\nوَاغْفِرْ لِي مَا لاَ يَعْلَمُونَ\n[وَاجْعَلْنِي خَيْرًا مِمَّا يَظُّنُّونَ]",
+        "transliteration": "Allāhumma lā tu'ākhidhnī bimā yaqūlūn,\nwaghfir lī mā lā ya`lamūn\n[waj`alnī khayran mimmā yaẓunnūn].",
+        "translations": {
+          "en": "O Allah, do not call me to account for what they say\nand forgive me for what they have no knowledge of\n[and make me better than they imagine]."
+        }
+      },
+      "reference": "Al-Bukhari, Al-'Adabul-Mufrad no. 761. See Al-Albani, Sahih\nAl-'Adabul-Mufrad (no. 585). The portion between brackets if from\nAl-Bayhaqi, Shu'ab Al-Iman 4/228, and comes another account.",
+      "repetitions": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 103,
+  "slug": "prayer-of-the-traveller-as-dawn-approaches",
+  "title": {
+    "arabic": "دعاء المسافر إذا أسحر",
+    "translations": {
+      "en": "Prayer of the traveller as dawn approaches"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_215",
+      "itemNumber": 1,
+      "hisnNumber": 215,
+      "hisnReference": "Hisn al-Muslim 215",
+      "url": "https://sunnah.com/hisn:215",
+      "text": {
+        "arabic": "سَمِـعَ سـامِعٌ بِحَمْـدِ اللهِ وَحُسْـنِ بَلائِـهِ عَلَيْـنا.\nرَبَّنـا صـاحِبْـنا وَأَفْـضِل عَلَيْـنا\nعائِذاً باللهِ مِنَ النّـار",
+        "transliteration": "Sami`a sāmi`un biḥamdillāhi wa ḥusni balā'ihi `alaynā.\nRabbanā ṣāḥibnā, wa afḍil `alaynā,\n`ā'idhan billāhi minan-nār.",
+        "translations": {
+          "en": "He Who listens has heard that we praise Allah for the good things He gives us.\nOur Lord, be with us and bestow Your favor upon us.\nI seek the protection of Allah from the Fire."
+        }
+      },
+      "reference": "Muslim 4/2086, the meaning of sami`a sāmi`un (who listens has heard) is\nthat 'a witness has witnessed our praise of Allah due to His blessings and\nfavor upon us.' It could also be read samma`a sāmi`un, in which case it\nmeans 'one who has heard this statement of mine will convey it to another\nand he will say it as well.' This is due to the attention given to the\nThikr (remembrance of Allah) and supplications made during the early\nmorning hours. The meaning of his saying 'Our Lord, be with us and bestow\nYour favor upon us' is: 'Our Lord, protect us and guard us. Bless us with\nYour numerous bounties, and avert from us every evil.' See An-Nawawi, Sharh\nSahih Muslim 17/39.",
+      "repetitions": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 100,
+  "slug": "supplication-of-the-traveller-for-the-resident",
+  "title": {
+    "arabic": "دعاء المسافر للمقيم",
+    "translations": {
+      "en": "Supplication of the traveller for the resident"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_211",
+      "itemNumber": 1,
+      "hisnNumber": 211,
+      "hisnReference": "Hisn al-Muslim 211",
+      "url": "https://sunnah.com/hisn:211",
+      "text": {
+        "arabic": "أَسْتَـوْدِعُكُـمُ اللَّهَ الَّذي لا تَضـيعُ وَدائِعُـه",
+        "transliteration": "Astawdi`ukumu ‘llāha ‘l-ladhi lā taḍī`u wadā'i`uh.",
+        "translations": {
+          "en": "I place you in the trust of Allah, whose trust is never misplaced."
+        }
+      },
+      "reference": "Ahmad 2/403, Ibn Majah 2/943. See also Al-Albani, Sahih Ibn Majah 2/133.",
+      "repetitions": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 127,
+  "slug": "when-slaughtering-or-offering-a-sacrifice",
+  "title": {
+    "arabic": "ما يقول عند الذبح أو النحر",
+    "translations": {
+      "en": "When slaughtering or offering a sacrifice"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_246",
+      "itemNumber": 1,
+      "hisnNumber": 246,
+      "hisnReference": "Hisn al-Muslim 246",
+      "url": "https://sunnah.com/hisn:246",
+      "text": {
+        "arabic": "بِسْمِ اللَّهِ\nوَاللَّهُ أَكْبَرُ\n[اللَّهُمَّ مِنْكَ وَلَكَ]\nاللَّهُمَّ تَقَبَّلْ مِنِّي",
+        "transliteration": "Bismillāh wallāhu Akbar\n[Allāhumma minka wa lak]\nAllāhumma taqabbal minnī.",
+        "translations": {
+          "en": "With the Name of Allah,\nAllah is the Most Great!\n[O Allah, from You and to You.]\nO Allah, accept it from me."
+        }
+      },
+      "reference": "Muslim 3/ 1557, Al-Bayhaqi 9/287.",
+      "repetitions": 1
+    }
+  ]
+}

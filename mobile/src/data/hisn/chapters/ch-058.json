@@ -1,0 +1,28 @@
+{
+  "chapterNumber": 58,
+  "slug": "placing-the-deceased-in-the-grave",
+  "title": {
+    "arabic": "دعاء عند إدخال الميت القبر",
+    "translations": {
+      "en": "Placing the deceased in the grave"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_163",
+      "itemNumber": 1,
+      "hisnNumber": 163,
+      "hisnReference": "Hisn al-Muslim 163",
+      "url": "https://sunnah.com/hisn:163",
+      "text": {
+        "arabic": "بِسْـمِ اللهِ\nوَعَلـى سُـنَّةِ رَسـولِ الله",
+        "transliteration": "Bismillāh\nwa `alā sunnati Rasūlillāh.",
+        "translations": {
+          "en": "With the Name of Allah,\nand according to the Sunnah of the Messenger of Allah."
+        }
+      },
+      "reference": "Abu Dawud 3/314 with an authentic chain. Ahmad also recorded it with the\nwording: With the Name of Allah, and according to the religion of the\nMessenger of Allah. Its chain is also authentic.",
+      "repetitions": 1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "chapterNumber": 56,
+  "slug": "when-the-deceased-is-a-child-during-the-funeral-prayer",
+  "title": {
+    "arabic": "الدعاء للفرط في الصلاة عليه",
+    "translations": {
+      "en": "When the deceased is a child, during the funeral prayer"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_160",
+      "itemNumber": 1,
+      "hisnNumber": 160,
+      "hisnReference": "Hisn al-Muslim 160",
+      "url": "https://sunnah.com/hisn:160",
+      "text": {
+        "arabic": "\"اللهم أعذه من عذاب القبر \"\nوإن قال:\n\"اللهم اجعله فرطاً وذخراً لوالديه ،\nوشفيعاً مجاباً .\nاللهم ثقل به موازينها\nوأعظم به أجورهما ،\nوألحقهُ بصالح المؤمنين ،\nواجعلهُ في كفالة إبراهيم ،\nوقه برحمتك عذاب الجحيم ،\nوأبدله داراً خيراً من داره ،\nوأهلاً خيراً من أهله ،\nاللهم اغفر لاسلافنا ، وأفراطنا ،\nومن سبقنا بالإيمان \"\nفحسن",
+        "transliteration": "Allāhumma a`idh’hu min `adhābi ‘l-qabr\n[or say:]\nAllāhumma ‘j`alhu faraṭan wa dhukhran liwālidayh,\nwa shafī`an mujāban.\nAllāhumma thaqqil bihi mawāzīnahumā\nwa a`ẓim bihi ujūrahumā,\nwa alḥiqhu biṣāliḥi ‘l-mu'minīn,\nwaj`alhu fī kafālati Ibrāhīm,\nwa qihi biraḥmatika `adhāba ‘l-jaḥīm,\nwa abdilhu dāran khayran min dārih,\nwa ahlan khayran min ahlih,\nAllāhumma’ghfir li aslāfinā wa afrāṭinā\nwa man sabaqanā bil īmān.",
+        "translations": {
+          "en": "O Allah, protect him from the torment of the grave.\n[It is also good to say:]\nO Allah, make him a precursor, a forerunner and a treasure for his parents and an answered intercessor.\nO Allah, make him weigh heavily in their scales (of good) and magnify their reward.\nMake him join the righteous of the believers.\nPlace him in the care of Ibrahim.\nSave him by Your mercy from the torment of Hell.\nGive him a home better than his home,\nand a family better than his family.\nO Allah, forgive those who have gone (i.e. passed away) before us, our children lost (by death), and those who have preceded us in Faith."
+        }
+      },
+      "reference": "Ibn Qudamah, Al-Mughni 3/416 and Ad-Duroosul-Muhimmah li-Aammatil-'Ummah,\npg. 15, by Shaikh 'Abdul-'Aziz bin Baz.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_161",
+      "itemNumber": 2,
+      "hisnNumber": 161,
+      "hisnReference": "Hisn al-Muslim 161",
+      "url": "https://sunnah.com/hisn:161",
+      "text": {
+        "arabic": "اللهُـمِّ اجْعَلْـهُ لَنا فَرَطـاً، وَسَلَـفاً وَأَجْـراً",
+        "transliteration": "Allāhumma’j`alhu lanā faraṭan, wa salafan, wa ajra.",
+        "translations": {
+          "en": "O Allah, make him for us a precursor, a forerunner and a cause of reward."
+        }
+      },
+      "reference": "Al-Hasan (Al-Basri) used to recite Surat Al-Fatihah for a child's funeral and then say this. Al-Bukhari, Kitabul-Jana'iz, p. 65.",
+      "repetitions": 1
+    }
+  ]
+}

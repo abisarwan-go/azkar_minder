@@ -1,0 +1,76 @@
+{
+  "chapterNumber": 35,
+  "slug": "for-one-in-distress",
+  "title": {
+    "arabic": "دعاء الكرب",
+    "translations": {
+      "en": "For one in distress"
+    }
+  },
+  "items": [
+    {
+      "id": "hisn_122",
+      "itemNumber": 1,
+      "hisnNumber": 122,
+      "hisnReference": "Hisn al-Muslim 122",
+      "url": "https://sunnah.com/hisn:122",
+      "text": {
+        "arabic": "لَا إلَهَ إِلَّا اللَّهُ\nالْعَظـيمُ الْحَلِـيمْ،\nلَا إِلَهَ إِلَّا اللَّهُ\nرَبُّ العَـرْشِ العَظِيـمِ،\nلَا إِلَـهَ إِلَّا اللَّهْ\nرَبُّ السَّمَـوّاتِ ورّبُّ الأَرْضِ\nورَبُّ العَرْشِ الكَـريم",
+        "transliteration": "Lā ilāha illallāh\nal-`Aẓīmul-Ḥalīm,\nlā ilāha illallāh\nRabbu ‘l-`Arshi ‘l-'Aẓīm,\nlā ilāha illallāh\nRabbus-samāwāti wa Rabbu ‘l-arḍ\nwa Rabbu ‘l-`Arshi ‘l-Karīm.",
+        "translations": {
+          "en": "There is none worthy of worship but Allah,\nthe Mighty, the Forbearing.\nThere is none worthy of worship but Allah,\nLord of the Magnificent Throne.\nThere is none worthy of worship but Allah,\nLord of the heavens and Lord of the earth,\nand Lord of the Noble Throne."
+        }
+      },
+      "reference": "Al-Bukhari 8/154, Muslim 4/2092",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_123",
+      "itemNumber": 2,
+      "hisnNumber": 123,
+      "hisnReference": "Hisn al-Muslim 123",
+      "url": "https://sunnah.com/hisn:123",
+      "text": {
+        "arabic": "اللّهُـمَّ رَحْمَتَـكَ أَرْجـو\nفَلا تَكِلـني إِلى نَفْـسي طَـرْفَةَ عَـيْن،\nوَأَصْلِـحْ لي شَأْنـي كُلَّـه\nلَا إِلَهَ إِلَّا أنْـت",
+        "transliteration": "Allāhumma raḥmataka arjū\nfalā takilnī ilā nafsī ṭarfata `ayn,\nwa aṣliḥ lī sha'nī kullah,\nlā ilāha illā ant.",
+        "translations": {
+          "en": "O Allah, I hope for Your mercy.\nDo not leave me to myself even for the blinking of an eye (i.e. a moment).\nCorrect all of my affairs for me.\nThere is none worthy of worship but You."
+        }
+      },
+      "reference": "Abu Dawud 4/324, Ahmad 5/42. Al-Albani graded it as good in Sahih Abu Dawud\n3/959.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_124",
+      "itemNumber": 3,
+      "hisnNumber": 124,
+      "hisnReference": "Hisn al-Muslim 124",
+      "url": "https://sunnah.com/hisn:124",
+      "text": {
+        "arabic": "لَا إِلَهَ إِلَّا أنْـت سُـبْحانَكَ إِنِّي كُنْـتُ مِنَ الظّـالِميـن",
+        "transliteration": "Lā ilāha illā anta subḥānaka\ninnī kuntu minaẓ-ẓālimīn.",
+        "translations": {
+          "en": "There is none worthy of worship but You, glory is to You.\nSurely, I was among the wrongdoers."
+        }
+      },
+      "reference": "At-Tirmidhi 5/529. Al-Hakim declared it authentic and Ath-Thahabi agreed\nwith him 1/ 505. See also Al-Albani, Sahih At-Tirmidhi 3/168.",
+      "repetitions": 1
+    },
+    {
+      "id": "hisn_125",
+      "itemNumber": 4,
+      "hisnNumber": 125,
+      "hisnReference": "Hisn al-Muslim 125",
+      "url": "https://sunnah.com/hisn:125",
+      "text": {
+        "arabic": "اللهُ اللهُ رَبِّي لا أُشْـرِكُ بِهِ شَيْـئاً",
+        "transliteration": "Allāh, Allāhu Rabbī lā ushriku bihi shay'a.",
+        "translations": {
+          "en": "Allah, Allah is my Lord. I do not associate anything with Him."
+        }
+      },
+      "reference": "Abu Dawud 2/87. See also Al-Albani, Sahih Ibn Mdjah 2/335.",
+      "repetitions": 1
+    }
+  ]
+}
